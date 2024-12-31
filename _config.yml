@@ -1,8 +1,26 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ENGL 340 Spring 2025
+description: ENGL 340 Spring 2025 at SUNY Geneseo
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://paulschacht.net/engl340
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+favicon_ico: "/assets/favicon.ico"
+color_scheme: custom
+callouts:
+  warning:
+    title: Be Careful
+    color: red
+  tip:
+    title: Tip
+    color: green
+  alt-warning:
+    color: red
+  important:
+    title: Important
+    color: yellow
+  note:
+    title: Note
+    color: yellow
