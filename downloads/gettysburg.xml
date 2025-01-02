@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../src/vmachine.xsl" type="text/xsl" ?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Gettysburg Addresses</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Created by students in ENGL 340 S15 at SUNY Geneseo.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Based on transcriptions from the Gettysburg Foundation and the House Divided Project of Dickinson College.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <front>
+        <div>
+           <listWit>
+            <witness xml:id="bliss">The copy of the Gettysburg Address prepared by Lincoln for Col. Alexander Bliss in March 1864, used here as the base text.</witness>
+              <witness xml:id="nicolay">Named for Lincoln's presidential aid John Nicolay, this copy is usually considered the first draft of address Lincoln delivered on November 19, 1863.</witness>
+              <witness xml:id="hay">Named for Lincoln's presidential aid John Hay, this copy most closely matches the text reported in newspaper accounts of the address that Lincoln delivererd on November 19, 1863, but seems unlikely to be the reading text because it is not folded.</witness>
+              <witness xml:id="bancroft">Copy produced for historian George Bancroft, intended to be sold for a sanitary fair in Baltimore, from early 1864.</witness>
+              <witness xml:id="everett">Copy produced for Sen. Edward Everett (who also spoke at Gettysburg), from February 1864, intended to be sold as a fundraiser for the Metropolitan Sanitary Fair.</witness>
+           </listWit>
+        </div>
+     </front>
+      <body>
+         <p n="1">
+            <s n="1"> 
+               <app>
+                  <lem wit="#bliss">Four score</lem>
+                  <rdg wit="#everett #hay #nicolay">Four score</rdg>
+                  <rdg wit="#bancroft">Fourscore</rdg>
+               </app>
+               and seven years ago our fathers brought forth, 
+               <app>
+                  <lem wit="#bliss">upon</lem>
+                  <rdg wit="#everett #hay #nicolay">upon</rdg>
+                  <rdg wit="#bancroft">on</rdg>
+               </app>
+               this continent, a new nation, conceived in
+               <app>
+                  <lem wit="#bliss">Liberty,</lem>
+                  <rdg wit="#everett #hay">Liberty,</rdg>
+                  <rdg wit="#nicolay #bancroft">liberty,</rdg>
+               </app>
+               and dedicated to the proposition that
+               <app>
+                  <lem wit="#bliss">all men are created equal.</lem>
+                  <rdg wit="#hay #everett #bancroft">all men are created equal.</rdg> 
+                  <rdg wit="#nicolay">"all men are created equal."</rdg>
+               </app>
+            </s>
+            <s n="2">
+               Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived, and so dedicated, can long endure.
+            </s>   
+         </p>
+         <p n="2">
+            <s n="3">
+               We are met
+               <app>
+                  <lem wit="#bliss"> 
+                  </lem>
+                  <rdg wit= "#hay">here</rdg>
+                  <rdg wit="#nicolay #everett #bancroft"></rdg>
+               </app>
+               on a great
+               <app>
+                  <lem wit="#bliss">battle-field
+                  </lem>
+                  <rdg wit="#hay #everett #bancroft">battle-field</rdg>
+                  <rdg wit="#nicolay">battle field
+                  </rdg>
+               </app>
+               of that war.    
+            </s>
+            <s n="4">
+               We
+               <app>
+                  <lem wit="#bliss">have come</lem>
+                  <rdg wit="#nicolay #bancroft #everett">have come</rdg>
+                  <rdg wit="#hay"><del>are met</del><add place="above">have come</add></rdg>
+               </app>
+               to dedicate a portion of
+               <app>
+                  <lem wit="#bliss">that field,</lem>
+                  <rdg wit="#nicolay #hay">it</rdg>
+                  <rdg wit="#everett #bancroft">that field,</rdg>
+               </app>
+               as
+               <app>
+                  <lem wit="#bliss">the</lem>
+                  <rdg wit="#nicolay #bancroft #everett">a</rdg>
+                  <rdg wit="#hay"><del>the</del><add place="above">a</add></rdg>
+               </app>
+               final
+               <app>
+                  <lem wit="#bliss">resting-place</lem>
+                  <rdg wit="#hay #bancroft #everett">resting-place</rdg>
+                  <rdg wit="#nicolay">resting place</rdg>
+               </app>
+               <app>
+                  <lem wit="#bliss">for</lem>
+                  <rdg wit="#nicolay #bancroft #everett">for</rdg>
+                  <rdg wit="#hay"><del>of</del><add place="above">for</add></rdg>
+               </app>
+               those who
+               <app>
+                  <lem wit="#bliss">who here gave their lives,</lem>
+                  <rdg wit="#bancroft #everett">who here gave their lives,</rdg>
+                  <rdg wit="#nicolay">died here</rdg>
+                  <rdg wit="#hay">who here gave their lives</rdg>
+               </app>
+               that that nation might live. 
+            </s>
+            <s n="5">
+               <app>
+                  <lem wit="#bliss">It is altogether fitting and proper that we should do this.</lem>
+                  <rdg wit="#everett #hay #bancroft">It is altogether fitting and proper that we should do this.</rdg>
+                  <rdg wit="#nicolay">This we may, in all propriety do.</rdg>
+               </app>
+            </s>
+         </p>  
+         <p n="3">
+            <s n="6"> 
+               <note type="critical">In the Nicolay copy, this sentence ends the second paragraph of three. In Bancroft and Hay, it begins the third paragraph of three. In Bliss and Everett, it stands alone as the third paragraph of four.</note>
+               <app>
+                  <lem wit="#bliss">But,</lem>
+                  <rdg wit="#bancroft #everett #nicolay">But,</rdg>
+                  <rdg wit="#hay">But</rdg>
+               </app>
+               in a larger
+               <app>
+                  <lem wit="#bliss">sense,</lem>
+                  <rdg wit="#bancroft #everett #nicolay">sense,</rdg>
+                  <rdg wit="#hay">sense</rdg>
+               </app>
+               we can not
+               <app>
+                  <lem wit="#bliss">dedicate,</lem>
+                  <rdg wit="#bancroft #everett">dedicate,</rdg>
+                  <rdg wit="#hay #nicolay">dedicate--</rdg>
+               </app>
+               we can not consecrate--we can not
+               <app>
+                  <lem wit="#bliss">hallow--</lem>
+                  <rdg wit="#bancroft #everett">hallow--</rdg>
+                  <rdg wit="#nicolay">hallow,</rdg>
+                  <rdg wit="#hay">hallow</rdg>
+               </app>
+               this
+               <app>
+                  <lem wit="#bliss">ground.</lem>
+                  <rdg wit="#bancroft #everett #hay">ground.</rdg>
+                  <rdg wit="#nicolay">ground--</rdg>
+               </app>
+            </s>
+            <s n="7">
+               The brave men, living and dead, who struggled here, have
+               <app> 
+                  <lem wit="#bliss">consecrated</lem>
+                  <rdg wit="#bancroft #everett #hay">consecrated</rdg>
+                  <rdg wit="#nicolay">hallowed</rdg>
+               </app>
+               <app>
+                  <lem wit="#bliss">it</lem>
+                  <rdg wit="#bancroft #everett #hay">it</rdg>
+                  <rdg wit="#nicolay">it,</rdg>
+               </app>
+               far above our 
+               <app>
+                  <lem wit="#bliss">poor</lem>
+                  <rdg wit="#bancroft #everett #nicolay">poor</rdg>
+                  <rdg wit="#hay"><add place="above">poor</add></rdg>
+               </app>
+               power to add or detract.
+            </s> 
+            <s n="8">
+               The world will little note, nor long
+               <app>
+                  <lem wit="#bliss">remember</lem>
+                  <rdg wit="#nicolay">remember,</rdg>
+                  <rdg wit="#hay #everett #bancroft">remember</rdg>	
+               </app>
+               what we say 
+               <app>
+                  <lem wit="#bliss">here,</lem>
+                  <rdg wit="#nicolay">here;</rdg>
+                  <rdg wit="#hay #everett #bancroft">here,</rdg>
+               </app> 
+               <app>
+                  <lem wit="#bliss">but it</lem>
+                  <rdg wit="#nicolay">while it</rdg>
+                  <rdg wit="#hay">but</rdg>
+                  <rdg wit="#everett #bancroft">but it</rdg>
+               </app>
+               can never forget what they did here.
+            </s>
+         </p>
+         <p n="4">
+            <s n="9">
+               <note type="critical">This sentence does not appear in the Nicolay copy. In Everett and Bliss, it is the first paragraph of the fourth paragraph. In Bancroft and Hay, it is in the third of three paragraphs.</note>
+             <app>
+                <lem wit="#bliss">It is for us, the living,</lem>
+                <rdg wit="#hay #everett">It is for us, the living,</rdg>
+                <rdg wit="#bancroft">It is for us the living</rdg>
+                <rdg wit="#nicolay"></rdg>
+             </app>
+               <app>
+                  <lem wit="#bliss">rather, to be dedicated here</lem>
+                  <rdg wit="#everett #bancroft">rather, to be dedicated here</rdg>
+                  <rdg wit="#hay">rather to be dedicated here</rdg>
+                  <rdg wit="#nicolay"></rdg>
+               </app> 
+               <app>
+                  <lem wit="#bliss">to the unfinished work</lem>
+                  <rdg wit="#everett #bancroft">to the unfinished work</rdg>
+                  <rdg wit="#hay">to the unfinished <add place="above">work</add></rdg>
+                  <rdg wit="#nicolay"></rdg>
+               </app>  
+               <app>
+                  <lem wit="#bliss">which they who fought here, have</lem>
+                  <rdg wit="#everett #hay">which they who fought here, have,</rdg>
+                  <rdg wit="#bancroft">which they who fought here have</rdg>
+                  <rdg wit="#nicolay"></rdg>
+               </app>    
+               <app>
+                  <lem wit="#bliss">thus far,</lem>
+                  <rdg wit="#everett #hay">thus far,</rdg>
+                  <rdg wit="#bancroft">thus far</rdg>
+                  <rdg wit="#nicolay"></rdg>
+               </app> 
+               <app>
+                  <lem wit="#bliss">so nobly advanced.</lem>
+                  <rdg wit="#everett #bancroft">so nobly advanced.</rdg>
+                  <rdg wit="#hay">so nobly carried on.</rdg>
+                  <rdg wit="#nicolay"></rdg>
+               </app>
+            </s>
+            <s n="10">
+               It is
+               <app>
+                  <lem wit="#bliss">rather for us</lem>
+                  <rdg wit="#everett #hay #bliss">rather for us</rdg>
+                  <rdg wit="#nicolay">for us, the living,</rdg>
+               </app>
+               <app>
+                  <lem wit="#bliss">to be here</lem>
+                  <rdg wit="#nicolay"><del>to stand here</del>we be here</rdg>
+                  <rdg wit="#everett #hay #bancroft">to be here</rdg>
+               </app>
+               dedicated to the great task remaining before
+               <app>
+                  <lem wit="#bliss">us--</lem>
+                  <rdg wit="#hay"><add place="above">us</add>--</rdg>
+                  <rdg wit="#everett #bancroft #nicolay">us--</rdg>
+               </app>
+               <app>
+                  <lem wit="#bliss">that</lem>
+                  <rdg wit="#nicolay">that,</rdg>
+                  <rdg wit="#everett #hay #bancroft">that</rdg>
+               </app>
+               from these honored dead we take increased devotion to
+               <app>
+                  <lem wit="#bliss">that</lem>
+                  <rdg wit="#hay"><del>the</del>that</rdg>
+                  <rdg wit="#everett #bancroft #nicolay">that</rdg>
+               </app>
+               cause for which they
+               <app>
+                  <lem wit="#bliss">here gave</lem>
+                  <rdg wit="#everett #bancroft">here gave</rdg>
+                  <rdg wit="#hay">here gave <del>gave</del></rdg>
+                  <rdg wit="#nicolay">here, gave</rdg>
+               </app>
+               the last full measure of devotion--that we here highly resolve that these dead shall not have died in 
+               <app>
+                  <lem wit="#bliss">vain--</lem>
+                  <rdg wit="#everett #bancoft">vain--</rdg>
+                  <rdg wit="#hay #nicolay">vain;</rdg>
+               </app>
+               that
+               <app>
+                  <lem wit="#bliss">this nation,</lem>
+                  <rdg wit="#nicolay">the nation,</rdg>
+                  <rdg wit="#hay">this nation</rdg>
+                  <rdg wit="#everett #bancroft">this nation,</rdg>
+               </app>
+               <app>
+                  <lem wit="#bliss">under God,</lem>
+                  <rdg wit="#everett #bancroft">under God,</rdg>
+                  <rdg wit="#nicolay #hay"></rdg>
+               </app>
+               shall have a new birth of
+              <app>
+                 <lem wit="#bliss">freedom--</lem>
+                 <rdg wit="#everett">freedom--</rdg>
+                 <rdg wit="#bancroft #hay #nicolay">freedom,</rdg>
+              </app>
+               and that 
+               <app>
+                  <lem wit="#bliss">government</lem>
+                  <rdg wit="#hay">this government</rdg>
+                  <rdg wit="#everett #bancroft #nicolay">government</rdg>
+               </app>
+               <app>
+                  <lem wit="#bliss">of the people, by the people, for the people,</lem>
+                  <rdg wit="#nicolay">of the people by the people for the people,</rdg>
+                  <rdg wit="#everett #hay #bancroft">of the people, by the people, for the people,</rdg>
+               </app>
+               shall not perish from the earth.
+    </s>
+     </p>
+      </body>
+  </text>
+</TEI>
