@@ -22,7 +22,11 @@ At the completion of this module you should
 
 #### Before class
 
-- Read through the pages of the "What is Text?" module. *Be sure to install Visual Studio Code* according to the instructions linked in [Text Editors]({{ site.url }}/text-editors).
+- Read through the pages of the "What is Text?" module. *Be sure to install Visual Studio Code* according to the instructions linked in [Text Editors]({{ site.url }}/text-editors). 
+
+{: .important}
+Mac Users: Be sure to drag the Visual Studio Code application *into your Applications folder* before launching it. If you launch the application from your Downloads folder, it will run, but some features will not work properly. Most important, you'll run into trouble with Step 6 in the installation instructions, where you install the `code` command in your shell PATH.
+
 - Hold off on carrying out the instructions in [Keep a Daily Journal in Markdown]({{ site.url }}/keep-a-daily-journal) until we meet in class.
 
 #### In class

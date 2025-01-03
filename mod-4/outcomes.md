@@ -41,8 +41,6 @@ At the completion of this module you should
 
 ***Class work:*** *In the folder for 2-12, share a journal file for the day (.md extension) containing some notes about the reading in* The Book. *These can be personal reflections or notes on discussion in your group.*
 
-<s>***Due:*** *First blog post.*</s>
-
 ### Friday, February 14
 
 #### Before class

@@ -22,7 +22,7 @@ At the completion of this module you should
 
 - Read *Broad Band*, pp. 53-81.
 - Read [What is the Command Line?]({{ site.url }}/mod-2/what-is-the-command-line), [Types of Commands]({{ site.url }}/mod-2/types-of-commands), and [Getting Started]({{ site.url }}/mod-2/getting-started).
-- If you're a Windows user, follow the instructions in [Types of Commands]({{ site.url }}/mod-2/types-of-commands) to install Git Bash. Take notes on any roadblocks you run into.
+- If you're a Windows user, follow the instructions in [Types of Commands]({{ site.url }}/mod-2/types-of-commands) to install Git Bash. Take notes on any roadblocks you run into. The instructions are for installation on Windows 10, but the process should not differ significantly on Windows 11.
 
 #### In class
 

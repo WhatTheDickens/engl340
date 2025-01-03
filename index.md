@@ -153,6 +153,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 #### Before class
 
 - Read all the pages in the "Meet Your Computer" module and do your best to carry out the instructions. Take notes on anything you weren't able to accomplish.
+- Your computer's graphical user interface (GUI) may differ from what you see in the module's illustrations, depending on the version of your operating system. For example, the illustrations show the location of certain options and settings as they appear in Windows 10, but you may be running Windows 11. Don't give up! See if you can find them anyway. Again, take notes on anything you can't figure out.
 
 #### In class
 
@@ -174,7 +175,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 
 - Read *Broad Band*, pp. 53-81.
 - Read [What is the Command Line?]({{ site.url }}/mod-2/what-is-the-command-line), [Types of Commands]({{ site.url }}/mod-2/types-of-commands), and [Getting Started]({{ site.url }}/mod-2/getting-started).
-- If you're a Windows user, follow the instructions in [Types of Commands]({{ site.url }}/mod-2/types-of-commands) to install Git Bash. Take notes on any roadblocks you run into.
+- If you're a Windows user, follow the instructions in [Types of Commands]({{ site.url }}/mod-2/types-of-commands) to install Git Bash. Take notes on any roadblocks you run into. The instructions are for installation on Windows 10, but the process should not differ significantly on Windows 11.
 
 #### In class
 
@@ -197,6 +198,10 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 #### Before class
 
 - Read through the pages of the "What is Text?" module. *Be sure to install Visual Studio Code* according to the instructions linked in [Text Editors]({{ site.url }}/text-editors).
+
+{: .important}
+Mac Users: Be sure to drag the Visual Studio Code application *into your Applications folder* before launching it. If you launch the application from your Downloads folder, it will run, but some features will not work properly. Most important, you'll run into trouble with Step 6 in the installation instructions, where you install the `code` command in your shell PATH.
+
 - Hold off on carrying out the instructions in [Keep a Daily Journal in Markdown]({{ site.url }}/keep-a-daily-journal) until we meet in class.
 
 #### In class
@@ -249,8 +254,6 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 - We'll prepare for [Douglass Day](https://cdl-geneseo.github.io/douglass-day/).
 
 ***Class work:*** *In the folder for 2-12, share a journal file for the day (.md extension) containing some notes about the reading in* The Book. *These can be personal reflections or notes on discussion in your group.*
-
-<s>***Due:*** *First blog post.*</s>
 
 ### Friday, February 14
 
