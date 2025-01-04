@@ -8,7 +8,7 @@ nav_order: 0
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dNDdjHqn3J0?si=quh4hNEHvsPVK2pu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *Why should we be in such desperate haste to succeed, and in such desperate enterprises? If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away. It is not important that he should mature as soon as an apple-tree or an oak.* &mdash;Henry David Thoreau, *Walden*, "[Conclusion](https://commons.digitalthoreau.org/walden/conclusion/conclusion-10-19)."
-
+<!-- Barbie trailer with song at https://youtu.be/jNoET7IGhcA?si=Y9AAiJl3Ll-PW0A_-->
 ---
 <!-- <img src="assets/cat_alog_3.jpg" alt="a cat sitting in a card catalog drawer" />  
 *Image based on ["Insert Catalog Joke Here"](https://www.flickr.com/photos/klara/7253787934/), by user [Klara](https://www.flickr.com/photos/klara/) on Flickr. License: [CC-BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/).* -->
@@ -272,7 +272,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 #### Before class
 
 - Read *Walden*, "Where I Lived, and What I Lived For."
-- Read the pages in this module.
+- Read the pages in the module "Meet the Walden Manuscript."
 
 #### In class
 
@@ -326,6 +326,8 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ### Friday, February 28
 
+- ???
+
 ### Monday, March 3
 
 #### Before class
@@ -366,6 +368,8 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 *No class meeting: SUNY DLC.*
 
 ### Friday, March 14
+
+- ???
 
 ---
 
@@ -488,6 +492,8 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 *No class: GREAT Day.*
 
 ### Friday, April 25
+
+- Group project work in class
 
 ### Monday, April 28
 

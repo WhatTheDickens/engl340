@@ -39,3 +39,5 @@ At the completion of this module you should
 ***Class work:*** *In your folder for 3-4, share your journal file for the day with notes about how the internet and web evolved. What did you already know about this evolution? What did you learn for the first time? Was there anything you thought you knew that turned out to be wrong? Did you have to modify any knowledge or beliefs in light of what you learned?*
 
 ### Friday, February 28
+
+- ???

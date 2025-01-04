@@ -45,6 +45,8 @@ At the completion of this module you should
 
 ### Friday, April 25
 
+- Group project work in class
+
 ### Monday, April 28
 
 - Group project work in class.

@@ -18,7 +18,7 @@ At the completion of this module you should
 #### Before class
 
 - Read *Walden*, "Where I Lived, and What I Lived For."
-- Read the pages in this module.
+- Read the pages in the module "Meet the Walden Manuscript."
 
 #### In class
 
@@ -33,7 +33,6 @@ At the completion of this module you should
 #### Before class
 
 - Read *Walden*, "Reading," "Sounds," "Solitude."
-- Read the pages in this module.
 
 #### In class
 
