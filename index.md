@@ -7,13 +7,29 @@ nav_order: 0
 # Literature and Literary Study in the Digital Age
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dNDdjHqn3J0?si=quh4hNEHvsPVK2pu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*Why should we be in such desperate haste to succeed, and in such desperate enterprises? If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away. It is not important that he should mature as soon as an apple-tree or an oak.* &mdash;Henry David Thoreau, *Walden*, "[Conclusion](https://commons.digitalthoreau.org/walden/conclusion/conclusion-10-19)."
+
+*You're gonna be nowhere*  
+*The loneliest kind of lonely*  
+*It may be rough goin'*  
+*Just to do your thing's the hardest thing to do*  
+*But you've gotta*  
+*Make your own kind of music*  
+*Sing your own special song*  
+*Make your own kind of music*  
+*Even if nobody else sings along*  
+&mdash;Cynthia Weil and Barry Mann, "[Make Your Own Kind of Music](https://secondhandsongs.com/work/121232/versions)"
+
+*Why should we be in such desperate haste to succeed, and in such desperate enterprises? If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away. It is not important that he should mature as soon as an apple-tree or an oak.* &mdash;Henry David Thoreau, *Walden*, "[Conclusion](https://commons.digitalthoreau.org/walden/conclusion/conclusion-10-19)"
+
 <!-- Barbie trailer with song at https://youtu.be/jNoET7IGhcA?si=Y9AAiJl3Ll-PW0A_-->
+
 ---
 <!-- <img src="assets/cat_alog_3.jpg" alt="a cat sitting in a card catalog drawer" />  
 *Image based on ["Insert Catalog Joke Here"](https://www.flickr.com/photos/klara/7253787934/), by user [Klara](https://www.flickr.com/photos/klara/) on Flickr. License: [CC-BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/).* -->
 
-Welcome to ENGL 340, Spring 2025, *Literature and Literary Study in the Digital Age* at SUNY Geneseo. There's so much to tell you about it! Use the links below to navigate the content on this page.
+<p style="font-size:150%">Welcome to ENGL 340, Spring 2025, <em>Literature and Literary Study in the Digital Age</em> at SUNY Geneseo.</p>
+
+There's so much to tell you about it! Use the links below to navigate the content on this page.
 
 - [What the course is about](#what-the-course-is-about)
 - [Who's teaching the course](#whos-teaching-the-course)
