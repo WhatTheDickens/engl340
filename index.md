@@ -127,6 +127,9 @@ Your final grade in this course will be based on the number of points you earn o
 - **Class work**: You'll earn up to **40** points for in-class work submitted *by the end of each class meeting.* (Typically, 1 point per timely submission.)
 - **Project work**: You'll earn up to **30** points for a group project to which you contribute, with **10** of those points coming from your personal contribution to the project and a final blog post you'll write about your work on it.
 
+{: .important}
+The **class work** you submit by the end of each class&mdash;typically in the form of a plain-text file containing notes you've taken during class&mdash; is an essential component of the course. It's important that you get into the habit of creating this file at the beginning of class and uploading it to the dedicated folder I'll share with you *by the end of each class meeting* where class work is required. Word files, Google docs, and screenshots of files are not acceptable substitutes for plain-text files. (What are plain-text files? Good question! That's explained in the reading, and we'll discuss it in class.)
+
 ## Tools and accounts
 
 In addition to a working laptop computer running an up-to-date version of macOS, Windows, or Linux, you'll need some additional tools and accounts. The modules explain how to obtain the last two of these, so don't rush out in search of them until we've discussed them in class.

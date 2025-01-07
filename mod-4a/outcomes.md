@@ -19,28 +19,34 @@ At the completion of this module, you should
 
 ### Before class
 
-- tba
+- Read ...
 
 ### In class
 
-- tba
+- We'll discuss artificial intelligence.
+
+***Class work:*** *In your folder for 2-17, share a journal file for the day (.md extension) containing ...*
 
 ## Wednesday, February 19
 
 ### Before class
 
-- tba
+- Read ...
 
 ### In class
 
-- tba
+- We'll continue our discussion of artificial intelligence and do some hands-on work with AI.
+
+***Class work:*** *In your folder for 2-19, share a journal file for the day (.md extension) containing ...*
 
 ## Friday, February 21
 
 ### Before class
 
-- tba
+- Read ...
 
 ### In class
 
-- tba
+- We'll do more hands-on work with AI.
+
+***Class work:*** *In your folder for 2-21, share a journal file for the day (.md extension) containing ...*

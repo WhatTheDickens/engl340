@@ -18,9 +18,9 @@ At the completion of this module you should
 
 # Dates and Activities
 
-### Monday, February 3
+## Monday, February 3
 
-#### Before class
+### Before class
 
 - Read through the pages of the "What is Text?" module. *Be sure to install Visual Studio Code* according to the instructions linked in [Text Editors]({{ site.url }}/text-editors). 
 
@@ -29,26 +29,34 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - Hold off on carrying out the instructions in [Keep a Daily Journal in Markdown]({{ site.url }}/keep-a-daily-journal) until we meet in class.
 
-#### In class
+### In class
 
 - We'll make sure everyone has Visual Studio Code installed and working.
 - We'll work on creating a journal script and making sure everyone has a journal workflow.
 - We'll discuss the importance of interoperability as a principle in computing.
 
-***Class work:*** *In the folder for 2-5, share a plain text file with the .md extension in the file name containing notes on today's work in class.*
+***Class work:*** *In your folder for 2-3, share a plain text file with the .md extension in the file name containing your notes on today's work in class.*
 
-### Wednesday, February 5
+## Wednesday, February 5
 
-#### Before class
+### Before class
 
 - Read *Walden*, "Economy," paragraphs 1-70.
 
-#### In class
+### In class
 
-- We'll discuss *Walden* and discuss connections between Thoreau's book and our work with computers.
+- We'll discuss *Walden* and make connections between Thoreau's book and our work with computers.
 
-***Class work:*** *In the folder for 2-7, share your journal script in a file ending with the .sh extension and a journal file for the day, with the .md extension, containing notes.*
+***Class work:*** *In your folder for 2-5, share your journal script in a file ending with the .sh extension and a journal file for the day, with the .md extension, containing notes.*
 
-### Friday, February 7
+## Friday, February 7
 
-***Class work:*** *In the folder for 2-9, share a journal file for the day with notes on your developing command-line skills. In addition, choose a sentence anywhere in paragraphs 1-70 of "Economy" in* Walden *that you find interesting&mdash;either for what it says or how it's written. Select that sentence with your mouse and add a comment about it in the margin.* 
+### Before class
+
+- Practice using markdown syntax.
+
+### In class
+
+- We'll continue discussing *Walden* and practicing markdown.
+
+***Class work:*** *In your folder for 2-7, share a journal file for the day with notes on your developing command-line skills. In addition, choose a sentence anywhere in paragraphs 1-70 of "Economy" in* Walden *that you find interesting&mdash;either for what it says or how it's written. Select that sentence with your mouse and add a comment about it in the margin.* 
