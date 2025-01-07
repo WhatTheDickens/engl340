@@ -24,8 +24,6 @@ nav_order: 0
 <!-- Barbie trailer with song at https://youtu.be/jNoET7IGhcA?si=Y9AAiJl3Ll-PW0A_-->
 
 ---
-<!-- <img src="assets/cat_alog_3.jpg" alt="a cat sitting in a card catalog drawer" />  
-*Image based on ["Insert Catalog Joke Here"](https://www.flickr.com/photos/klara/7253787934/), by user [Klara](https://www.flickr.com/photos/klara/) on Flickr. License: [CC-BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/).* -->
 
 <p style="font-size:150%">Welcome to ENGL 340, Spring 2025, <em>Literature and Literary Study in the Digital Age</em> at SUNY Geneseo.</p>
 
@@ -125,7 +123,7 @@ How will you know if you’ve met the individual outcomes? How will we know if w
 
 Your final grade in this course will be based on the number of points you earn out of a maximum of 100 points. You’ll earn points for the activities listed below. You must complete all assigned work to pass the course.
 
-- **Blog**: You'll earn up to **30** points for two blog posts (15 points each) in which you reflect on your learning in this course. (Due <s>2/19</s> 3/1 and 4/26.) 
+- **Blog**: You'll earn up to **30** points for two blog posts (15 points each) in which you reflect on your learning in this course. (Due dates TBA.) 
 - **Class work**: You'll earn up to **40** points for in-class work submitted *by the end of each class meeting.* (Typically, 1 point per timely submission.)
 - **Project work**: You'll earn up to **30** points for a group project to which you contribute, with **10** of those points coming from your personal contribution to the project and a final blog post you'll write about your work on it.
 
@@ -283,17 +281,35 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In the folder for 2-14, share the letter from the Library of Congress that details your contributions for the day, along with your journal file for the day containing some notes on your experience working with the Douglass correspondence.*
 
-### Monday, February 17
+### Monday, February 17 <!-- Week of AI -->
 
-- AI
+#### Before class
+
+- tba
+
+#### In class
+
+- tba
 
 ### Wednesday, February 19
 
-- AI
+#### Before class
+
+- tba
+
+#### In class
+
+- tba
 
 ### Friday, February 21
 
-- AI
+#### Before class
+
+- tba
+
+#### In class
+
+- tba
 
 ### Monday, February 24
 
