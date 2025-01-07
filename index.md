@@ -39,6 +39,7 @@ There's so much to tell you about it! Use the links below to navigate the conten
 - [What we'll read](#what-well-read)
 - [Requirements and evaluation](#requirements-and-evaluation)
 - [Tools and accounts](#tools-and-accounts)
+- [Artificial intelligence](#artificial-intelligence)
 - [Take care of yourself](#take-care-of-yourself)
 - [Think about others](#think-about-others)
 - [Accessibility services](#accessibility-services)
@@ -139,6 +140,18 @@ In addition to a working laptop computer running an up-to-date version of macOS,
 - The Microsoft Teams app (available to all Geneseo users; the web version of Teams won't suffice)
 - Visual Studio Code, BBEdit, or another plain-text editor with syntax-highlighting (explained in module)
 - Git Bash or WSL for Windows (Windows users only; explained in module)
+
+## Artificial intelligence
+
+AI is the topic of [one of our course modules]({{ site.url }}/mod-4a/overview), where we'll consider what it is, what it's good for, what it's bad at, and a few ways to use it.
+
+In this course, you're welcome to use generative AI tools such as ChatGPT or Microsoft Copilot to help you with tasks such as summarizing content or brainstorming. However, GenAI should never take the place of your own critical thinking or research into others' thinking. If you use AI to complete any assignments for this course, you should indicate how you've done so. Given that GenAI tools don't know fact from fiction and have a tendency to just make stuff up, you'll want to verify the accuracy of any information that you get from GenAI. You're responsible for the factual accuracy of any work you submit.
+
+As we'll have occasion to discuss (and test), GenAI tools can write grammatically, but the writing they produce is typically bland, flat, and generic. I'd rather read *your* thoughts in *your* words, even if they're syntactically imperfect, than McProse.
+
+Make your own kind of music, sing your own special song. Listen for the sound of your own drummer and step to the music that you hear. That's what writing's for.
+
+Finally, you should be aware of (and we'll discuss) the impact that GenAI tools have on the natural and social environment, given the enormous energy resources necessary to run their underlying models and the poorly compensated labor that goes into reducing the toxicity and inaccuracy of their output. How comfortable you are contributing to the environmental and social impact of artificial intelligence is a matter between you and your own conscience.
 
 ## Take care of yourself
 
