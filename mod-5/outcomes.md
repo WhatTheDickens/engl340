@@ -13,17 +13,15 @@ At the completion of this module you should
 
 # Dates and Activities
 
-### Monday, February 24
+## Monday, February 24
 
-#### Before class
+### Before class
 
 - Read *Walden*, "Where I Lived, and What I Lived For."
 - Read the pages in the module "Meet the Walden Manuscript."
 
-#### In class
+### In class
 
 - Visit with Beth Witherell, Editor-in-Chief of [*The Writings of Henry D. Thoreau*](https://thoreau.library.ucsb.edu/).
 
-***Class work:*** *In the folder for 2-21, share your journal file for the day with notes on our visit from Dr. Witherell. In addition, leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about* time *or* place. 
-
-<!-- ***Class work:*** *In the folder for 2-16, share your journal file for the day with notes about anything you've learned today; it can be something you learned in this class or another one or in some context unrelated to your classes.* -->
+***Class work:*** *In your folder for 2-24, share your journal file for the day with notes on our visit from Dr. Witherell. In addition, leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about* time *or* place. *(You can take until our next class to leave your comment on "Where I Lived.")*

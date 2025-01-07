@@ -50,3 +50,9 @@ With the manuscript leaves before him at the library, however, Shanley found tha
 Ronald E. Clapper is quite possibly the only other scholar to deal with the entire *Walden* manuscript; he did so while working at the Huntington in the 1960s on his PhD dissertation at UCLA, "The Development of *Walden*: A Genetic Text" (1967). Clapper was allowed to work with the originals, but by then use was carefully supervised and he would not have been able to rearrange or mark the manuscripts.
 
 The current catalog record notes that the original is now available by special permission only. Those without permission are required to use the library's facsimile reproduction.
+
+## A visual guide to the history of the manuscript
+
+*Click on the three vertical dots in the bottom ribbon to select "Enter Full Screen."*
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXIy3dHLUKArS9w6KxK7RDRvn0FfmWnLmFKMxA1QlXw4iyhXohB946PLTqAsDnFsDjl1hJSDo2YjqS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="472" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
