@@ -34,7 +34,7 @@ There's so much to tell you about it! Use the links below to navigate the conten
 - [What the course is about](#what-the-course-is-about)
 - [Who's teaching the course](#whos-teaching-the-course)
 - [Who the course is for](#who-the-course-is-for)
-- [When we'll meet](#when-well-meet)
+- [When and where we'll meet](#when-and-where-well-meet)
 - [How and when to find me](#how-and-when-to-find-me)
 - [Learning outcomes](#learning-outcomes)
 - [Assessment](#assessment)
@@ -67,7 +67,7 @@ Finally, everyone will need to have a working computer running the software requ
 
 ## When and where we'll meet
 
-- Mondays and Wednesdays, 12:30 pm &ndash; 1:45 pm; Fridays, 1:30 pm &ndash; 1:20 pm, Newton 206
+- Mondays and Wednesdays, 12:30 pm &ndash; 1:45 pm; Fridays, 12:30 pm &ndash; 1:20 pm, Newton 206
 - Final meeting (attendance mandatory) Wednesday, May 14, 12 pm &ndash; 3:20 pm, Newton 206
 
 ## How and when to find me
@@ -285,6 +285,18 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ### Monday, February 17
 
+- AI
+
+### Wednesday, February 19
+
+- AI
+
+### Friday, February 21
+
+- AI
+
+### Monday, February 24
+
 #### Before class
 
 - Read *Walden*, "Where I Lived, and What I Lived For."
@@ -298,7 +310,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 <!-- ***Class work:*** *In the folder for 2-16, share your journal file for the day with notes about anything you've learned today; it can be something you learned in this class or another one or in some context unrelated to your classes.* -->
 
-### Wednesday, February 19
+### Wednesday, February 26
 
 #### Before class
 
@@ -311,11 +323,11 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-26, share your journal file for the day with notes about things you learned and questions you have about TEI. In addition, leave a comment on a passage in* Walden *from one of the chapters assigned for today.* 
 
-### Friday, February 21
+### Friday, February 28
 
-***Class work:*** *In the folder for 2-23, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
+- ???
 
-### Monday, February 24
+### Monday, March 3
 
 #### Before class
 
@@ -327,7 +339,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-28, share your journal file for the day with notes about TEI. In addition, leave a comment in the margin of a passage from* Walden *that's in one of the chapters assigned for today.*
 
-### Wednesday, February 26
+### Wednesday, March 5
 
 #### Before class
 
@@ -340,11 +352,11 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 3-4, share your journal file for the day with notes about how the internet and web evolved. What did you already know about this evolution? What did you learn for the first time? Was there anything you thought you knew that turned out to be wrong? Did you have to modify any knowledge or beliefs in light of what you learned?*
 
-### Friday, February 28
+### Friday, March 7
 
 - ???
 
-### Monday, March 3
+### Monday, March 10
 
 #### Before class
 
@@ -359,33 +371,13 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - ***Due:*** *First blog post.*
 
-### Wednesday, March 5
-
-#### Before class
-
-- Read the rest of the pages in the "Internet and Web" module.
-
-#### In class
-
-- We'll discuss design justice and review what we've learned about HTML and CSS.
-
-***Class work:*** *In your folder for 3-18, share your journal file for the day with notes about well-designed and poorly designed websites you've looked at. Include links to the sites properly formatted in Markdown. Which of the poorly designed websites, if any, raised issues of design justice?*
-
-### Friday, March 7
-
-### Monday, March 10
-
-- ???
-
-***Class work:*** *In your folder for 3-8, share your journal file for the day with notes on HTML and CSS.*
-
 ### Wednesday, March 12
 
 *No class meeting: SUNY DLC.*
 
 ### Friday, March 14
 
-- ???
+- Catch up
 
 ---
 
@@ -397,15 +389,27 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### Before class
 
+- Read the rest of the pages in the "Internet and Web" module.
+
+#### In class
+
+- We'll discuss design justice and review what we've learned about HTML and CSS.
+
+***Class work:*** *In your folder for 3-18, share your journal file for the day with notes about well-designed and poorly designed websites you've looked at. Include links to the sites properly formatted in Markdown. Which of the poorly designed websites, if any, raised issues of design justice?*
+
+### Wednesday, March 26
+
+#### Before class
+
 - Read *The Book*, 111-196.
 
 #### In class
 
 - We'll discuss *The Book* and catch up as needed.
 
-***Class work:*** *In your folder for 3-20, share your journal file for the day with reflections on how reading* The Book *has changed how you look at books.*
+***Class work:*** *In your folder for 3-8, share your journal file for the day with notes on HTML and CSS.*
 
-### Wednesday, March 26
+### Friday, March 28
 
 #### Before class
 
@@ -414,14 +418,6 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 #### In class
 
 - We'll discuss *Walden* and explore images of the *Walden* manuscript.
-
-***Class work:*** *In your folder for 3-25, share your journal file for the day with notes on any thoughts you have about the* Walden *manuscript images. In addition, leave a comment in the margin of any part of* Walden *assigned for today that makes you curious to know more about how that passage might have changed during Thoreau's composition process.*
-
-### Friday, March 28
-
-- Group 3 meeting.
-
-***Class work:*** *In your folder for 3-22, share your journal file for the day with notes and reflections on anything you like.*
 
 ### Monday, March 31
 
@@ -451,9 +447,9 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ### Friday, April 4
 
-- Group 4 meeting.
+- Group 3 meeting.
 
-***Class work:*** *In your folder for 3-29, share your journal file for the day with reflections on your own composition process. How does it compare to what you're seeing of Thoreau's composition process? On a scale from "totally scattershot" to "highly organized and intentional," where would you place your own composition process? If it's anything other than "totally scattershot," what are some of the things you do to make your own process at least somewhat organized and intentional? What role do you think technology has played in the difference between Thoreau's process and your own? Comparing Thoreau's process to your own, what aspects of revision seem to have been relatively untouched by technological change?*
+***Class work:*** *In your folder for 3-22, share your journal file for the day with notes and reflections on anything you like.*
 
 ### Monday, April 7
 
@@ -471,19 +467,17 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - Group project work in class
 
-***Class work:*** *In your folder for 4-10, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-12, share your journal file for the day with notes on the progress of your group project.*
 
 ### Friday, April 11
 
-- Group 5 meeting.
+ Group 4 meeting.
 
-***Class work:*** *In your folder for 4-5, share your journal file for the day with notes on anything you've learned today from this class or any other, or from any experience outside of your classes.*
+***Class work:*** *In your folder for 3-29, share your journal file for the day with reflections on your own composition process. How does it compare to what you're seeing of Thoreau's composition process? On a scale from "totally scattershot" to "highly organized and intentional," where would you place your own composition process? If it's anything other than "totally scattershot," what are some of the things you do to make your own process at least somewhat organized and intentional? What role do you think technology has played in the difference between Thoreau's process and your own? Comparing Thoreau's process to your own, what aspects of revision seem to have been relatively untouched by technological change?*
 
 ### Monday, April 14
 
 - Group project work in class
-
-***Class work:*** *In your folder for 4-10, share your journal file for the day with notes on the progress of your group project.*
 
 ### Wednesday, April 16
 
@@ -492,10 +486,6 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 ***Class work:*** *In your folder for 4-10, share your journal file for the day with notes on the progress of your group project.*
 
 ### Friday, April 18
-
-- Group project work in class
-
-***Class work:*** *In your folder for 4-12, share your journal file for the day with notes on the progress of your group project.*
 
 ### Monday, April 21
 
@@ -542,28 +532,6 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 - Group project work in class.
 
 ***Class work:*** *In your folder for 5-1, share your journal file for the day with notes on the progress of your group project.*
-
-<!--
-
-### Friday, May 7
-
-- Group project work in class.
-
-***Class work:*** *In your folder for 5-3, share your journal file for the day with notes on the progress of your group project.*
-
-### Monday, May 6
-
-- Group project work in class.
-
-***Class work:*** *In your folder for 5-6, share your journal file for the day with notes on the progress of your group project.*
-
-### Wednesday, May 8
-
-- Group project work in class.
-
-***Class work:*** *Sharing a journal file in your folder for 5-8 is optional. If you do share a file, you'll be credited with a bonus point that will offset a previous date when you may have neglected to submit a journal file.*
-
--->
 
 ### Wednesday, May 14, 12 pm &ndash; 3:20 pm
 

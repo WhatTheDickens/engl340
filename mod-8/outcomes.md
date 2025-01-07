@@ -45,27 +45,3 @@ At the completion of this module you should
 - Group 4 meeting.
 
 ***Class work:*** *In your folder for 3-29, share your journal file for the day with reflections on your own composition process. How does it compare to what you're seeing of Thoreau's composition process? On a scale from "totally scattershot" to "highly organized and intentional," where would you place your own composition process? If it's anything other than "totally scattershot," what are some of the things you do to make your own process at least somewhat organized and intentional? What role do you think technology has played in the difference between Thoreau's process and your own? Comparing Thoreau's process to your own, what aspects of revision seem to have been relatively untouched by technological change?*
-
-### Monday, April 7
-
-#### Before class
-
-- Read *Walden*, "Conclusion."
-
-#### In class
-
-- We'll discuss *Walden* and talk about the workflow for your group projects.
-
-***Class work:*** *In your folder for 4-3, share your journal file for the day with reflections on your experience reading* Walden.
-
-### Wednesday, April 9
-
-- Group project work in class
-
-***Class work:*** *In your folder for 4-10, share your journal file for the day with notes on the progress of your group project.*
-
-### Friday, April 11
-
-- Group 5 meeting.
-
-***Class work:*** *In your folder for 4-5, share your journal file for the day with notes on anything you've learned today from this class or any other, or from any experience outside of your classes.*

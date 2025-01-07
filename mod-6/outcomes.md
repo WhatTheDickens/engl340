@@ -13,7 +13,24 @@ At the completion of this module you should
 
 # Dates and Activities
 
-### Monday, February 24
+### Wednesday, February 26
+
+#### Before class
+
+- Read *Walden*, "Reading," "Sounds," "Solitude."
+- Read the pages in the module "Text Encoding."
+
+#### In class
+
+- We'll discuss *Walden* and explore TEI.
+
+***Class work:*** *In your folder for 2-26, share your journal file for the day with notes about things you learned and questions you have about TEI. In addition, leave a comment on a passage in* Walden *from one of the chapters assigned for today.* 
+
+### Friday, February 28
+
+***Class work:*** *In the folder for 2-23, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
+
+### Monday, March 3
 
 #### Before class
 
@@ -24,20 +41,3 @@ At the completion of this module you should
 - We'll discuss *Walden* and continue exploring TEI.
 
 ***Class work:*** *In your folder for 2-28, share your journal file for the day with notes about TEI. In addition, leave a comment in the margin of a passage from* Walden *that's in one of the chapters assigned for today.*
-
-### Wednesday, February 26
-
-#### Before class
-
-- Read [The Internet is Not the Web]({{ site.url}}/mod-7/the-internet-is-not-the-web), [What is the Web?]({{ site.url}}/mod-7/what-is-the-web), and [HTTP and URL]({{ site.url}}/mod-7/http-and-url).
-- Read *Broad Band*, 81-130.
-
-#### In class
-
-- We'll discuss *Broad Band* and 🏄 the web.
-
-***Class work:*** *In your folder for 3-4, share your journal file for the day with notes about how the internet and web evolved. What did you already know about this evolution? What did you learn for the first time? Was there anything you thought you knew that turned out to be wrong? Did you have to modify any knowledge or beliefs in light of what you learned?*
-
-### Friday, February 28
-
-- ???

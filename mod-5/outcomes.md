@@ -13,7 +13,7 @@ At the completion of this module you should
 
 # Dates and Activities
 
-### Monday, February 17
+### Monday, February 24
 
 #### Before class
 
@@ -27,19 +27,3 @@ At the completion of this module you should
 ***Class work:*** *In the folder for 2-21, share your journal file for the day with notes on our visit from Dr. Witherell. In addition, leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about* time *or* place. 
 
 <!-- ***Class work:*** *In the folder for 2-16, share your journal file for the day with notes about anything you've learned today; it can be something you learned in this class or another one or in some context unrelated to your classes.* -->
-
-### Wednesday, February 19
-
-#### Before class
-
-- Read *Walden*, "Reading," "Sounds," "Solitude."
-
-#### In class
-
-- We'll discuss *Walden* and explore TEI.
-
-***Class work:*** *In your folder for 2-26, share your journal file for the day with notes about things you learned and questions you have about TEI. In addition, leave a comment on a passage in* Walden *from one of the chapters assigned for today.* 
-
-### Friday, February 21
-
-***Class work:*** *In the folder for 2-23, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*

@@ -15,6 +15,30 @@ At the completion of this module you should
 
 # Dates and Activities
 
+### Monday, April 7
+
+#### Before class
+
+- Read *Walden*, "Conclusion."
+
+#### In class
+
+- We'll discuss *Walden* and talk about the workflow for your group projects.
+
+***Class work:*** *In your folder for 4-3, share your journal file for the day with reflections on your experience reading* Walden.
+
+### Wednesday, April 9
+
+- Group project work in class
+
+***Class work:*** *In your folder for 4-10, share your journal file for the day with notes on the progress of your group project.*
+
+### Friday, April 11
+
+- Group 5 meeting.
+
+***Class work:*** *In your folder for 4-5, share your journal file for the day with notes on anything you've learned today from this class or any other, or from any experience outside of your classes.*
+
 ### Monday, April 14
 
 - Group project work in class
