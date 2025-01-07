@@ -32,18 +32,21 @@ At the completion of this module you should
 
 ### Friday, March 7
 
-- ???
-
-## Monday, March 10
-
 ### Before class
 
 - Read [HTML Basics]({{ site.url}}/mod-7/html-basics), [CSS Basics]({{ site.url}}/mod-7/css-basics), and [CSS Syntax]({{ site.url}}/mod-7/css-syntax).
+
+### In class
+
+- We'll play with HTML and CSS.
+
+## Monday, March 10
+
 - Read *Broad Band*, 153-174.
 
 ### In class
 
-- We'll discuss *Broad Band* and play with HTML and CSS.
+- We'll discuss *Broad Band* and continue to play with HTML and CSS.
 
 - ***Class work:*** *In your folder for 3-6, share your journal file for the day with notes on HTML and CSS.*
 
