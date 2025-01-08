@@ -14,7 +14,7 @@ At the completion of this module you should
 
 # Date and Activities
 
-### Wednesday, May 14, 12 pm &ndash; 3:20 pm
+## Wednesday, May 14, 12 pm &ndash; 3:20 pm
 
 ### Before class
 

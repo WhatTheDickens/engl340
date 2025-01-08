@@ -7,7 +7,7 @@ nav_order: 2
 
 # Second Blog Assignment
 
-## Due: April 26
+## Due: 
 
 - [Some context for this assignment](#some-context-for-this-assignment)
 - [What you'll do for this assignment](#what-youll-do-for-this-assignment)

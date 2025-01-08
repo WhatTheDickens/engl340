@@ -15,90 +15,90 @@ At the completion of this module you should
 
 # Dates and Activities
 
-### Monday, April 7
+## Monday, April 7
 
-#### Before class
+### Before class
 
 - Read *Walden*, "Conclusion."
 
-#### In class
+### In class
 
 - We'll discuss *Walden* and talk about the workflow for your group projects.
 
-***Class work:*** *In your folder for 4-3, share your journal file for the day with reflections on your experience reading* Walden.
+***Class work:*** *In your folder for 4-7, share your journal file for the day with reflections on your experience reading* Walden.
 
-### Wednesday, April 9
+## Wednesday, April 9
 
 - Group project work in class
 
-***Class work:*** *In your folder for 4-10, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-9, share your journal file for the day with notes on the progress of your group project.*
 
-### Friday, April 11
+## Friday, April 11
 
 - Group 5 meeting.
 
-***Class work:*** *In your folder for 4-5, share your journal file for the day with notes on anything you've learned today from this class or any other, or from any experience outside of your classes.*
+***Class work:*** *In your folder for 4-11, share your journal file for the day with notes on anything you've learned today from this class or any other, or from any experience outside of your classes.*
 
-### Monday, April 14
-
-- Group project work in class
-
-***Class work:*** *In your folder for 4-10, share your journal file for the day with notes on the progress of your group project.*
-
-### Wednesday, April 16
+## Monday, April 14
 
 - Group project work in class
 
-***Class work:*** *In your folder for 4-10, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-14, share your journal file for the day with notes on the progress of your group project.*
 
-### Friday, April 18
-
-- Group project work in class
-
-***Class work:*** *In your folder for 4-12, share your journal file for the day with notes on the progress of your group project.*
-
-### Monday, April 21
+## Wednesday, April 16
 
 - Group project work in class
 
-***Class work:*** *In your folder for 4-15, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-16, share your journal file for the day with notes on the progress of your group project.*
 
-### Wednesday, April 23
+## Friday, April 18
+
+- Group project work in class
+
+***Class work:*** *In your folder for 4-18, share your journal file for the day with notes on the progress of your group project.*
+
+## Monday, April 21
+
+- Group project work in class
+
+***Class work:*** *In your folder for 4-21, share your journal file for the day with notes on the progress of your group project.*
+
+## Wednesday, April 23
 
 *No class: GREAT Day.*
 
-### Friday, April 25
+## Friday, April 25
 
 - Group project work in class
 
-### Monday, April 28
+## Monday, April 28
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 4-22, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-28, share your journal file for the day with notes on the progress of your group project.*
 
-### Wednesday, April 30
+## Wednesday, April 30
 
 - No class meeting: GREAT Day.
 
 ***No class work due.***
 
-### Friday, May 2
+## Friday, May 2
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 4-26, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 5-2, share your journal file for the day with notes on the progress of your group project.*
 
 ***Due:*** *Second blog post.*
 
-### Monday, May 5
+## Monday, May 5
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 4-29, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 5-5, share your journal file for the day with notes on the progress of your group project.*
 
-### Wednesday, May 7
+## Wednesday, May 7
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 5-1, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 5-7, share your journal file for the day with notes on the progress of your group project.*

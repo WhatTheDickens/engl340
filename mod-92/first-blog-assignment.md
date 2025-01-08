@@ -7,7 +7,7 @@ nav_order: 1
 
 # First Blog Assignment
 
-## Due: March 1
+## Due: 
 
 - [What you'll do for this assignment](#what-youll-do-for-this-assignment)
 - [How you'll do it](#how-youll-do-it)
