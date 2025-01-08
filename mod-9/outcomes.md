@@ -29,37 +29,37 @@ At the completion of this module you should
 
 ## Wednesday, April 9
 
-- Group project work in class
+- Group project work in class.
 
 ***Class work:*** *In your folder for 4-9, share your journal file for the day with notes on the progress of your group project.*
 
 ## Friday, April 11
 
-- Group 5 meeting.
+- Group project work in class.
 
 ***Class work:*** *In your folder for 4-11, share your journal file for the day with notes on anything you've learned today from this class or any other, or from any experience outside of your classes.*
 
 ## Monday, April 14
 
-- Group project work in class
+- Group project work in class.
 
 ***Class work:*** *In your folder for 4-14, share your journal file for the day with notes on the progress of your group project.*
 
 ## Wednesday, April 16
 
-- Group project work in class
+- Group project work in class.
 
 ***Class work:*** *In your folder for 4-16, share your journal file for the day with notes on the progress of your group project.*
 
 ## Friday, April 18
 
-- Group project work in class
+- Group project work in class..
 
 ***Class work:*** *In your folder for 4-18, share your journal file for the day with notes on the progress of your group project.*
 
 ## Monday, April 21
 
-- Group project work in class
+- Group project work in class.
 
 ***Class work:*** *In your folder for 4-21, share your journal file for the day with notes on the progress of your group project.*
 
@@ -69,7 +69,7 @@ At the completion of this module you should
 
 ## Friday, April 25
 
-- Group project work in class
+- Group project work in class.
 
 ## Monday, April 28
 
