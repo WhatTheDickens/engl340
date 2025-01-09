@@ -19,12 +19,13 @@ At the completion of this module you should
 
 - Read *Walden*, "Reading," "Sounds," "Solitude."
 - Read the pages in the module "Text Encoding."
+- Leave a comment on a passage in *Walden* from one of the chapters assigned for 2/26.
 
 ### In class
 
 - We'll discuss *Walden* and explore TEI.
 
-***Class work:*** *In your folder for 2-26, share your journal file for the day with notes about things you learned and questions you have about TEI. In addition, leave a comment on a passage in* Walden *from one of the chapters assigned for today.*
+***Class work:*** *In your folder for 2-26, share your journal file for the day with notes about things you learned and questions you have about TEI.*
 
 ## Friday, February 28
 
@@ -43,9 +44,10 @@ At the completion of this module you should
 ### Before class
 
 - Read *Walden*, "Visitors," "The Bean-Field," "The Village."
+- Leave a comment in the margin of a passage from *Walden* that's in one of the chapters assigned for 3/3.
 
 ### In class
 
 - We'll discuss *Walden* and continue exploring TEI.
 
-***Class work:*** *In your folder for 3-3, share your journal file for the day with notes about TEI. In addition, leave a comment in the margin of a passage from* Walden *that's in one of the chapters assigned for today.*
+***Class work:*** *In your folder for 3-3, share your journal file for the day with notes about TEI.*

@@ -16,26 +16,30 @@ At the completion of this module you should
 
 # Dates and Activities
 
-### Wednesday, January 29
+## Wednesday, January 29
 
-#### Before class
+### Before class
 
 - Read *Broad Band*, pp. 53-81.
 - Read [What is the Command Line?]({{ site.url }}/mod-2/what-is-the-command-line), [Types of Commands]({{ site.url }}/mod-2/types-of-commands), and [Getting Started]({{ site.url }}/mod-2/getting-started).
 - If you're a Windows user, follow the instructions in [Types of Commands]({{ site.url }}/mod-2/types-of-commands) to install Git Bash. Take notes on any roadblocks you run into. The instructions are for installation on Windows 10, but the process should not differ significantly on Windows 11.
 
-#### In class
+### In class
 
 - We'll discuss *Broad Band*.
 - We'll get ourselves accustomed to the terminal.
 
-### Friday, January 31
+***Class work:*** *In your folder for 1/29, upload a screenshot of your terminal window.*
 
-#### Before class
+## Friday, January 31
+
+### Before class
 
 - Practice your command line skills. Try out some of the activities in the rest of this module if you're feeling bold.
 - Take notes on any roadblocks you run into and questions that come up for you.
 
-#### In class
+### In class
 
 - We'll have fun at the command line.
+
+***Class work:*** *In your folder for 1/31, find the file `notes_for_2025-01-31.docx` and add some notes from today's class.*

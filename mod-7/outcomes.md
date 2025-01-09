@@ -89,12 +89,13 @@ At the completion of this module you should
 ### Before class
 
 - Read *Walden*, "The Ponds," "Baker Farm," "Higher Laws."
+- Leave a comment in the margin of any part of *Walden* assigned for 3/26 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
 
 ### In class
 
 - We'll discuss *Walden* and explore images of the *Walden* manuscript.
 
-***Class work:*** *In your folder for 3-26, share your journal file for the day with notes on any thoughts you have about the* Walden *manuscript images. In addition, leave a comment in the margin of any part of* Walden *assigned for today that makes you curious to know more about how that passage might have changed during Thoreau's composition process.*
+***Class work:*** *In your folder for 3-26, share your journal file for the day with notes on any thoughts you have about the* Walden *manuscript images.*
 
 ## Friday, March 28
 

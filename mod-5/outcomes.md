@@ -19,9 +19,10 @@ At the completion of this module you should
 
 - Read *Walden*, "Where I Lived, and What I Lived For."
 - Read the pages in the module "Meet the Walden Manuscript."
+- Leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about* time *or* place. *(You can take until our next class to leave your comment on "Where I Lived.")
 
 ### In class
 
 - Visit with Beth Witherell, Editor-in-Chief of [*The Writings of Henry D. Thoreau*](https://thoreau.library.ucsb.edu/).
 
-***Class work:*** *In your folder for 2-24, share your journal file for the day with notes on our visit from Dr. Witherell. In addition, leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about* time *or* place. *(You can take until our next class to leave your comment on "Where I Lived.")*
+***Class work:*** *In your folder for 2-24, share your journal file for the day with notes on our visit from Dr. Witherell.*

@@ -20,12 +20,13 @@ At the completion of this module you should
 
 - Read *Walden*, "Brute Neighbors," "House-Warming," and "Former Inhabitants; and Winter Visitors."
 - Review [Attributes, Links, Images]({{ site.url }}/mod-7/attributes-links-images) in the "Internet and Web" module.
+- As you did for our 3/26 meeting, leave a comment in the margin of any part of *Walden* assigned for to3/31 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
 
 ### In class
 
 - We'll discuss *Walden* and play with incorporating images into web pages.
 
-***Class work:*** *In your folder for 3-31, share your journal file for the day with notes on incorporating images into web pages. In addition, just as you did on 3-26, leave a comment in the margin of any part of* Walden *assigned for today that makes you curious to know more about how that passage might have changed during Thoreau's composition process.*
+***Class work:*** *In your folder for 3-31, share your journal file for the day with notes on incorporating images into web pages.*
 
 ## Wednesday, April 2
 
@@ -33,12 +34,13 @@ At the completion of this module you should
 
 - Read *Walden*, "Winter Animals," "The Pond in Winter," "Spring."
 - Read [IIIF images]({{ site.url }}/mod-8/iiif-images).
+- In the one of the chaptets of *Walden* assigned for 4/2, leave a comment in the margin of any description of nature that resonates with your own experience of nature&mdash;for example, any description that makes you think, "I've heard that!" or "I've seen that!" or "I know what he's talking about but I never thought about it that way!"
 
 ### In class
 
 - We'll discuss *Walden* and play with IIIF images.
 
-***Class work:*** *In your folder for 4-2, share your journal file for the day with notes on working with IIIF images. In addition, in the part of* Walden *assigned for today, leave a comment in the margin of any description of nature that resonates with your own experience of nature&mdash;for example, any description that makes you think, "I've heard that!" or "I've seen that!" or "I know what he's talking about but I never thought about it that way!"*
+***Class work:*** *In your folder for 4-2, share your journal file for the day with notes on working with IIIF images.*
 
 ## Friday, April 4
 
