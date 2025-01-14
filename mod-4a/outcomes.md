@@ -50,3 +50,7 @@ At the completion of this module, you should
 - We'll do more hands-on work with AI.
 
 ***Class work:*** *In your folder for 2-21, share a journal file for the day (.md extension) containing ...*
+
+
+<!-- maybe something by Bender, NYT piece by Cal Newport, Underwod blog -->
+<!-- noe, whittaker on cost of capture, schneier on trust, -->
