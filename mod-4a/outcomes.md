@@ -19,38 +19,40 @@ At the completion of this module, you should
 
 ### Before class
 
-- Read ...
+- Read [What is Artificial Intelligence]({{ site.url }}/what-is-ai) (and watch the videos on that page).
+- Read Cal Newport, ["What Kind of Writer is ChatGPT?"](https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt).
+- Reply to one of the GenAI comments in *Walden*, comparing the AI rewrite of Thoreau with the original.
 
 ### In class
 
 - We'll discuss artificial intelligence.
 
-***Class work:*** *In your folder for 2-17, share a journal file for the day (.md extension) containing ...*
+***Class work:*** *In your folder for 2-17, share a journal file for the day (.md extension) containing your notes from the day's discussion.*
 
 ## Wednesday, February 19
 
 ### Before class
 
-- Read ...
+- Read [Deep Learning and Neural Networks]({{ site.url }}/deep-learning-neural-networks).
+- Read Alva Noë, ["Rage Against the Machine"](https://aeon.co/essays/can-computers-think-no-they-cant-actually-do-anything)
+- Read, Ted Underwood, ["Liberally-educated students need to be more than consumers of AI"](https://tedunderwood.com/2023/09/10/liberally-educated-students-need-to-be-more-than-consumers-of-ai/)
 
 ### In class
 
 - We'll continue our discussion of artificial intelligence and do some hands-on work with AI.
 
-***Class work:*** *In your folder for 2-19, share a journal file for the day (.md extension) containing ...*
+***Class work:*** *In your folder for 2-19, share a journal file for the day (.md extension) containing your notes from the day's discussion.*
 
 ## Friday, February 21
 
 ### Before class
 
-- Read ...
+- Read [Why AI is Controversial]({{ site.url }}/why-ai-is-controversial).
+- Read Schneier and Sanders, ["Can You Trust AI? Here's Why You Shouldn't"](https://theconversation.com/can-you-trust-ai-heres-why-you-shouldnt-209283)
+- Read Whittaker, ["The Steep Cost of Capture"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135581) (download the pdf or open it in your browser). 
 
 ### In class
 
-- We'll do more hands-on work with AI.
+- We'll continue our discussion and do more hands-on work with AI.
 
-***Class work:*** *In your folder for 2-21, share a journal file for the day (.md extension) containing ...*
-
-
-<!-- maybe something by Bender, NYT piece by Cal Newport, Underwod blog -->
-<!-- noe, whittaker on cost of capture, schneier on trust, -->
+***Class work:*** *In your folder for 2-21, share a journal file for the day (.md extension) containing your notes from the day's discussion and hands-on work.*

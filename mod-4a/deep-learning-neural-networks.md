@@ -14,14 +14,3 @@ We need to keep those quotation marks around the word *learns* because this mode
 The second video in William J.B. Mattingly's series explains a core tool of artificial intelligence named for the human anatomical feature it's designed to emulate: the *neural network*. Again, keep in mind that the structure and behavior of the neural networks used in computing is not the same as the structure and behavior of the actual networked neurons in the human brain.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G0hvxnb7hHM?si=fiEeF3BuQVNb0853" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<!-- teach, understand, recognize
-
-- distinguish between algorthims and machine learning
-- distinguish between human intelligence and machine intelligence
-- include ref to alva noe article
-- distinguish between supervised and unsupervised learning
-- use humans-in-loop 60 minutes video in module on ethical considerations, along with ref to tech won't save us podcast
-- in later module include link to zotero library and to openlab genai at geneseo site
-
--->
