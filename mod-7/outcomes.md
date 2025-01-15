@@ -42,6 +42,8 @@ At the completion of this module you should
 
 ## Monday, March 10
 
+### Before class
+
 - Read *Broad Band*, 153-174.
 
 ### In class

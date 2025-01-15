@@ -44,6 +44,12 @@ At the completion of this module you should
 
 ## Friday, April 4
 
+### Before class
+
+- No additional reading.
+
+### In class
+
 - We'll continue working with IIIF images.
 
 ***Class work:*** *In your folder for 4-4, share your journal file for the day with reflections on your own composition process. How does it compare to what you're seeing of Thoreau's composition process? On a scale from "totally scattershot" to "highly organized and intentional," where would you place your own composition process? If it's anything other than "totally scattershot," what are some of the things you do to make your own process at least somewhat organized and intentional? What role do you think technology has played in the difference between Thoreau's process and your own? Comparing Thoreau's process to your own, what aspects of revision seem to have been relatively untouched by technological change?*
