@@ -7,7 +7,7 @@ nav_order: 2
 
 # Second Blog Assignment
 
-## Due: 
+## Due: April 14 by 11:59 p.m.
 
 - [Some context for this assignment](#some-context-for-this-assignment)
 - [What you'll do for this assignment](#what-youll-do-for-this-assignment)
@@ -37,7 +37,9 @@ As with the [first blog post assignment]({{ site.url }}/mod-92/first-blog-assign
 
 When you're happy with what you've written, log into the site, go to the group's blog, [Digital Humanities at Geneseo](https://dh.sunygeneseoenglish.org/), click `+New` in the black ribbon at the top of the site, select `Post`, and paste your post content from VS Code into the editor there. The editor understands Markdown! Use the `Preview` button in the post editor to see how your post will look when published.
 
-Be sure that you've given your post an appropriate, descriptive, engaging title (not something generic, such as "Blog Post #2"), and that neither the title nor the date is included in the body of your post,
+Be sure that you've given your post an appropriate, descriptive, engaging title (not something generic, such as "Blog Post #2"), and that neither the title nor the date is included in the body of your post.
+
+As with the first blog post, document any use you make of GenAI right in the post.
 
 When you're ready to submit your post, click `Publish`.
 
@@ -51,6 +53,7 @@ In your blog post, did you &hellip;
 | write *as yourself*, authentically, but in the spirit of Thoreau's nature writing? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | use care in the composition of your post? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | format your post appropriately using Markdown? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| document any use you made of GenAI? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | include media (e.g., a photo or embedded audio/video) of what you observed? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | give your post an appropriate, descriptive, engaging title? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | keep the title and date out of the body of your post? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |

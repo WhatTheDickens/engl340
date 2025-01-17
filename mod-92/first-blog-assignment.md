@@ -7,7 +7,7 @@ nav_order: 1
 
 # First Blog Assignment
 
-## Due: 
+## Due: March 10 by 11:59 p.m.
 
 - [What you'll do for this assignment](#what-youll-do-for-this-assignment)
 - [How you'll do it](#how-youll-do-it)
@@ -19,8 +19,8 @@ Write a few paragraphs (about 500 words, but don't get hung up on numbers) in wh
 
 1. Look inside yourself. Ask yourself how you've changed or grown.
 2. Be concrete. Give specific examples of new knowledge or skills and why they matter to you.
-3. *Use your own words*. As we discussed the first week of class, generative AI definitely has its uses. Writing this post isn't one of them. You won't be evaluated based on things like subject-verb agreement or comma splices. Hopefully that takes some pressure off. You'll be evaluated on whether you've followed these instructions and made a genuine effort to be reflective.
-4. Show *care* in your writing. Care is different from grammatical correctness or correct punctuation. Careful writing reads like time and thought went into it, not like it was tossed together in a hurry. Careful writing doesn't feel generic. It carries the mark of the writer's individuality. Sometimes that means it flows less smoothly than writing produced by an algorithm. Individuals have bumps and warts. They take risks. Bumps, warts, and risk-taking make writing enjoyable and interesting to read, because they convey the humanity of the writer.
+3. If you use generative AI to help you complete this assignment, include in your post a description of just how you did so. Was it to outline? Brainstorm? Organize your thoughts? Improve grammar/punctuation/usage/flow? Which GenAI tool(s) did you use? If you used GenAI to "clean up" your prose, give at least one before-and-after example of how GenAI improved one of your sentences.
+4. Show *care* in your writing. Care is different from grammatical correctness or correct punctuation. Careful writing reads like time and thought went into it, not like it was tossed together in a hurry. In addition, careful writing doesn't feel generic. It carries the mark of the writer's individuality Individuals have bumps and warts. They take risks. Bumps, warts, and risk-taking make writing enjoyable and interesting to read, because they convey the humanity of the writer.
 5. Remember that your post will appear on a public-facing blog, where anyone in the world who finds it can read it.
 
 There are a couple of things you should be sure *not* to do:
@@ -59,6 +59,7 @@ In your blog post, did you &hellip;
 | explain why the skills or knowledge are important to you? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | address yourself to one or more of the assignment questions meant to prompt your thinking? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | write authentically, in your own voice, using your own words, about your learning? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| document any use you made of GenAI? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | write about how the *course* has changed *you* (if it has), avoiding any direct mention of *me*, the instructor? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | use care in the composition of your post? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | format your post appropriately using Markdown? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |

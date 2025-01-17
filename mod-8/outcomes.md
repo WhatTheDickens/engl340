@@ -20,7 +20,7 @@ At the completion of this module you should
 
 - Read *Walden*, "Brute Neighbors," "House-Warming," and "Former Inhabitants; and Winter Visitors."
 - Review [Attributes, Links, Images]({{ site.url }}/mod-7/attributes-links-images) in the "Internet and Web" module.
-- As you did for our 3/26 meeting, leave a comment in the margin of any part of *Walden* assigned for to3/31 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
+- As you did for our 3/26 meeting, leave a comment in the margin of any part of *Walden* assigned for 3/31 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
 
 ### In class
 

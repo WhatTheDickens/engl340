@@ -45,6 +45,8 @@ At the completion of this module you should
 
 ***Class work:*** *In your folder for 4-14, share your journal file for the day with notes on the progress of your group project.*
 
+- ***Due:*** *Second blog post.*
+
 ## Wednesday, April 16
 
 - Group project work in class.

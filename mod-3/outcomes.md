@@ -42,7 +42,8 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 ### Before class
 
 - Read *Walden*, "Economy," paragraphs 1-70.
-- Choose a sentence anywhere in paragraphs 1-70 of "Economy" in* Walden *that you find interesting&mdash;either for what it says or how it's written. Select that sentence with your mouse and add a comment about it in the margin.
+- Read Rebecca Solnit, "[Mysteries of Thoreau, Unsolved](https://drive.google.com/file/d/17T5Hq3lxrkQBDzBJJOmfer6F6FIpkuec/view?usp=sharing)".
+- Choose a sentence anywhere in paragraphs 1-70 of "Economy" in *Walden* that you find interesting&mdash;either for what it says or how it's written. Select that sentence with your mouse and add a comment about it in the margin.
 
 ### In class
 
@@ -54,10 +55,10 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ### Before class
 
-- Practice using markdown syntax.
+- Practice using Markdown syntax.
 
 ### In class
 
-- We'll continue discussing *Walden* and practicing markdown.
+- We'll continue discussing *Walden* and practicing Markdown.
 
 ***Class work:*** *In your folder for 2-7, share a journal file for the day with notes on your developing command-line skills.* 

@@ -129,7 +129,7 @@ Your final grade in this course will be based on the number of points you earn o
 - **Project work**: You'll earn up to **30** points for a group project to which you contribute, with **10** of those points coming from your personal contribution to the project and a final blog post you'll write about your work on it.
 
 {: .important}
-The **class work** you submit by the end of each class&mdash;typically in the form of a plain-text file containing notes you've taken during class&mdash; is an essential component of the course. It's important that you get into the habit of creating this file at the beginning of class and uploading it to the dedicated folder I'll share with you *by the end of each class meeting* where class work is required. Word files, Google docs, and screenshots of files are not acceptable substitutes for plain-text files. (What are plain-text files? Good question! That's explained in the reading, and we'll discuss it in class.) Once we've covered the syntax for markdown in class, journal files will receive full credit only if properly formatted in markdown. (What's markdown? You'll soon find that out.)
+The **class work** you submit by the end of each class&mdash;typically in the form of a plain-text file containing notes you've taken during class&mdash; is an essential component of the course. It's important that you get into the habit of creating this file at the beginning of each class meeting and, on days when class work is required, uploading the file *by the end of the class meeting* to the dedicated folder I'll share with you. From February 3 onwards, *Word files, Google docs, and screenshots of files will not be acceptable substitutes for plain-text files*. (What are plain-text files? Good question! That's explained in the reading, and we'll discuss it in class.) Once we've covered the syntax for markdown in class, journal files will receive full credit only if properly formatted in Markdown. (What's Markdown? You'll soon find that out.)
 
 ## Tools and accounts
 
@@ -145,7 +145,7 @@ In addition to a working laptop computer running an up-to-date version of macOS,
 
 AI is the topic of [one of our course modules]({{ site.url }}/mod-4a/overview), where we'll consider what it is, what it's good for, what it's bad at, and a few ways to use it.
 
-In this course, you're welcome to use generative AI tools such as ChatGPT or Microsoft Copilot to help you with tasks such as summarizing content or brainstorming. However, GenAI should never take the place of your own critical thinking or research into others' thinking. If you use AI to complete any assignments for this course, you should indicate how you've done so. Given that GenAI tools don't know fact from fiction and have a tendency to just make stuff up, you'll want to verify the accuracy of any information that you get from GenAI. You're responsible for the factual accuracy of any work you submit.
+In this course, you're welcome to use generative AI tools such as ChatGPT or Microsoft Copilot to help you with tasks such as summarizing content or brainstorming. However, GenAI should never take the place of your own critical thinking or research into others' thinking. If you use AI to complete any assignments for this course, you should indicate how you've done so. Given that GenAI tools don't know fact from falsehood and have a tendency to just make stuff up, you'll want to verify the accuracy of any information that you get from GenAI. You're responsible for the factual accuracy of any work you submit.
 
 As we'll have occasion to discuss (and test), GenAI tools can write grammatically, but the writing they produce is typically bland, flat, and generic. I'd rather read *your* thoughts in *your* words, even if they're syntactically imperfect, than McProse.
 
@@ -256,7 +256,8 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 #### Before class
 
 - Read *Walden*, "Economy," paragraphs 1-70.
-- Choose a sentence anywhere in paragraphs 1-70 of "Economy" in* Walden *that you find interesting&mdash;either for what it says or how it's written. Select that sentence with your mouse and add a comment about it in the margin.
+- Read Rebecca Solnit, "[Mysteries of Thoreau, Unsolved](https://drive.google.com/file/d/17T5Hq3lxrkQBDzBJJOmfer6F6FIpkuec/view?usp=sharing)".
+- Choose a sentence anywhere in paragraphs 1-70 of "Economy" in *Walden* that you find interesting&mdash;either for what it says or how it's written. Select that sentence with your mouse and add a comment about it in the margin.
 
 #### In class
 
@@ -268,11 +269,11 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### Before class
 
-- Practice using markdown syntax.
+- Practice using Markdown syntax.
 
 #### In class
 
-- We'll continue discussing *Walden* and practicing markdown.
+- We'll continue discussing *Walden* and practicing Markdown.
 
 ***Class work:*** *In your folder for 2-7, share a journal file for the day with notes on your developing command-line skills.*
 
@@ -364,7 +365,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - Read *Walden*, "Where I Lived, and What I Lived For."
 - Read the pages in the module "Meet the Walden Manuscript."
-- Leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about* time *or* place. *(You can take until our next class to leave your comment on "Where I Lived.")
+- Leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about time *or* place. (You can take until our next class to leave your comment on "Where I Lived.")
 
 #### In class
 
@@ -509,7 +510,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - Read *Walden*, "Brute Neighbors," "House-Warming," and "Former Inhabitants; and Winter Visitors."
 - Review [Attributes, Links, Images]({{ site.url }}/mod-7/attributes-links-images) in the "Internet and Web" module.
-- As you did for our 3/26 meeting, leave a comment in the margin of any part of *Walden* assigned for to3/31 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
+- As you did for our 3/26 meeting, leave a comment in the margin of any part of *Walden* assigned for 3/31 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
 
 #### In class
 
@@ -572,6 +573,8 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 - Group project work in class.
 
 ***Class work:*** *In your folder for 4-14, share your journal file for the day with notes on the progress of your group project.*
+
+- ***Due:*** *Second blog post.*
 
 ### Wednesday, April 16
 
