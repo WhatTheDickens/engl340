@@ -125,7 +125,7 @@ How will you know if you’ve met the individual outcomes? How will we know if w
 Your final grade in this course will be based on the number of points you earn out of a maximum of 100 points. You’ll earn points for the activities listed below. You must complete all assigned work to pass the course.
 
 - **Blog**: You'll earn up to **30** points for two blog posts (15 points each) in which you reflect on your learning in this course. (Due dates TBA.) 
-- **Class work**: You'll earn up to **40** points for in-class work submitted *by the end of each class meeting.* (Typically, 1 point per timely submission.)
+- **Class work**: You'll earn up to **40** points for in-class work submitted *by the end of each class meeting.* (Typically, 1 point per timely submission.) If you're unable to attend class, you can submit the in-class work for credit *up to 3 times* over the course of the semester and still earn credit for it, provided you submit it the day of the class meeting and provided the file you submit is substantive.
 - **Project work**: You'll earn up to **30** points for a group project to which you contribute, with **10** of those points coming from your personal contribution to the project and a final blog post you'll write about your work on it.
 
 {: .important}
