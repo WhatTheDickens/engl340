@@ -30,19 +30,20 @@ You'll want to type slowly at the command line, and if you don't get the result 
 
 ## Moving your cursor
 
-Since the command line pre-dates the GUI by many years, it also pre-dates the mouse. There are ways to use your mouse or trackpad at the command line, but we'll look past those for now. You'll want to develop the skill of moving around in and deleting text with your keyboard alone. Here are some useful keyboard commands to know for text navigation:
+Since the command line pre-dates the GUI by many years, it also pre-dates the mouse. There are ways to use your mouse or trackpad at the command line, but we'll look past those for now. You'll want to develop the skill of moving around in and deleting text with your keyboard alone. Below are some useful keyboard commands to know for text navigation. (Note that the behavior of these commands may be affected by custom keyboard settings on your individual computer, including settings you can edit within the terminal application itself.)  
 
 - Right-arrow (&#x25b6;): Move right one character
 - Left-arrow (&#x25c0;): Move left one character
 - `ctrl`-a: Go to the beginning of the line
 - `ctrl`-e: Go to the end of the line
-- `ctrl`-u: Delete from the cursor position to the start of the line
+- `ctrl`-u: Delete from the cursor position to the start of the line (on Mac, delete entire line)
 - `ctrl`-k: Delete from the cursor position to the end of the line
 - `option`-f (Mac): Move forward a word at a time (Other keyboards use `alt`-f)
 - `option`-b (Mac): Move backward a word at a time (Other keyboards use `alt`-b)
 
 One thing you can definitely do with your mouse or trackpad, though, is select, copy, and paste text. This behavior is available by default in Terminal.app on Mac. You have to enable it in Git Bash and WSL, as described in [Types of Commands]({{ site.url }}/mod-2/types-of-commands).
 
+In Terminal.app on Mac, you can re-position the cursor by holding down the option key while clicking in the desired location. See Apple's [Terminal User Guide](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac) for a list of Terminal.app keyboard commands.
 
 ## Your friend: tab completion
 
