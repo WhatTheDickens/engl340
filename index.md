@@ -323,7 +323,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - Read [What is Artificial Intelligence]({{ site.url }}/what-is-ai) (and watch the videos on that page).
 - Read Cal Newport, ["What Kind of Writer is ChatGPT?"](https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt).
-- Reply to one of the GenAI comments in *Walden*, comparing the AI rewrite of Thoreau with the original.
+- Reply to one of the comments in *Walden* posted by user "Flat HDT." Has the AI rewrite of Thoreau improved the original? Why or why not? Have any important ideas been lost in the rewrite? Try to find a comment that hasn't yet received a response, but if you can't find one, be sure that you don't simply repeat what a classmate has already said.
 
 #### In class
 
