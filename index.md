@@ -335,7 +335,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### Before class
 
-- Read [Deep Learning and Neural Networks]({{ site.url }}/deep-learning-neural-networks).
+- Read [Deep Learning and Neural Networks]({{ site.url }}/mod-4a/deep-learning-neural-networks).
 - Read Alva Noë, ["Rage Against the Machine"](https://aeon.co/essays/can-computers-think-no-they-cant-actually-do-anything)
 - Read, Ted Underwood, ["Liberally-educated students need to be more than consumers of AI"](https://tedunderwood.com/2023/09/10/liberally-educated-students-need-to-be-more-than-consumers-of-ai/)
 
