@@ -365,7 +365,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - Read *Walden*, "Where I Lived, and What I Lived For."
 - Read the pages in the module "Meet the Walden Manuscript."
-- Leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about time *or* place. (You can take until our next class to leave your comment on "Where I Lived.")
+- Leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about time *or* place.
 
 #### In class
 
