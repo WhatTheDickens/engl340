@@ -74,7 +74,7 @@ At the completion of this module you should
 
 #### In class
 
-- We'll hold class in Teams. We'll play more with HTML and CSS.
+- I'll hold an AMA in Teams. Ask me anything!
 
 ---
 

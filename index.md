@@ -469,7 +469,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### In class
 
-- We'll hold class in Teams. We'll play more with HTML and CSS.
+- I'll hold an AMA in Teams. Ask me anything!
 
 ---
 
