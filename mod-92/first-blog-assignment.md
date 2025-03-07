@@ -7,7 +7,7 @@ nav_order: 1
 
 # First Blog Assignment
 
-## Due: March 10 by 11:59 p.m.
+## Due: March <s>10</s> 12 by 11:59 p.m.
 
 - [What you'll do for this assignment](#what-youll-do-for-this-assignment)
 - [How you'll do it](#how-youll-do-it)

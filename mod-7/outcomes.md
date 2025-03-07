@@ -52,21 +52,29 @@ At the completion of this module you should
 
 - ***Class work:*** *In your folder for 3-10, share your journal file for the day with notes on HTML and CSS.*
 
-- ***Due:*** *First blog post.*
-
 ## Wednesday, March 12
-
-*No class meeting: SUNY DLC.*
-
-## Friday, March 14
 
 ### Before class
 
-- No additional reading.
+- Write a first draft of your first blog post.
 
 ### In class
 
+- We'll work on blog posts together and make sure everyone knows what they have to do to complete the assignment successfully.
 - We'll play more with HTML and CSS.
+
+- ***Class work:*** *In your folder for 3-12, share the first draft of your blog post.*
+- ***Due:*** *First blog post.*
+
+### Friday, March 14
+
+#### Before class
+
+- No additional reading.
+
+#### In class
+
+- We'll hold class in Teams. We'll play more with HTML and CSS.
 
 ---
 

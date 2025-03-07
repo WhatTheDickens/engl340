@@ -124,7 +124,7 @@ How will you know if you’ve met the individual outcomes? How will we know if w
 
 Your final grade in this course will be based on the number of points you earn out of a maximum of 100 points. You’ll earn points for the activities listed below. You must complete all assigned work to pass the course.
 
-- **Blog**: You'll earn up to **30** points for two blog posts (15 points each) in which you reflect on your learning in this course. (Due March 10 and April 14, respectively.) 
+- **Blog**: You'll earn up to **30** points for two blog posts (15 points each) in which you reflect on your learning in this course. (Due March <s>10</s> 12 and April 14, respectively.) 
 - **Class work**: You'll earn up to **40** points for in-class work submitted *by the end of each class meeting.* (Typically, 1 point per timely submission.) If you're unable to attend class, you can submit the in-class work for credit *up to 3 times* over the course of the semester and still earn credit for it, provided you submit it the day of the class meeting and provided the file you submit is substantive.
 - **Project work**: You'll earn up to **30** points for a group project to which you contribute, with **10** of those points coming from your personal contribution to the project and a final blog post you'll write about your work on it.
 
@@ -447,11 +447,19 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - ***Class work:*** *In your folder for 3-10, share your journal file for the day with notes on HTML and CSS.*
 
-- ***Due:*** *First blog post.*
-
 ### Wednesday, March 12
 
-*No class meeting: SUNY DLC.*
+#### Before class
+
+- Write a first draft of your first blog post.
+
+#### In class
+
+- We'll work on blog posts together and make sure everyone knows what they have to do to complete the assignment successfully.
+- We'll play more with HTML and CSS.
+
+- ***Class work:*** *In your folder for 3-12, share the first draft of your blog post.*
+- ***Due:*** *First blog post.*
 
 ### Friday, March 14
 
@@ -461,7 +469,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### In class
 
-- We'll play more with HTML and CSS.
+- We'll hold class in Teams. We'll play more with HTML and CSS.
 
 ---
 
