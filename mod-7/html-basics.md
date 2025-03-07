@@ -70,7 +70,7 @@ Notice that this bit of your file is nowhere to be seen:
 ```html
 <!-- This is a comment and won't be displayed. -->
 ```
-That's because your markup has identified this bit as a comment, so&hellip;it won't be displayed.
+That's because your markup has identified this bit as a comment, so &hellip; it won't be displayed.
 
 Notice also that the text you put in the `<title>` element shows up, not within your document, but in the browser tab or title bar. Your document's "title" isn't part of the document at all; it's information *about* your document, also known as **metadata**.
 

@@ -45,7 +45,7 @@ Below are some questions to prompt your thinking. *Don't construct your post by 
 4. When you're ready to submit your post, click `Submit for Review`.
 
 {: .important}
-Put your post title in the title field in the post editor. *Don't repeat your title in the body of your post*. Don't put your name in the post body, either. It will appear automatically once your post is published. 
+Come up with a short title that succinctly captures the thrust of your post. *Avoid at all costs a generic title such as "Blog Post 1."* Put your post title in the title field in the post editor. Don't repeat your title in the body of your post. Don't put your name in the post body, either. It will appear automatically once your post is published. 
 
 ## How your post will be evaluated
 
@@ -62,4 +62,5 @@ In your blog post, did you &hellip;
 | document any use you made of GenAI? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | write about how the *course* has changed *you* (if it has), avoiding any direct mention of *me*, the instructor? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | use care in the composition of your post? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| give your post a short title (in the title field, not the post body) that succinctly captures its thrust? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | format your post appropriately using Markdown? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
