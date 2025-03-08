@@ -417,7 +417,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 #### Before class
 
 - Read [The Internet is Not the Web]({{ site.url}}/mod-7/the-internet-is-not-the-web), [What is the Web?]({{ site.url}}/mod-7/what-is-the-web), and [HTTP and URL]({{ site.url}}/mod-7/http-and-url).
-- Read *Broad Band*, 81-130.
+- Read *Broad Band*, 81-128.
 
 #### In class
 
@@ -439,7 +439,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### Before class
 
-- Read *Broad Band*, 153-174.
+- Read *Broad Band*, 129-174.
 
 #### In class
 
