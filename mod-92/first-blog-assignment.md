@@ -12,6 +12,7 @@ nav_order: 1
 - [What you'll do for this assignment](#what-youll-do-for-this-assignment)
 - [How you'll do it](#how-youll-do-it)
 - [How your post will be evaluated](#how-your-post-will-be-evaluated)
+- [A blog post template](#a-blog-post-template)
 
 ## What you'll do for this assignment
 
