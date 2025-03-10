@@ -64,3 +64,56 @@ In your blog post, did you &hellip;
 | use care in the composition of your post? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | give your post a short title (in the title field, not the post body) that succinctly captures its thrust? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | format your post appropriately using Markdown? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+
+## A blog post template
+
+The template below illustrates, in skeletal form, with mostly placeholder text, *one way* that you might approach this blog post. Copy it and paste it into VS Code. If the long lines aren't wrapping to the width of your VS Code window, use `option-Z` (Mac) or `alt-Z` (Windows) to wrap them. (You can use these commands to toggle between wrapped and long-line views.)
+
+Click the Preview icon in VS Code to see how the content would look with the Markdown rendered as HTML. 
+
+The template illustrates a few things to keep in mind as you draft your post:
+
+- There is no title in the post text itself. Your tilte will go into the Title field in WordPress. Don't repeat it in your post. A good title for this template post&mdash;one that captures the post's main idea&mdash;would be "Lost and Found."
+- Since the post has a title, the highest-level heading used in the post is a level-two heading, with the heading text preceded by `##`.
+- The post uses headings to organize the content so that a reader can easily follow the thought. A list helps to do the same. These features are completely optional. They're being used here merely to remind you that Markdown is one tool at your disposal for making your post engaging and easy for a reader to follow.
+- Paragraphs in the post are separated by empty lines.
+
+Once you have a decent draft of your post in VS Code, go to WordPress, start a new post, put your title in the Title field and paste your Markdown into the editor.
+
+The editor will display your Markdown symbols (such as `##`), but these won't be displayed when your post is published. To get a peek at how your published post will look, click "Preview." A preview of  your post will open in a new tab or window.
+
+You can return to your post and continue editing it in the editor. If you do, be sure to click "Save" periodically.
+
+When you're satisfied with your post, click "Submit for Review."
+
+```markdown
+In *Walden*, Thoreau writes:
+
+> Not till we are lost, in other words not till we have lost the world, do we begin to find ourselves, and realize where we are and the infinite extent of our relations.
+
+I began this class feeling very lost. There was so much I didn't understand about how we were being asked to use our computers. I'm beginning to find myself and understand at least a few important "relations." Maybe they're not "infinite" in their extent, but they seem important. I mean, for example, how parts of my computer are related to each other, and how computing is related to the humanities.
+
+## My computer
+
+Here are a few things I've learned about my computer:
+
+- Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+- Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+- Etiam ultricies nisi vel augue.
+
+### Lorem impsum dolor
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+
+### Aenean commodo ligula eget dolor
+
+Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
+
+### Etiam ultricies nisi
+
+Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
+
+## Computing and the humanities
+
+Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. *Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.* Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. **Cum sociis natoque penatibus et magnis** dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+```
