@@ -20,7 +20,9 @@ At the completion of this module you should
 
 - Read *Walden*, "Brute Neighbors," "House-Warming," and "Former Inhabitants; and Winter Visitors."
 - Review [Attributes, Links, Images]({{ site.url }}/mod-7/attributes-links-images) in the "Internet and Web" module.
-- As you did for our 3/26 meeting, leave a comment in the margin of any part of *Walden* assigned for 3/31 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
+- Choose at least one of the following (you're welcome to do both!):
+    - As you did for our 3/26 meeting, leave a comment in the margin of any part of *Walden* assigned for 3/31 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
+    - Reply in the margin of *Walden* to a comment from one of the students in the group "Choate RH 2025." In your reply, take a "[Yes, and](https://en.wikipedia.org/wiki/Yes,_and...)" approach, which doesn't preclude disagreeing but does require accepting the basic premise of the post to which you're replying. As part of your reply, you might also ask the original poster a follow-up question in an effort to better understand their viewpoint or make a connection between their comment and another idea or another passage. One way to find comments from the Choate students is to click the megaphone icon near the upper right of the web page and then click "Recent Comments in this Text." Be sure you're logged in when you do this.
 
 ### In class
 
