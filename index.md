@@ -620,9 +620,9 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ### Wednesday, April 30
 
-- No class meeting: GREAT Day.
+- Group project work in class.
 
-***No class work due.***
+***Class work:*** *In your folder for 4-30, share your journal file for the day with notes on the progress of your group project.*
 
 ### Friday, May 2
 
