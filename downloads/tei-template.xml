@@ -7,12 +7,11 @@
       <fileDesc>
          <titleStmt>
             <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
-            <editor><!-- Replace this comment with a group member's name --></editor>
-            <editor><!-- Replace this comment with a group member's name --></editor>
-            <editor><!-- Replace this comment with a group member's name --></editor>
-            <editor><!-- Replace this comment with a group member's name --></editor>
-            <editor><!-- Replace this comment with a group member's name --></editor>
-            <editor><!-- Replace this comment with a group member's name --></editor>
+            <editor xml:id="name_1"><!-- Replace this comment with a group member's full name --></editor>
+            <editor xml:id="name_2"><!-- Replace this comment with a group member's full name --></editor>
+            <editor xml:id="name_3"><!-- Replace this comment with a group member's full name --></editor>
+            <editor xml:id="name_4"><!-- Replace this comment with a group member's full name --></editor>
+            <editor xml:id="name_5"><!-- Replace this comment with a group member's full name --></editor>
          </titleStmt>
          <publicationStmt>
             <p>Final Project for ENGL 340, Literature and Literary Study in the Digital Age, Spring 2024, SUNY Geneseo.</p>
