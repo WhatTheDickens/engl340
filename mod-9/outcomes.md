@@ -73,6 +73,8 @@ At the completion of this module you should
 
 - Group project work in class.
 
+***Class work:*** *In your folder for 4-25, share your journal file for the day with notes on the progress of your group project.*
+
 ## Monday, April 28
 
 - Group project work in class.
@@ -90,8 +92,6 @@ At the completion of this module you should
 - Group project work in class.
 
 ***Class work:*** *In your folder for 5-2, share your journal file for the day with notes on the progress of your group project.*
-
-***Due:*** *Second blog post.*
 
 ## Monday, May 5
 
