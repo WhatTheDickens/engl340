@@ -630,7 +630,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 5-2, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 5-2, share your journal file for the day with notes on <s>the progress of your group project</s> our activity in class.*
 
 ### Monday, May 5
 
