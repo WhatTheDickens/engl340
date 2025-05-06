@@ -19,7 +19,7 @@ Together, your group will carry out four tasks with respect to your selected pas
 3. Publish your narrative to the [Digital Humanities at Geneseo blog](https://dh.sunygeneseoenglish.org), incorporating valid IIIF image URLs both to illustrate key moments in the narrative and to highlight important evidentiary support for it.
 4. Report on your project to the class at our final meeting (**May 14, 12:00&ndash;3:20 p.m.**), explaining the reasoning and evidence behind your revision narrative and sharing details about obstacles and triumphs you encountered in the course of completing this assignment.
 
-*All group communications about your project must take place in your group's Teams channel. You must collaborate on your blog post in the Google Colaboratory notebook that I've shared with your group.*
+*All group communications about your project must take place in your group's Teams channel.*
 
 ## TEI template file
 
