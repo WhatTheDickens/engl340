@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
+            <editor xml:id="Hal"><!-- Haley Hoyt --></editor>
+            <editor xml:id="Ash"><!-- Ashely Ames --></editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Final Project for ENGL 340, Literature and Literary Study in the Digital Age, Spring 2024, SUNY Geneseo.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Hungtington Library</repository>
+               <idno>HM 924</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <author>Henry David Thoreau</author>
+                     <title>Walden</title>
+                  </msItem>
+               </msContents>
+            </msDesc>
+            <bibl>
+            Transcriptions from HM 924, the manuscript of Walden: 
+               <!-- 
+                  Brute Neighbors, 9 Version A
+                  Brute Neighbors, 9 Version A
+                  Brute Neighbors, 9 Version E
+                  Brute Neighbors, 9 Version E
+                  Brute Neighbors, 9 Version E
+               -->
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <!-- First document from the list above. You need to include the <sourceDoc> element and its enclosed elements for each item in the list. -->              
+    <sourceDoc>
+        <surface xml:id="hm924v1n206">
+           <graphic url="http://iiif.io/api/presentation/2/context.json"/>
+              <zone>
+                 <note><!-- @resp="Hal" At the top of this page in faint pencil the number 157 is written which ends up in Spings 25B. There is also illegible pencil markings throughout the entire section that ended up in Springs 25B.--></note>
+                 <line><del rend="strikethrough">and</del> through the scraps of shingles</line>
+                 <line>were falling all over the tree-and</line> 
+                 <line>there they dwelt, till at length some</line>
+                 <line>boys destroyed the eggs.</line>
+                 <line>Sometimes a phoebe came and</line>
+                 <line>Looked in at my door or window</line>
+                 <line>to see if my house was enough like</line>
+                 <line>a cave for her-sustaining herself</line>
+                 <line>on humming winds with her talons</line>
+                 <line>clinched as if she held and the air,</line>
+                 <line>while the <del rend="strikethrough"> surveyed</del>the premises-and</line>
+                 <line>frequenly she flitted through</line>
+                 <line>and out at the opposite window,</line>
+                 <line>A long-eared-red bellied</line>
+                 <note><!--To the left of the word field in faint blue pencil P. 357 is written--></note>
+                 <line>field mouse had her nest underneath</line>
+                 <line>my house and before I had laid</line>
+                 <line>the second floor, and swept out the</line>
+                 <line>shavings, would come out and pick</line>
+                 <line>up the crumbs at my feet when</line>
+                 <line>I took my lunch. It had probably</line>
+                 <line>never seen a man before, and soon</line>
+                 <line>became quite familiar. It would</line>
+                 <line>come out regularly at lunch time,</line>
+                 <line>and run over my shoes and up my</line>
+                 <line>clothing, and my legs inside cling-</line>
+                 <line>ing to the flesh. It would run readily</line>
+                 <line>up the sides of the room by short</line>
+                 <line>impulses like a squirrel-which</line>
+                 <line>it resembled considerably in its</line>
+                 <line>motions. At length, as I leaned</line>
+              </zone>
+           <zone>
+           </zone>
+           </surface>
+   </sourceDoc>
+   <!-- Second document from the list above. -->
+   <sourceDoc>
+    <surface xml:id="hm924v6n1018">
+       <graphic url="http://iiif.io/api/presentation/2/context.json"/>
+       <zone>
+          <note><!-- @resp="Hal" This is a description of a mouse Thoureau was exammining. Which adds onto the section above with the mouse. Only minor grammar changes made from Manuscript to E --></note>
+          <line>my elbow on the beach one</line>
+          <line>day, it ran up my clothes</line>
+          <line>and along my sleeve, and</line>
+          <line>round &amp; round the paper</line>
+          <line>which held my dinner, while</line> 
+          <line>I kept the latter close, and dodged</line>
+          <line>and played as bo-peep with</line>
+          <line>and when at last I held still</line>
+          <line>a piece of cheese between my thumb</line>
+          <line>and finger, it came and nib-</line>
+          <line>bled it, visiting in my hand,</line>
+          <line>and afterward cleaned its face</line>
+          <line>and paws like a fly, and walked</line>
+          <line>away.</line>
+         </zone>
+         <zone>
+         </zone>
+      </surface>
+   </sourceDoc>
+   <!-- Third document from the list above. --> 
+   <sourceDoc>
+    <surface xml:id="hm924v5n784">
+       <graphic url="http://iiif.io/api/presentation/2/context.json"/>
+       <zone>
+          <note><!-- @resp="Ash" The addition of the "brute creations as were my neighbors" line, which speaks to the development of this section as a more meditative, philosophical section of the text.  Thoreau is describing the animals he is observing in this former deposit of information as "creations," albeit brute, and "neighbors," attesting to a more creative and metaphorical way of thinking about his surroundings. The digitL fluid text version indicates that this content is struck through, but the manuscript image demonstrates that this phrase is still in the content and not struck through. --></note>
+            <line>Though the hunter<unclear reason="illegible"/>was</line>
+            <line>this wrong in me, I was generally</line>
+            <line>the<del rend="strikethrough"><unclear reason="illegible"/></del></line>
+            <line>of the brute creations as were my</line>
+            <line>neighbors, and I have had<unclear reason="illegible"/></line>
+            <line><unclear reason="illegible"/>for dreaming their</line>
+            <line><unclear reason="illegible"/>><metamark function="used" rend="line" />Though I<unclear reason="illegible"/><unclear reason="illegible"/>a</line>
+            <line>><metamark function="used" rend="line" />ground birds' nest with young</line>
+            <line>><metamark function="used" rend="line" />which was diversity in the<unclear reason="illegible"/>of></line> 
+       </zone>
+       <zone>
+       </zone>
+    </surface>
+ </sourceDoc>
+ <!--Fourth document from the list above-->
+ <sourceDoc>
+    <surface xml:id="hm924v5n785">
+       <graphic url="http://iiif.io/api/presentation/2/context.json"/>
+       <zone>
+          <note><!-- @resp="Ash" Generally speaking, the content in this section seems to be part of this deposit of information. Thoreau added and got rid of a lot of information here, but the similar text starting with "a long eared red-bellied field mouse" is the same between versions A and E, save a couple of small changes, like using "clothes" instead of my clothing. The changes in wording may be significant but are less related to our focuses on this section --></note>
+            <line><metamark function="used" rend="line" />my plow, and would have</line>
+            <line>been turned in by the next</line>
+            <line><metamark function="used" rend="line" />furrow slice, carefully moving</line>
+            <line><metamark function="used" rend="line" />the sod, and setting it in the</line>
+            <line><metamark function="used" rend="line" />grass a few rods beyond the</line>
+            <line><metamark function="used" rend="line" />plowed land, where I had taken</line>
+            <line><metamark function="used" rend="line" />out another sod of the same</line>
+            <line><metamark function="used" rend="line" />size, the parents were less</line>
+            <line><metamark function="used" rend="line" />faithful than I, for when I</line>
+            <line><metamark function="used" rend="line" />looked again the young had</line>
+            <line><metamark function="used" rend="line" />been deserted and were dead</line>
+            <line>When I was building my house</line>
+            <line>a long-eared red-bellied field</line>
+            <line> mouse had its nest underneath</line>
+            <line>it, and before I had laid</line>
+            <line>the second floor and swept</line>
+            <line>out the shavings, it would</line>
+            <line>come out regularly at <del rend="strikethrough">dinner</del>lunch</line>
+            <line>time, and pick up the crumbs</line>
+            <line>at my feet. It probably had</line>
+            <line>never seen a man before and</line>
+            <line>soon became quite familiar,</line>
+            <line>and would run over my shoe,</line>
+            <line>and up my clothes. It could</line>
+            <line>readily ascend the sides of the</line>
+            <line>room by short impulses like</line>
+            <line>a squirrel which it resembled in</line>
+            <line>its motions. Its length, as I learned</line>  
+       </zone>
+       <zone>
+       </zone>
+    </surface>
+ </sourceDoc>
+ <!--Fifth document from the list above-->
+ <sourceDoc>
+    <surface xml:id="hm924v5n786">
+       <graphic url="http://iiif.io/api/presentation/2/context.json"/>
+       <zone>
+          <note><!-- @resp="Ash" Everything after "there were scores of hitch pines" ends up being part of Winter Animals 13a. We consider this a distribution of the deposits of information across the text. Thoreau in version E is beginning to make sense of the deposits of information that exist in version A, so we see him rearranging this information as he notices the descriptions of pines is more logically sound and philosophically matchedin Winter Animals, and as the discussing preceding paragraph 9 is more logically sound and philosophically meaningful to the text.--></note>
+            <line><metamark function="used" rend="line" />there were scores of hitch pines</line>
+            <line><metamark function="used" rend="line" />around my house, from one</line>
+            <line><metamark function="used" rend="line" /><unclear reason="illegible"></unclear>three inches, in diameter, which</line>
+            <line><metamark function="used" rend="line" />had been gnawed by mice. The</line>
+            <line><metamark function="used" rend="line" />previous winter, a Norwegian</line>
+            <line><metamark function="used" rend="line" />winter for them, for the season</line>
+            <line><metamark function="used" rend="line" />lay long and deep, and they</line>
+            <line><metamark function="used" rend="line" />were obliged<unclear reason="illegible"></unclear><unclear reason="illegible"></unclear> a large ?></line>
+            <line><metamark function="used" rend="line" /><unclear reason="illegible"></unclear>of five larks with them</line>
+            <line><metamark function="used" rend="line" />other <unclear reason="illegible"></unclear>. These trees were ?</line>
+            <line><metamark function="used" rend="line" />and apparently flourishing as</line>
+            <line><metamark function="used" rend="line" />midsummer, and many of them</line>
+            <line><metamark function="used" rend="line" />had grown a foot, though com</line>
+            <line><metamark function="used" rend="line" />pletely but after another</line> 
+       </zone>
+       <zone>
+       </zone>
+    </surface>
+ </sourceDoc>
+</TEI>
