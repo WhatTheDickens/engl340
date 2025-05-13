@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        <titleStmt>
+           <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
+           <editor xml:id="name_1"><!-- Aiden McConnell --></editor>
+           <editor xml:id="name_2"><!-- Olivia Gaj --></editor>
+           <editor xml:id="name_3"><!-- Mykayla McCarthy --></editor>
+           <editor xml:id="name_4"><!-- Archer Maduro --></editor>
+           <!-- use @resp="#name_1" on elements as needed to indicate responsibility -->
+        </titleStmt>
+        <publicationStmt>
+           <p>Final Project for ENGL 340, Literature and Literary Study in the Digital Age, Spring 2024, SUNY Geneseo.</p>
+        </publicationStmt>
+        <sourceDesc>
+           <msDesc>
+              <msIdentifier>
+                 <repository>Hungtington Library</repository>
+              <idno>HM 924</idno>
+              </msIdentifier>
+              <msContents>
+                 <msItem>
+                    <author>Henry David Thoreau</author>
+                    <title>Walden</title>
+                 </msItem>
+              </msContents>
+           </msDesc>
+           <bibl>
+           Transcriptions from HM 924, the manuscript of Walden:
+              <!--
+                 House-Warming Version G 5a
+                 House-Warming Version A 5a
+              -->
+        </bibl>
+        </sourceDesc>
+     </fileDesc>
+  </teiHeader>
+<!-- First document from the list above. You need to include the <sourceDoc> element and its enclosed elements for each item in the list. -->
+  <sourceDoc>
+     <surface xml:id="hm924v7n947">
+        <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/947/full/full/0/default.jpg"/>
+           <zone>
+              <note><!-- This is Version G of House-Warming paragraph 5a. Version G mirrors the published edition well and there were not many changes to note about this version. There was a strikethough at "said to be," assuming Walden found this to be clunky and prohibiting the flow of the text. --></note>
+              <line>When I came to build my</line>
+              <line>chimney I studied masonry.</line>
+              <line>My bricks being second-hand</line>
+              <line>ones required to be cleaned with</line>
+              <line>a trowel, so that I learned more</line>
+              <line>than usual of the qualities of</line>
+		        <line>bricks and trowels. The mortar on</line> 
+		        <line>them was fifty years old, and</line>
+		        <line>was said to be still growing harder;</line>
+		        <line>but this is one of those sayings</line>
+		        <line>which men love to repeat whether</line>
+		        <line>they are true or not.</line>
+              <line>Such sayings themselves grow harder and adhere  more</line>
+              <line>firmly with age, and it would take</line>
+              <line>many blows of a trowel and clean</line>
+              <line>an old wise-acre of them. Many</line>
+              <line>of the villages of Mesopotamia</line>
+              <line>are <del rend="strikethrough">said to be </del>built of very good quality, ob-</line>
+              <line>tained from the ruins of Babylon,</line>
+              <line>and the cement on the is older</line>
+              <line>and probably harder still. However that may be, I</line>
+              <line>was struck by the peculiar</line>
+              <line>toughness of the steel which</line>
+              <line>bore so many violent blows</line>
+              <line>without being worn out.</line>
+              <line>As my bricks had been in a</line>
+              <line>chimney before, though I did</line> 
+		        <line>...</line>
+           </zone>
+         <zone>
+           <!-- This is a placeholder for another zone on the same surface. You can transcribe more than one zone of a single surface. Add as many zone elements as you need. -->
+            </zone>
+      </surface>
+  </sourceDoc>
+  <!-- Second document from the list above. -->
+  <sourceDoc>
+     <surface xml:id="hm924v1n58"><!-- This is just an example. Replace the id with actual xml:id of your second image. -->
+        <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/58/full/full/0/default.jpg"/><!-- This is just an example. Replace the url with the actual url of your manuscript page. -->
+        <zone>
+           <note><!-- This is Version A of House-Warming paragraph 5a. Using the fluid-text edition as a reference for this image was tough due to the way the text was organized after the first revision. I found a majority of this image in Chapter 1, not House-Warming. However, this demonstrates that Thoreau believed parts of this image to be better fitted for another chapted due to the content within being unrelated in some way. . --></note>
+           <line>When I came to build my chim -</line>
+           <line>ney my bricks were old ones and had</line>
+           <line>to be cleaned with a trowel - so that</line>
+           <line>I learned more than I would of the</line>
+           <line><del rend="strikethrough">manufacture of</del> art of making bricks and trowels</line> 
+	        <line>I filled the spaces between, the bricks</line>
+	        <line>about the fire place with stones from</line>
+	        <line>the land shore, and also made my</line>
+	        <line>mortar with the white sand from</line>
+	        <line>the same place. Some white and</line>
+	        <line>cleaner sand for plastering I brought</line>
+	        <line>over from the opposite shore in a boat</line>
+	        <line>several cartloads at once together with my</line>
+	        <line>spade and barrow, and I was very</line>
+	        <line>glad to avail myself of this sort</line>
+	        <line>of conveyance - a highway that never</line>
+	        <line>needs to be mended - and over which</line>
+	        <line>you pass with the heaviest loads</line>
+	        <line>without a jar or a scar.</line>
+	        <line>I have thus a tight shingled and plastered house 10 feet wide by 15 long and</line>
+	        <line>8 feet high - with a garret and a closet,</line>
+	        <line>a large window on each side - two</line>
+	        <line>trap doors, one door at the end,</line>
+	        <line>and a brick fire place opposite.</line>
+	        <line>The exact cost of my house, when</line>
+	        <line>completed, paying the usual price for</line>
+	        <line>the materials, and not counting</line>
+	        <line>the work all of which was done.</line>
+        </zone>
+        </surface>
+        </sourceDoc>
+</TEI>
+
+
+
+              
+              
+      
