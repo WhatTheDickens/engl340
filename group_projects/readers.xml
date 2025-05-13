@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
+            <editor xml:id="StoutPeters"> Aubrey Stout Peters</editor>
+            <editor xml:id="Wolf">Adanna Wolf</editor>
+            <editor xml:id="Kennell">Maggie Kennell </editor>
+            <editor xml:id="Mora">Juli Mora</editor>
+            <editor xml:id="Conklin">Niia Conklin</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Final Project for ENGL 340, Literature and Literary Study in the Digital Age, Spring 2024, SUNY Geneseo.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Hungtington Library</repository>
+               <idno>HM 924</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <author>Henry David Thoreau</author>
+                     <title>Walden</title>
+                  </msItem>
+               </msContents>
+            </msDesc>
+            <bibl>
+            Transcriptions from HM 924, the manuscript of Walden: 
+                  Sounds For Version A
+                  Sounds For Version A
+                  Sounds For Version D
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   </sourceDoc>
+   <sourceDoc>
+      <surface xml:id="hm924v1n113">
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/113/1000,3100,6000,5200/full/0/default.jpg"/>
+         <zone>
+            <note resp="Kennell"><!-- This page is transcribing paragraph 1 of Version A. I looked at the bulk of the paragraph that Thoreau didn't change from Version A to Version D. --></note>
+               <metamark function="used" rend="line" /> 
+               <line>Yet after all, while we are</line>
+               <line>confined to books through the most<add place="above line"><handShift medium="pencil"/>select and</add></line>
+               <line>classic and study only particular<add place="above line"><handShift medium="pencil"/>written</add>lan</line>
+               <line>guages<add place="above line"><handShift medium="pencil"/>which are themselves but dialects</add>or provincialisms, we are</line>
+               <line>apt to forget the language<del rend="strikethrough">or</del></line>
+               <line><del rend="strikethrough">rather the expression,</del>which all</line>
+               <line>things every where, morning and evening</line>
+               <line>and all events speak - which only</line>
+               <line>is copious, For the tongue is only an</line>
+               <line>accidental organ of speech<add place="above line"><handShift medium="pencil"/>even</add><add place="above line"><handShift medium="pencil"/>of this written language which it has helped to establish</add>- serving</line>
+               <line>equally the palate, <del rend="strikethrough">and speech</del><add place="above line"><handShift medium="ink"/>and still lips were the methods which it has established necessary or</add></line>
+               <line><del rend="strikethrough">itself is partial</del><add place="above line"><handShift medium="ink"/>writing are partial</add><add place="above line"><handShift medium="ink"/>even sufficient for the silent expression of truth by written signs. For both speech and</add>uttering but</line>
+               <line>a small part of the meaning</line>
+               <line>with which the silence is fraught.</line>
+               <line>- I mean<add place="above line"><handShift medium="pencil"/>here</add>the language which</line>
+               <line>things speak originally and with</line>
+               <line>out metaphor - such as the life</line>
+               <line>of a man<add place="above line"><handShift medium="pencil"/>rather than his ears</add>hears and his instincts</line>
+               <line>speak <add place="above line"><handShift medium="pencil"/>rather than his tongue</add>- and at the length through</line>
+               <line>all his actions<add place="above line"><handShift medium="pencil"/>or his life</add>he learns to mutter.</line>
+               <line><add place="above line"><handShift medium="pencil"/>man and to hear but without speech or writing</add><add place="above line"><handShift medium="pencil"/>in which sense we are sometimes said to read a in books</add>I read very little how -</line>
+               <line>even during the summer, for my</line>
+         </zone>
+         <zone>
+         </zone>
+      </surface>
+      <sourceDoc>
+      <surface xml:id="hm924v1n113">
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/113/6800,500,1250,9275/full/90/default.jpg"/>
+            <zone>
+               <note resp="Conklin"><!-- This is the margin cut of the "With a more copious hearing" of Version A. It was a segment that eventually got moved to the main draft in Version D (then got scribbled over and boxed) by Thoreau.  --></note>
+               <line>With a more copious hearing or understanding of what is published</line>
+               <line>the views ever fresh which the breezes <del rend="strikethrough"> of heaven</del> waft to us <add place="above line"><handShift medium="pencil" />&amp; all things exhale</add> the present language and all that</line>
+               <line>they express will be forgotten. The rays which streamed through the crevices will be</line>
+               <line>no more remembered , when the shadow is wholly removed."</line>
+            </zone>
+         <zone>
+         </zone>
+         </surface>
+   </sourceDoc>
+   <sourceDoc>
+      <surface xml:id="hm924v4n575">
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/575/1500,7000,6800,2600/full/0/default.jpg"/><!-- This is just an example. Replace the url with the actual url of your manuscript page. -->
+         <zone>
+            <note resp="StoutPeters"><!-- > In Version D, this sentence was rewritten and then deleted. This sentence shows the importance of deleting verbose language. --> </note>
+            <line><delSpan spanTo="#a23" rend="wavy-lines-in-box" /> With a more copious hearing</line>
+            <line>or understanding of what is</line>
+            <line>published, the veiws ever fresh </line>
+            <line>Which the breeze waft to us</line>
+            <line>the present languages and all  </line>
+            <line>that they express or can epress</line> 
+            <line>will be forgotten. <anchor xml:id="a23"/> of the text. ...</p> </line> 
+         </zone>
+         <zone>
+         </zone>
+      </surface>
+   </sourceDoc>
+   <!-- NB: Sometimes Thoreau draws a vertical line through an entire passage or even through a whole page. This kind of mark isn't a deletion. He does this to indicate to himself that he's carried the passage over to a subsequent draft or another part of the current draft. If you come across and example and want to encode it, the right way to do it is: <metamark function="used" rend="line" /> -->
+</TEI>
