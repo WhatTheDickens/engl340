@@ -5,3 +5,6 @@ gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
 
 # gem "just-the-docs", "0.10.0" # pinned to the current release
 gem "just-the-docs"        # always download the latest release
+
+# silence deprecation warnings
+gem 'jekyll-sass-converter', '~> 3.1.0'

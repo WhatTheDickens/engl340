@@ -25,7 +25,7 @@ nav_order: 0
 
 ---
 
-<p style="font-size:150%">Welcome to ENGL 340, Spring 2025, <em>Literature and Literary Study in the Digital Age</em> at SUNY Geneseo.</p>
+<p style="font-size:150%">Welcome to ENGL 340, Spring 2026, <em>Literature and Literary Study in the Digital Age</em> at SUNY Geneseo.</p>
 
 There's so much to tell you about it! Use the links below to navigate the content on this page.
 
