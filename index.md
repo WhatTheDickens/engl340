@@ -175,11 +175,11 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 ## Schedule at a glance
 
 
-### Wednesday, January 22
+### Wednesday, January 21
 
 - 👋
 
-### Friday, January 24
+### Friday, January 23
 
 #### Before class
 
@@ -192,7 +192,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 
 ***Class work:*** *In your folder for 1/24, find the file `hello-i-am-here.docx`. Open it and replace the ellipses with your preferred first name. In addition, take a screenshot of your computer's system information and add it to the folder.*
 
-### Monday, January 27
+### Monday, January 26
 
 #### Before class
 
@@ -204,7 +204,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 
 ***Class work:*** *In your folder for 1/27, find the file `broad-band-notes.docx` and edit it to leave some notes on our discussion of* Broad Band.
 
-### Wednesday, January 29
+### Wednesday, January 28
 
 #### Before class
 
@@ -219,7 +219,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 
 ***Class work:*** *In your folder for 1/29, upload a screenshot of your terminal window.*
 
-### Friday, January 31
+### Friday, January 30
 
 #### Before class
 
@@ -232,7 +232,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 
 ***Class work:*** *In your folder for 1/31, find the file `notes_for_2025-01-31.docx` and add some notes from today's class.*
 
-### Monday, February 3
+### Monday, February 2
 
 #### Before class
 
@@ -251,7 +251,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-3, share a plain text file with the .md extension in the file name containing your notes on today's work in class.*
 
-### Wednesday, February 5
+### Wednesday, February 4
 
 #### Before class
 
@@ -265,7 +265,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-5, share your journal script in a file ending with the .sh extension and a journal file for the day, with the .md extension, containing notes.*
 
-### Friday, February 7
+### Friday, February 6
 
 #### Before class
 
@@ -277,7 +277,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-7, share a journal file for the day with notes on your developing command-line skills.*
 
-### Monday, February 10
+### Monday, February 9
 
 #### Before class
 
@@ -291,7 +291,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-10, share your journal file with notes and reflections about metareading and markup languages.*
 
-### Wednesday, February 12
+### Wednesday, February 11
 
 #### Before class
 
@@ -305,7 +305,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-12, share a journal file for the day (.md extension) containing some notes about the reading in* The Book. *These can be personal reflections or notes on discussion in your group.*
 
-### Friday, February 14
+### Friday, February 13
 
 #### Before class
 
@@ -317,7 +317,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-14, share the letter from the Library of Congress that details your contributions for the day, along with your journal file for the day containing some notes on your experience working with the Douglass correspondence.*
 
-### Monday, February 17
+### Monday, February 16
 
 #### Before class
 
@@ -331,7 +331,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-17, share a journal file for the day (.md extension) containing your notes from the day's discussion.*
 
-### Wednesday, February 19
+### Wednesday, February 18
 
 #### Before class
 
@@ -345,7 +345,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-19, share a journal file for the day (.md extension) containing your notes from the day's discussion.*
 
-### Friday, February 21
+### Friday, February 20
 
 #### Before class
 
@@ -359,7 +359,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-21, share a journal file for the day (.md extension) containing your notes from the day's discussion and hands-on work.*
 
-### Monday, February 24
+### Monday, February 23
 
 #### Before class
 
@@ -373,7 +373,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-24, share your journal file for the day with notes on our visit from Dr. Witherell.*
 
-### Wednesday, February 26
+### Wednesday, February 25
 
 #### Before class
 
@@ -387,7 +387,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-26, share your journal file for the day with notes about things you learned and questions you have about TEI.*
 
-### Friday, February 28
+### Friday, February 27
 
 #### Before class
 
@@ -399,7 +399,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-28, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
 
-### Monday, March 3
+### Monday, March 2
 
 #### Before class
 
@@ -412,7 +412,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 3-3, share your journal file for the day with notes about TEI.*
 
-### Wednesday, March 5
+### Wednesday, March 4
 
 #### Before class
 
@@ -425,7 +425,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 3-5, share your journal file for the day with notes about how the internet and web evolved. What did you already know about this evolution? What did you learn for the first time? Was there anything you thought you knew that turned out to be wrong? Did you have to modify any knowledge or beliefs in light of what you learned?*
 
-### Friday, March 7
+### Friday, March 6
 
 #### Before class
 
@@ -435,7 +435,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - We'll play with HTML and CSS.
 
-### Monday, March 10
+### Monday, March 9
 
 #### Before class
 
@@ -447,7 +447,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - ***Class work:*** *In your folder for 3-10, share your journal file for the day with notes on HTML and CSS.*
 
-### Wednesday, March 12
+### Wednesday, March 11
 
 #### Before class
 
@@ -461,7 +461,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 - ***Class work:*** *In your folder for 3-12, share the first draft of your blog post.*
 - ***Due:*** *First blog post.*
 
-### Friday, March 14
+### Friday, March 13
 
 #### Before class
 
@@ -477,7 +477,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ---
 
-### Monday, March 24
+### Monday, March 23
 
 #### Before class
 
@@ -489,7 +489,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 3-24, share your journal file for the day with reflections on how reading* The Book *has changed how you look at books.*
 
-### Wednesday, March 26
+### Wednesday, March 25
 
 #### Before class
 
@@ -502,7 +502,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 3-26, share your journal file for the day with notes on any thoughts you have about the* Walden *manuscript images.*
 
-### Friday, March 28
+### Friday, March 27
 
 #### Before class
 
@@ -512,7 +512,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - We'll use this class meeting to catch up as needed.
 
-### Monday, March 31
+### Monday, March 30
 
 #### Before class
 
@@ -528,7 +528,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 3-31, share your journal file for the day with notes on incorporating images into web pages.*
 
-### Wednesday, April 2
+### Wednesday, April 1
 
 #### Before class
 
@@ -542,7 +542,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 4-2, share your journal file for the day with notes on working with IIIF images.*
 
-### Friday, April 4
+### Friday, April 3
 
 #### Before class
 
@@ -554,7 +554,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 4-4, share your journal file for the day with reflections on your own composition process. How does it compare to what you're seeing of Thoreau's composition process? On a scale from "totally scattershot" to "highly organized and intentional," where would you place your own composition process? If it's anything other than "totally scattershot," what are some of the things you do to make your own process at least somewhat organized and intentional? What role do you think technology has played in the difference between Thoreau's process and your own? Comparing Thoreau's process to your own, what aspects of revision seem to have been relatively untouched by technological change?*
 
-### Monday, April 7
+### Monday, April 6
 
 #### Before class
 
@@ -566,19 +566,19 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 4-7, share your journal file for the day with reflections on your experience reading* Walden.
 
-### Wednesday, April 9
+### Wednesday, April 8
 
 - Group project work in class.
 
 ***Class work:*** *In your folder for 4-9, share your journal file for the day with notes on the progress of your group project.*
 
-### Friday, April 11
+### Friday, April 10
 
 - Group project work in class.
 
 ***Class work:*** *In your folder for 4-11, share your journal file for the day with notes on anything you've learned today from this class or any other, or from any experience outside of your classes.*
 
-### Monday, April 14
+### Monday, April 13
 
 - Group project work in class.
 
@@ -586,65 +586,65 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - ***Due:*** *Second blog post.*
 
-### Wednesday, April 16
+### Wednesday, April 15
 
 - Group project work in class.
 
 ***Class work:*** *In your folder for 4-16, share your journal file for the day with notes on the progress of your group project.*
 
-### Friday, April 18
+### Friday, April 17
 
 - Group project work in class.
 
 ***Class work:*** *In your folder for 4-18, share your journal file for the day with notes on the progress of your group project.*
 
-### Monday, April 21
+### Monday, April 20
 
 - Group project work in class.
 
 ***Class work:*** *In your folder for 4-21, share your journal file for the day with notes on the progress of your group project.*
 
-### Wednesday, April 23
+### Wednesday, April 22
 
 *No class: GREAT Day.*
 
-### Friday, April 25
+### Friday, April 24
 
 - Group project work in class.
 
 ***Class work:*** *In your folder for 4-25, share your journal file for the day with notes on the progress of your group project.*
 
-### Monday, April 28
+### Monday, April 27
 
 - Group project work in class.
 
 ***Class work:*** *In your folder for 4-28, share your journal file for the day with notes on the progress of your group project.*
 
-### Wednesday, April 30
+### Wednesday, April 29
 
 - Group project work in class.
 
 ***Class work:*** *In your folder for 4-30, share your journal file for the day with notes on the progress of your group project.*
 
-### Friday, May 2
+### Friday, May 1
 
 - Group project work in class.
 
 ***Class work:*** *In your folder for 5-2, share your journal file for the day with notes on <s>the progress of your group project</s> our activity in class.*
 
-### Monday, May 5
+### Monday, May 4
 
 - Group project work in class.
 
 ***Class work:*** *In your folder for 5-5, share your journal file for the day with notes on the progress of your group project.*
 
-### Wednesday, May 7
+### Wednesday, May 6
 
 - Group project work in class.
 
 ***Class work:*** *In your folder for 5-7, share your journal file for the day with notes on the progress of your group project.*
 
-### Wednesday, May 14, 12 pm &ndash; 3:20 pm
+### <!-- Final exam date and time --> 
 
 #### Before class
 
