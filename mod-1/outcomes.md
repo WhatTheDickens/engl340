@@ -14,11 +14,11 @@ At the completion of this module, you should
 
 # Dates and Activities
 
-## Wednesday, January 22
+## Wednesday, January 21
 
 - 👋
 
-## Friday, January 24
+## Friday, January 23
 
 ### Before class
 
@@ -29,9 +29,9 @@ At the completion of this module, you should
 
 - We'll make sure everyone's GUI is set up per the instructions in the module.
 
-***Class work:*** *In your folder for 1/24, find the file `hello-i-am-here.docx`. Open it and replace the ellipses with your preferred first name. In addition, take a screenshot of your computer's system information and add it to the folder.*
+***Class work:*** *In your folder for 1-23, find the file `hello-i-am-here.docx`. Open it and replace the ellipses with your preferred first name. In addition, take a screenshot of your computer's system information and add it to the folder.*
 
-## Monday, January 27
+## Monday, January 26
 
 ### Before class
 
@@ -41,4 +41,4 @@ At the completion of this module, you should
 
 - We'll discuss *Broad Band*.
 
-***Class work:*** *In your folder for 1/27, find the file `broad-band-notes.docx` and edit it to leave some notes on our discussion of* Broad Band.
+***Class work:*** *In your folder for 1-26, find the file `broad-band-notes.docx` and edit it to leave some notes on our discussion of* Broad Band.

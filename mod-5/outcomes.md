@@ -13,7 +13,7 @@ At the completion of this module you should
 
 # Dates and Activities
 
-## Monday, February 24
+## Monday, February 23
 
 ### Before class
 
@@ -25,4 +25,4 @@ At the completion of this module you should
 
 - Visit with Beth Witherell, Editor-in-Chief of [*The Writings of Henry D. Thoreau*](https://thoreau.library.ucsb.edu/).
 
-***Class work:*** *In your folder for 2-24, share your journal file for the day with notes on our visit from Dr. Witherell.*
+***Class work:*** *In your folder for 2-23, share your journal file for the day with notes on our visit from Dr. Witherell.*

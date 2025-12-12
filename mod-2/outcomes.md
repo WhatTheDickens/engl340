@@ -16,7 +16,7 @@ At the completion of this module you should
 
 # Dates and Activities
 
-## Wednesday, January 29
+## Wednesday, January 28
 
 ### Before class
 
@@ -29,9 +29,9 @@ At the completion of this module you should
 - We'll discuss *Broad Band*.
 - We'll get ourselves accustomed to the terminal.
 
-***Class work:*** *In your folder for 1/29, upload a screenshot of your terminal window.*
+***Class work:*** *In your folder for 1-28, upload a screenshot of your terminal window.*
 
-## Friday, January 31
+## Friday, January 30
 
 ### Before class
 
@@ -42,4 +42,4 @@ At the completion of this module you should
 
 - We'll have fun at the command line.
 
-***Class work:*** *In your folder for 1/31, find the file `notes_for_2025-01-31.docx` and add some notes from today's class.*
+***Class work:*** *In your folder for 1-30, find the file `notes_for_2025-01-31.docx` and add some notes from today's class.*

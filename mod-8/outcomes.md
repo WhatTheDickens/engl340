@@ -14,7 +14,7 @@ At the completion of this module you should
 
 # Dates and Activities
 
-## Monday, March 31
+## Monday, March 30
 
 ### Before class
 
@@ -28,9 +28,9 @@ At the completion of this module you should
 
 - We'll discuss *Walden* and play with incorporating images into web pages.
 
-***Class work:*** *In your folder for 3-31, share your journal file for the day with notes on incorporating images into web pages.*
+***Class work:*** *In your folder for 3-30, share your journal file for the day with notes on incorporating images into web pages.*
 
-## Wednesday, April 2
+## Wednesday, April 1
 
 ### Before class
 
@@ -42,9 +42,9 @@ At the completion of this module you should
 
 - We'll discuss *Walden* and play with IIIF images.
 
-***Class work:*** *In your folder for 4-2, share your journal file for the day with notes on working with IIIF images.*
+***Class work:*** *In your folder for 4-1, share your journal file for the day with notes on working with IIIF images.*
 
-## Friday, April 4
+## Friday, April 3
 
 ### Before class
 
@@ -54,4 +54,4 @@ At the completion of this module you should
 
 - We'll continue working with IIIF images.
 
-***Class work:*** *In your folder for 4-4, share your journal file for the day with reflections on your own composition process. How does it compare to what you're seeing of Thoreau's composition process? On a scale from "totally scattershot" to "highly organized and intentional," where would you place your own composition process? If it's anything other than "totally scattershot," what are some of the things you do to make your own process at least somewhat organized and intentional? What role do you think technology has played in the difference between Thoreau's process and your own? Comparing Thoreau's process to your own, what aspects of revision seem to have been relatively untouched by technological change?*
+***Class work:*** *In your folder for 4-3, share your journal file for the day with reflections on your own composition process. How does it compare to what you're seeing of Thoreau's composition process? On a scale from "totally scattershot" to "highly organized and intentional," where would you place your own composition process? If it's anything other than "totally scattershot," what are some of the things you do to make your own process at least somewhat organized and intentional? What role do you think technology has played in the difference between Thoreau's process and your own? Comparing Thoreau's process to your own, what aspects of revision seem to have been relatively untouched by technological change?*

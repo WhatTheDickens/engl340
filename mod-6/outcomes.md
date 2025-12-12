@@ -13,7 +13,7 @@ At the completion of this module you should
 
 # Dates and Activities
 
-## Wednesday, February 26
+## Wednesday, February 25
 
 ### Before class
 
@@ -25,9 +25,9 @@ At the completion of this module you should
 
 - We'll discuss *Walden* and explore TEI.
 
-***Class work:*** *In your folder for 2-26, share your journal file for the day with notes about things you learned and questions you have about TEI.*
+***Class work:*** *In your folder for 2-25, share your journal file for the day with notes about things you learned and questions you have about TEI.*
 
-## Friday, February 28
+## Friday, February 27
 
 ### Before class
 
@@ -37,17 +37,17 @@ At the completion of this module you should
 
 - We'll continue exploring TEI.
 
-***Class work:*** *In your folder for 2-28, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
+***Class work:*** *In your folder for 2-27, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
 
-## Monday, March 3
+## Monday, March 2
 
 ### Before class
 
 - Read *Walden*, "Visitors," "The Bean-Field," "The Village."
-- Leave a comment in the margin of a passage from *Walden* that's in one of the chapters assigned for 3/3.
+- Leave a comment in the margin of a passage from *Walden* that's in one of the chapters assigned for 3/2.
 
 ### In class
 
 - We'll discuss *Walden* and continue exploring TEI.
 
-***Class work:*** *In your folder for 3-3, share your journal file for the day with notes about TEI.*
+***Class work:*** *In your folder for 3-2, share your journal file for the day with notes about TEI.*

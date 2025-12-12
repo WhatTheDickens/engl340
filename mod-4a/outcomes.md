@@ -15,7 +15,7 @@ At the completion of this module, you should
 
 # Dates and Activities
 
-## Monday, February 17
+## Monday, February 16
 
 ### Before class
 
@@ -29,7 +29,7 @@ At the completion of this module, you should
 
 ***Class work:*** *In your folder for 2-17, share a journal file for the day (.md extension) containing your notes from the day's discussion.*
 
-## Wednesday, February 19
+## Wednesday, February 18
 
 ### Before class
 
@@ -43,7 +43,7 @@ At the completion of this module, you should
 
 ***Class work:*** *In your folder for 2-19, share a journal file for the day (.md extension) containing your notes from the day's discussion.*
 
-## Friday, February 21
+## Friday, February 20
 
 ### Before class
 

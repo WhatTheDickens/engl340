@@ -14,7 +14,7 @@ At the completion of this module you should
 
 # Dates and Activities
 
-## Monday, February 10
+## Monday, February 9
 
 ### Before class
 
@@ -26,9 +26,9 @@ At the completion of this module you should
 
 - We'll discuss Thoreau, metareading, and markup languages.
 
-***Class work:*** *In your folder for 2-10, share your journal file with notes and reflections about metareading and markup languages.*
+***Class work:*** *In your folder for 2-9, share your journal file with notes and reflections about metareading and markup languages.*
 
-## Wednesday, February 12
+## Wednesday, February 11
 
 ### Before class
 
@@ -40,9 +40,9 @@ At the completion of this module you should
 - We'll discuss books and editing.
 - We'll prepare for [Douglass Day](https://cdl-geneseo.github.io/douglass-day/).
 
-***Class work:*** *In your folder for 2-12, share a journal file for the day (.md extension) containing some notes about the reading in* The Book. *These can be personal reflections or notes on discussion in your group.*
+***Class work:*** *In your folder for 2-11, share a journal file for the day (.md extension) containing some notes about the reading in* The Book. *These can be personal reflections or notes on discussion in your group.*
 
-## Friday, February 14
+## Friday, February 13
 
 ### Before class
 
@@ -52,4 +52,4 @@ At the completion of this module you should
 
 - We'll meet in the Milne Library Multi-Purpose Room to participate in Douglass Day. You don't have to stay beyond the end of our class period, but you're welcome to stay as long as you like!
 
-***Class work:*** *In your folder for 2-14, share the letter from the Library of Congress that details your contributions for the day, along with your journal file for the day containing some notes on your experience working with the Douglass correspondence.*
+***Class work:*** *In your folder for 2-13, share the letter from the Library of Congress that details your contributions for the day, along with your journal file for the day containing some notes on your experience working with the Douglass correspondence.*

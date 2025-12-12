@@ -7,7 +7,9 @@ nav_order: 1
 
 # Project Details
 
-Each group will select a single passage or small group of related passages from the manuscript of *Walden* that Thoreau revised over the course of two or more draft versions.
+To be announced.
+
+<!-- Each group will select a single passage or small group of related passages from the manuscript of *Walden* that Thoreau revised over the course of two or more draft versions.
 
 Together, your group will carry out four tasks with respect to your selected passage or passages:
 
@@ -56,4 +58,4 @@ Individually, did you &hellip;
 | - | ---------- | ------------ | -------- | ----------- | ---- |
 | Play an active role in your group's planning and actions to meet the requirements of the assignment? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | Take significant responsibility for one or more project tasks? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
-| Show yourself to be a reliable group partner by completing work on time and communicating with the group as appropriate? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| Show yourself to be a reliable group partner by completing work on time and communicating with the group as appropriate? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | -->

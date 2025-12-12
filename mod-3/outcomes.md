@@ -18,7 +18,7 @@ At the completion of this module you should
 
 # Dates and Activities
 
-## Monday, February 3
+## Monday, February 2
 
 ### Before class
 
@@ -35,9 +35,9 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 - We'll work on creating a journal script and making sure everyone has a journal workflow.
 - We'll discuss the importance of interoperability as a principle in computing.
 
-***Class work:*** *In your folder for 2-3, share a plain text file with the .md extension in the file name containing your notes on today's work in class.*
+***Class work:*** *In your folder for 2-2, share a plain text file with the .md extension in the file name containing your notes on today's work in class.*
 
-## Wednesday, February 5
+## Wednesday, February 4
 
 ### Before class
 
@@ -49,9 +49,9 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - We'll discuss *Walden* and make connections between Thoreau's book and our work with computers.
 
-***Class work:*** *In your folder for 2-5, share your journal script in a file ending with the .sh extension and a journal file for the day, with the .md extension, containing notes.*
+***Class work:*** *In your folder for 2-4, share your journal script in a file ending with the .sh extension and a journal file for the day, with the .md extension, containing notes.*
 
-## Friday, February 7
+## Friday, February 6
 
 ### Before class
 
@@ -61,4 +61,4 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - We'll continue discussing *Walden* and practicing Markdown.
 
-***Class work:*** *In your folder for 2-7, share a journal file for the day with notes on your developing command-line skills.* 
+***Class work:*** *In your folder for 2-6, share a journal file for the day with notes on your developing command-line skills.* 

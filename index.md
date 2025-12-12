@@ -50,9 +50,9 @@ There's so much to tell you about it! Use the links below to navigate the conten
 
 In this course, we'll work together to understand how computers have changed the field of possibilities for studying books&mdash;in particular, books of the kind usually classified as "literature."
 
-To do this, we'll need some base level of understanding for the two parts of our equation: computers on the one hand, books on the other. *Broad Band: The Untold Story of the Women Who Made the Internet*, by Claire L. Evans, will help us establish a base-level understanding of computers that's not just technical but historical, with an emphasis on the frequently neglected role of women in the history of computing. *The Book*, by Amaranth Borsuk, will introduce us to the material and conceptual history of the book. 
+To do this, we'll need some base level of understanding for the two parts of our equation: computers on the one hand, books on the other. *Broad Band: The Untold Story of the Women Who Made the Internet*, by Claire L. Evans, will help us establish a base-level understanding of computers that's not just technical but historical, with an emphasis on the frequently neglected role of women in the history of computing.
 
-We'll also need a particular book that we can keep coming back to in order to test what computers can help us do with literature. [*Walden*](https://commons.digitalthoreau.org/walden/), by Henry David Thoreau, will be that book. Because *Walden* is a book that's partly about technology, in which the author has some provocative things to say about literature, it will also help us think more broadly about the relationship between books and computers.
+We'll use the history one particular book&mdash;[*Walden*](https://commons.digitalthoreau.org/walden/), by Henry David Thoreau&mdash; to orient our thinking about books in general, and the text of that book as a laboratory for experimenting with computation as a tool for understanding literature. 
 
 Finally, everyone will need to have a working computer running the software required to do the things we want our computers to do with literature. Specifically, you'll need a laptop running a reasonably up-to-date version of Windows, macOS, or Linux. Chromebooks, tablets, and phones won't suffice. You'll need to bring your laptop to every class. If your laptop breaks down or is lost or stolen, you'll need to find a substitute.
 
@@ -67,7 +67,9 @@ Finally, everyone will need to have a working computer running the software requ
 ## When and where we'll meet
 
 - Mondays and Wednesdays, 12:30 pm &ndash; 1:45 pm; Fridays, 12:30 pm &ndash; 1:20 pm, Newton 206
-- Final meeting (attendance mandatory) Wednesday, May 14, 12 pm &ndash; 3:20 pm, Newton 206
+
+{: .important}
+Our final meeting will take place during our assigned final exam slot on Thursday, May 14, 12 pm &ndash; 3:20 pm in Newton 206. *Attendance for the full length of our final meeting is mandatory*.
 
 ## How and when to find me
 
@@ -115,7 +117,6 @@ How will you know if you’ve met the individual outcomes? How will we know if w
 ## What we'll read
 
 - The content of these modules
-- Amaranth Borsuk, *The Book*
 - Claire L. Evans, *Broad Band: The Untold Story of the Women Who Made the Internet*
 - Henry D. Thoreau, [*Walden*](https://commons.digitalthoreau.org/walden/)
 - Assorted other readings
@@ -129,7 +130,7 @@ Your final grade in this course will be based on the number of points you earn o
 - **Project work**: You'll earn up to **30** points for a group project to which you contribute, with **10** of those points coming from your personal contribution to the project.
 
 {: .important}
-The **class work** you submit by the end of each class&mdash;typically in the form of a plain-text file containing notes you've taken during class&mdash; is an essential component of the course. It's important that you get into the habit of creating this file at the beginning of each class meeting and, on days when class work is required, uploading the file *by the end of the class meeting* to the dedicated folder I'll share with you. From February 3 onwards, *Word files, Google docs, and screenshots of files will not be acceptable substitutes for plain-text files*. (What are plain-text files? Good question! That's explained in the reading, and we'll discuss it in class.) Once we've covered the syntax for markdown in class, journal files will receive full credit only if properly formatted in Markdown. (What's Markdown? You'll soon find that out.)
+The **class work** you submit by the end of each class&mdash;typically in the form of a plain-text file containing notes you've taken during class&mdash; is an essential component of the course. It's important that you get into the habit of creating this file at the beginning of each class meeting and, on days when class work is required, uploading the file *by the end of the class meeting* to the dedicated folder I'll share with you. From February 2 onwards, *Word files, Google docs, and screenshots of files will not be acceptable substitutes for plain-text files*. (What are plain-text files? Good question! That's explained in the reading, and we'll discuss it in class.) Once we've covered the syntax for markdown in class, journal files will receive full credit only if properly formatted in Markdown. (What's Markdown? You'll soon find that out.)
 
 ## Tools and accounts
 
@@ -190,7 +191,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 
 - We'll make sure everyone's GUI is set up per the instructions in the module.
 
-***Class work:*** *In your folder for 1/24, find the file `hello-i-am-here.docx`. Open it and replace the ellipses with your preferred first name. In addition, take a screenshot of your computer's system information and add it to the folder.*
+***Class work:*** *In your folder for 1/23, find the file `hello-i-am-here.docx`. Open it and replace the ellipses with your preferred first name. In addition, take a screenshot of your computer's system information and add it to the folder.*
 
 ### Monday, January 26
 
@@ -202,7 +203,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 
 - We'll discuss *Broad Band*.
 
-***Class work:*** *In your folder for 1/27, find the file `broad-band-notes.docx` and edit it to leave some notes on our discussion of* Broad Band.
+***Class work:*** *In your folder for 1/26, find the file `broad-band-notes.docx` and edit it to leave some notes on our discussion of* Broad Band.
 
 ### Wednesday, January 28
 
@@ -217,7 +218,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 - We'll discuss *Broad Band*.
 - We'll get ourselves accustomed to the terminal.
 
-***Class work:*** *In your folder for 1/29, upload a screenshot of your terminal window.*
+***Class work:*** *In your folder for 1/28, upload a screenshot of your terminal window.*
 
 ### Friday, January 30
 
@@ -230,7 +231,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 
 - We'll have fun at the command line.
 
-***Class work:*** *In your folder for 1/31, find the file `notes_for_2025-01-31.docx` and add some notes from today's class.*
+***Class work:*** *In your folder for 1/30, find the file `notes_for_2026-01-30.docx` and add some notes from today's class.*
 
 ### Monday, February 2
 
@@ -249,7 +250,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 - We'll work on creating a journal script and making sure everyone has a journal workflow.
 - We'll discuss the importance of interoperability as a principle in computing.
 
-***Class work:*** *In your folder for 2-3, share a plain text file with the .md extension in the file name containing your notes on today's work in class.*
+***Class work:*** *In your folder for 2-2, share a plain text file with the .md extension in the file name containing your notes on today's work in class.*
 
 ### Wednesday, February 4
 
@@ -261,21 +262,23 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### In class
 
+<!-- This would be the place for an intro to Thoreau slide presentation -->
 - We'll discuss *Walden* and make connections between Thoreau's book and our work with computers.
 
-***Class work:*** *In your folder for 2-5, share your journal script in a file ending with the .sh extension and a journal file for the day, with the .md extension, containing notes.*
+***Class work:*** *In your folder for 2-4, share your journal script in a file ending with the .sh extension and a journal file for the day, with the .md extension, containing notes.*
 
 ### Friday, February 6
 
 #### Before class
 
 - Practice using Markdown syntax.
+<!-- Add a Thoreau comment assignment here? Maybe Solnit connection here. -->
 
 #### In class
 
 - We'll continue discussing *Walden* and practicing Markdown.
 
-***Class work:*** *In your folder for 2-7, share a journal file for the day with notes on your developing command-line skills.*
+***Class work:*** *In your folder for 2-6, share a journal file for the day with notes on your developing command-line skills.*
 
 ### Monday, February 9
 
@@ -288,36 +291,158 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 #### In class
 
 - We'll discuss Thoreau, metareading, and markup languages.
+<!-- Really important here to have them make use of their RT comments for discussion -->
 
-***Class work:*** *In your folder for 2-10, share your journal file with notes and reflections about metareading and markup languages.*
+***Class work:*** *In your folder for 2-9, share your journal file with notes and reflections about metareading and markup languages.*
 
 ### Wednesday, February 11
 
 #### Before class
 
 - Read [What is Scholarly Editing?]({{ site.url }}/mod-4/what-is-scholarly-editing), [Types of Scholarly Editing]({{ site.url }}/mod-4/types-of-scholarly-editing), and [Computers and Scholarly Editing]({{ site.url }}/mod-4/computers-and-scholarly-editing).
-- Read *The Book*, 1-110
+<!-- - Read *The Book*, 1-110 removed for spring 2026 -->
 
 #### In class
 
 - We'll discuss books and editing.
 - We'll prepare for [Douglass Day](https://cdl-geneseo.github.io/douglass-day/).
+<!-- Could be some time here to mention the Walden MS briefly -->
 
-***Class work:*** *In your folder for 2-12, share a journal file for the day (.md extension) containing some notes about the reading in* The Book. *These can be personal reflections or notes on discussion in your group.*
+***Class work:*** *In your folder for 2-11, share a journal file for the day (.md extension) containing some notes about the reading in* The Book. *These can be personal reflections or notes on discussion in your group.*
 
 ### Friday, February 13
 
 #### Before class
 
 - Register an account with the Library of Congress' [By the People](https://crowd.loc.gov/) project.
+<!-- Spring 2026 They may need an account with Colored Conventions Project instead -->
 
 #### In class
 
 - We'll meet in the Milne Library Multi-Purpose Room to participate in Douglass Day. You don't have to stay beyond the end of our class period, but you're welcome to stay as long as you like!
 
-***Class work:*** *In your folder for 2-14, share the letter from the Library of Congress that details your contributions for the day, along with your journal file for the day containing some notes on your experience working with the Douglass correspondence.*
+***Class work:*** *In your folder for 2-13, share the letter from the Library of Congress that details your contributions for the day, along with your journal file for the day containing some notes on your experience working with the Douglass correspondence.* <!--May need changing -->
 
-### Monday, February 16
+<!-- Moving up later modules here. Dates will need to be adjusted. -->
+
+### Monday, February 16 <!-- February 23 -->
+
+#### Before class
+
+- Read *Walden*, "Where I Lived, and What I Lived For."
+- Read the pages in the module "Meet the Walden Manuscript."
+- Leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about time *or* place.
+
+#### In class
+
+- Visit with Beth Witherell, Editor-in-Chief of [*The Writings of Henry D. Thoreau*](https://thoreau.library.ucsb.edu/). <!-- Need to get questions for her from students in advance. -->
+
+***Class work:*** *In your folder for 2-16, share your journal file for the day with notes on our visit from Dr. Witherell.*
+
+### Wednesday, February 18 <!-- February 25 -->
+
+#### Before class
+
+- Read *Walden*, "Reading," "Sounds," "Solitude."
+- Read the pages in the module "Text Encoding."
+- Leave a comment on a passage in *Walden* from one of the chapters assigned for 2/26. <!-- Need to provide more direction here -->
+
+#### In class
+
+- We'll discuss *Walden* and explore TEI.
+
+***Class work:*** *In your folder for 2-18, share your journal file for the day with notes about things you learned and questions you have about TEI.*
+
+### Friday, February 20 <!-- February 27 -->
+
+#### Before class
+
+- No new reading.
+
+#### In class
+
+- We'll continue exploring TEI.
+
+***Class work:*** *In your folder for 2-20, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
+
+### Monday, February 23 <!-- March 2 -->
+
+#### Before class
+
+- Read *Walden*, "Visitors," "The Bean-Field," "The Village."
+- Leave a comment in the margin of a passage from *Walden* that's in one of the chapters assigned for 3/3.
+
+#### In class
+
+- We'll discuss *Walden* and continue exploring TEI.
+
+***Class work:*** *In your folder for 2-23, share your journal file for the day with notes about TEI.*
+
+### Wednesday, February 25 <!-- March 4 -->
+
+#### Before class
+
+- Read [The Internet is Not the Web]({{ site.url}}/mod-7/the-internet-is-not-the-web), [What is the Web?]({{ site.url}}/mod-7/what-is-the-web), and [HTTP and URL]({{ site.url}}/mod-7/http-and-url).
+- Read *Broad Band*, 81-128.
+
+#### In class
+
+- We'll discuss *Broad Band* and 🏄 the web.
+
+***Class work:*** *In your folder for 2-25, share your journal file for the day with notes about how the internet and web evolved. What did you already know about this evolution? What did you learn for the first time? Was there anything you thought you knew that turned out to be wrong? Did you have to modify any knowledge or beliefs in light of what you learned?*
+
+### Friday, February 27 <!-- March 6 -->
+
+#### Before class
+
+- Read [HTML Basics]({{ site.url}}/mod-7/html-basics), [CSS Basics]({{ site.url}}/mod-7/css-basics), and [CSS Syntax]({{ site.url}}/mod-7/css-syntax).
+
+#### In class
+
+- We'll play with HTML and CSS.
+
+### Monday, March 2 <!-- 9 --> 
+
+#### Before class
+
+- Read *Broad Band*, 129-174.
+
+#### In class
+
+- We'll discuss *Broad Band* and continue to play with HTML and CSS.
+
+- ***Class work:*** *In your folder for 3-2, share your journal file for the day with notes on HTML and CSS.*
+
+### Wednesday, March 4 <!-- 11 -->
+
+#### Before class
+
+- Write a first draft of your first blog post.
+
+#### In class
+
+- We'll work on blog posts together and make sure everyone knows what they have to do to complete the assignment successfully.
+- We'll play more with HTML and CSS.
+
+- ***Class work:*** *In your folder for 3-4, share the first draft of your blog post.*
+- ***Due:*** *First blog post.*
+
+### Friday, March 6 <!-- 13 -->
+
+#### Before class
+
+- No additional reading.
+
+#### In class
+
+- <!-- Class activity -->
+- <!-- ***Class work:*** *In your folder for 3-4, share the first draft of your blog post.* -->
+- <!-- I'll hold an AMA in Teams. Ask me anything! -->
+
+<!-- end moved-up content -->
+
+<!-- this content has been moved down; dates must be changed -->
+### Monday, March 9 <!-- February 16 -->
 
 #### Before class
 
@@ -329,9 +454,9 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - We'll discuss artificial intelligence.
 
-***Class work:*** *In your folder for 2-17, share a journal file for the day (.md extension) containing your notes from the day's discussion.*
+***Class work:*** *In your folder for 3-9, share a journal file for the day (.md extension) containing your notes from the day's discussion.*
 
-### Wednesday, February 18
+### Wednesday, March 11 <!-- February 18 -->
 
 #### Before class
 
@@ -343,9 +468,9 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - We'll continue our discussion of artificial intelligence and do some hands-on work with AI.
 
-***Class work:*** *In your folder for 2-19, share a journal file for the day (.md extension) containing your notes from the day's discussion.*
+***Class work:*** *In your folder for 3-11, share a journal file for the day (.md extension) containing your notes from the day's discussion.*
 
-### Friday, February 20
+### Friday, March 13 <!-- February 20 -->
 
 #### Before class
 
@@ -353,123 +478,13 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 - Read Schneier and Sanders, ["Can You Trust AI? Here's Why You Shouldn't"](https://theconversation.com/can-you-trust-ai-heres-why-you-shouldnt-209283)
 - Read Whittaker, ["The Steep Cost of Capture"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135581) (download the pdf or open it in your browser). 
 
-#### In class
+#### In class <!-- Online -->
 
 - We'll continue our discussion and do more hands-on work with AI.
 
-***Class work:*** *In your folder for 2-21, share a journal file for the day (.md extension) containing your notes from the day's discussion and hands-on work.*
+***Class work:*** *In your folder for 3-13, share a journal file for the day (.md extension) containing your notes from the day's discussion and hands-on work.*
 
-### Monday, February 23
-
-#### Before class
-
-- Read *Walden*, "Where I Lived, and What I Lived For."
-- Read the pages in the module "Meet the Walden Manuscript."
-- Leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about time *or* place.
-
-#### In class
-
-- Visit with Beth Witherell, Editor-in-Chief of [*The Writings of Henry D. Thoreau*](https://thoreau.library.ucsb.edu/).
-
-***Class work:*** *In your folder for 2-24, share your journal file for the day with notes on our visit from Dr. Witherell.*
-
-### Wednesday, February 25
-
-#### Before class
-
-- Read *Walden*, "Reading," "Sounds," "Solitude."
-- Read the pages in the module "Text Encoding."
-- Leave a comment on a passage in *Walden* from one of the chapters assigned for 2/26.
-
-#### In class
-
-- We'll discuss *Walden* and explore TEI.
-
-***Class work:*** *In your folder for 2-26, share your journal file for the day with notes about things you learned and questions you have about TEI.*
-
-### Friday, February 27
-
-#### Before class
-
-- No new reading.
-
-#### In class
-
-- We'll continue exploring TEI.
-
-***Class work:*** *In your folder for 2-28, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
-
-### Monday, March 2
-
-#### Before class
-
-- Read *Walden*, "Visitors," "The Bean-Field," "The Village."
-- Leave a comment in the margin of a passage from *Walden* that's in one of the chapters assigned for 3/3.
-
-#### In class
-
-- We'll discuss *Walden* and continue exploring TEI.
-
-***Class work:*** *In your folder for 3-3, share your journal file for the day with notes about TEI.*
-
-### Wednesday, March 4
-
-#### Before class
-
-- Read [The Internet is Not the Web]({{ site.url}}/mod-7/the-internet-is-not-the-web), [What is the Web?]({{ site.url}}/mod-7/what-is-the-web), and [HTTP and URL]({{ site.url}}/mod-7/http-and-url).
-- Read *Broad Band*, 81-128.
-
-#### In class
-
-- We'll discuss *Broad Band* and 🏄 the web.
-
-***Class work:*** *In your folder for 3-5, share your journal file for the day with notes about how the internet and web evolved. What did you already know about this evolution? What did you learn for the first time? Was there anything you thought you knew that turned out to be wrong? Did you have to modify any knowledge or beliefs in light of what you learned?*
-
-### Friday, March 6
-
-#### Before class
-
-- Read [HTML Basics]({{ site.url}}/mod-7/html-basics), [CSS Basics]({{ site.url}}/mod-7/css-basics), and [CSS Syntax]({{ site.url}}/mod-7/css-syntax).
-
-#### In class
-
-- We'll play with HTML and CSS.
-
-### Monday, March 9
-
-#### Before class
-
-- Read *Broad Band*, 129-174.
-
-#### In class
-
-- We'll discuss *Broad Band* and continue to play with HTML and CSS.
-
-- ***Class work:*** *In your folder for 3-10, share your journal file for the day with notes on HTML and CSS.*
-
-### Wednesday, March 11
-
-#### Before class
-
-- Write a first draft of your first blog post.
-
-#### In class
-
-- We'll work on blog posts together and make sure everyone knows what they have to do to complete the assignment successfully.
-- We'll play more with HTML and CSS.
-
-- ***Class work:*** *In your folder for 3-12, share the first draft of your blog post.*
-- ***Due:*** *First blog post.*
-
-### Friday, March 13
-
-#### Before class
-
-- No additional reading.
-
-#### In class
-
-- I'll hold an AMA in Teams. Ask me anything!
+<!-- end moved-down content -->
 
 ---
 
@@ -481,13 +496,13 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### Before class
 
-- Read *The Book*, 111-196.
+<!-- - Read *The Book*, 111-196. Removed for 2026 -->
 
 #### In class
 
-- We'll discuss *The Book* and catch up as needed.
+- We'll <!-- discuss *The Book* and --> catch up as needed.
 
-***Class work:*** *In your folder for 3-24, share your journal file for the day with reflections on how reading* The Book *has changed how you look at books.*
+***Class work:*** *In your folder for 3-23, share your journal file for the day with reflections on how reading* The Book *has changed how you look at books.*
 
 ### Wednesday, March 25
 
@@ -500,7 +515,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - We'll discuss *Walden* and explore images of the *Walden* manuscript.
 
-***Class work:*** *In your folder for 3-26, share your journal file for the day with notes on any thoughts you have about the* Walden *manuscript images.*
+***Class work:*** *In your folder for 3-25, share your journal file for the day with notes on any thoughts you have about the* Walden *manuscript images.*
 
 ### Friday, March 27
 
@@ -511,6 +526,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 #### In class
 
 - We'll use this class meeting to catch up as needed.
+<!-- - Need journal assignment? -->
 
 ### Monday, March 30
 
@@ -526,7 +542,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - We'll discuss *Walden* and play with incorporating images into web pages.
 
-***Class work:*** *In your folder for 3-31, share your journal file for the day with notes on incorporating images into web pages.*
+***Class work:*** *In your folder for 3-30, share your journal file for the day with notes on incorporating images into web pages.*
 
 ### Wednesday, April 1
 
@@ -540,7 +556,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - We'll discuss *Walden* and play with IIIF images.
 
-***Class work:*** *In your folder for 4-2, share your journal file for the day with notes on working with IIIF images.*
+***Class work:*** *In your folder for 4-1, share your journal file for the day with notes on working with IIIF images.*
 
 ### Friday, April 3
 
@@ -552,37 +568,38 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - We'll continue working with IIIF images.
 
-***Class work:*** *In your folder for 4-4, share your journal file for the day with reflections on your own composition process. How does it compare to what you're seeing of Thoreau's composition process? On a scale from "totally scattershot" to "highly organized and intentional," where would you place your own composition process? If it's anything other than "totally scattershot," what are some of the things you do to make your own process at least somewhat organized and intentional? What role do you think technology has played in the difference between Thoreau's process and your own? Comparing Thoreau's process to your own, what aspects of revision seem to have been relatively untouched by technological change?*
+***Class work:*** *In your folder for 4-3, share your journal file for the day with reflections on your own composition process. How does it compare to what you're seeing of Thoreau's composition process? On a scale from "totally scattershot" to "highly organized and intentional," where would you place your own composition process? If it's anything other than "totally scattershot," what are some of the things you do to make your own process at least somewhat organized and intentional? What role do you think technology has played in the difference between Thoreau's process and your own? Comparing Thoreau's process to your own, what aspects of revision seem to have been relatively untouched by technological change?*
 
 ### Monday, April 6
 
 #### Before class
 
 - Read *Walden*, "Conclusion."
+<!-- Need a Walden comment assignment here -->
 
 #### In class
 
 - We'll discuss *Walden* and talk about the workflow for your group projects.
 
-***Class work:*** *In your folder for 4-7, share your journal file for the day with reflections on your experience reading* Walden.
+***Class work:*** *In your folder for 4-6, share your journal file for the day with reflections on your experience reading* Walden.
 
 ### Wednesday, April 8
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 4-9, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-8, share your journal file for the day with notes on the progress of your group project.*
 
 ### Friday, April 10
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 4-11, share your journal file for the day with notes on anything you've learned today from this class or any other, or from any experience outside of your classes.*
+***Class work:*** *In your folder for 4-10, share your journal file for the day with notes on anything you've learned today from this class or any other, or from any experience outside of your classes.*
 
 ### Monday, April 13
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 4-14, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-13, share your journal file for the day with notes on the progress of your group project.*
 
 - ***Due:*** *Second blog post.*
 
@@ -590,19 +607,19 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 4-16, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-15, share your journal file for the day with notes on the progress of your group project.*
 
 ### Friday, April 17
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 4-18, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-17, share your journal file for the day with notes on the progress of your group project.*
 
 ### Monday, April 20
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 4-21, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-20, share your journal file for the day with notes on the progress of your group project.*
 
 ### Wednesday, April 22
 
@@ -612,39 +629,39 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 4-25, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-24, share your journal file for the day with notes on the progress of your group project.*
 
 ### Monday, April 27
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 4-28, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-27, share your journal file for the day with notes on the progress of your group project.*
 
 ### Wednesday, April 29
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 4-30, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-29, share your journal file for the day with notes on the progress of your group project.*
 
 ### Friday, May 1
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 5-2, share your journal file for the day with notes on <s>the progress of your group project</s> our activity in class.*
+***Class work:*** *In your folder for 5-1, share your journal file for the day with notes on <s>the progress of your group project</s> our activity in class.*
 
 ### Monday, May 4
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 5-5, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 5-4, share your journal file for the day with notes on the progress of your group project.*
 
 ### Wednesday, May 6
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 5-7, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 5-6, share your journal file for the day with notes on the progress of your group project.*
 
-### <!-- Final exam date and time --> 
+### Thursday, May 14, 12 pm &ndash; 3:20 pm
 
 #### Before class
 

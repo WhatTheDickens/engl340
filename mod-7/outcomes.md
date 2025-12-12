@@ -17,7 +17,7 @@ At the completion of this module you should
 
 # Dates and Activities
 
-## Wednesday, March 5
+## Wednesday, March 4
 
 ### Before class
 
@@ -28,9 +28,9 @@ At the completion of this module you should
 
 - We'll discuss *Broad Band* and 🏄 the web.
 
-***Class work:*** *In your folder for 3-5, share your journal file for the day with notes about how the internet and web evolved. What did you already know about this evolution? What did you learn for the first time? Was there anything you thought you knew that turned out to be wrong? Did you have to modify any knowledge or beliefs in light of what you learned?*
+***Class work:*** *In your folder for 3-4, share your journal file for the day with notes about how the internet and web evolved. What did you already know about this evolution? What did you learn for the first time? Was there anything you thought you knew that turned out to be wrong? Did you have to modify any knowledge or beliefs in light of what you learned?*
 
-## Friday, March 7
+## Friday, March 6
 
 ### Before class
 
@@ -40,7 +40,9 @@ At the completion of this module you should
 
 - We'll play with HTML and CSS.
 
-## Monday, March 10
+<!-- ***Class work:*** Need something here? -->
+
+## Monday, March 9
 
 ### Before class
 
@@ -50,9 +52,9 @@ At the completion of this module you should
 
 - We'll discuss *Broad Band* and continue to play with HTML and CSS.
 
-- ***Class work:*** *In your folder for 3-10, share your journal file for the day with notes on HTML and CSS.*
+- ***Class work:*** *In your folder for 3-9, share your journal file for the day with notes on HTML and CSS.*
 
-## Wednesday, March 12
+## Wednesday, March 11
 
 ### Before class
 
@@ -63,10 +65,10 @@ At the completion of this module you should
 - We'll work on blog posts together and make sure everyone knows what they have to do to complete the assignment successfully.
 - We'll play more with HTML and CSS.
 
-- ***Class work:*** *In your folder for 3-12, share the first draft of your blog post.*
+- ***Class work:*** *In your folder for 3-11, share the first draft of your blog post.*
 - ***Due:*** *First blog post.*
 
-### Friday, March 14
+### Friday, March 13
 
 #### Before class
 
@@ -82,7 +84,7 @@ At the completion of this module you should
 
 ---
 
-## Monday, March 24
+## Monday, March 23
 
 ### Before class
 
@@ -92,9 +94,9 @@ At the completion of this module you should
 
 - We'll discuss *The Book* and catch up as needed.
 
-***Class work:*** *In your folder for 3-24, share your journal file for the day with reflections on how reading* The Book *has changed how you look at books.*
+***Class work:*** *In your folder for 3-23, share your journal file for the day with reflections on how reading* The Book *has changed how you look at books.*
 
-## Wednesday, March 26
+## Wednesday, March 25
 
 ### Before class
 
@@ -105,9 +107,9 @@ At the completion of this module you should
 
 - We'll discuss *Walden* and explore images of the *Walden* manuscript.
 
-***Class work:*** *In your folder for 3-26, share your journal file for the day with notes on any thoughts you have about the* Walden *manuscript images.*
+***Class work:*** *In your folder for 3-25, share your journal file for the day with notes on any thoughts you have about the* Walden *manuscript images.*
 
-## Friday, March 28
+## Friday, March 27
 
 ### Before class
 
@@ -116,3 +118,5 @@ At the completion of this module you should
 ### In class
 
 - We'll use this class meeting to catch up as needed.
+
+<!-- ***Class work:*** Need something here? -->

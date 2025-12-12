@@ -14,7 +14,10 @@ At the completion of this module you should
 
 # Date and Activities
 
-## Wednesday, May 14, 12 pm &ndash; 3:20 pm
+## Thursday, May 14, 12 pm &ndash; 3:20 pm
+
+{: .important}
+*Attendance for the full length of our final meeting is mandatory*.
 
 ### Before class
 
