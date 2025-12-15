@@ -15,21 +15,22 @@ At the completion of this module, you should
 
 # Dates and Activities
 
-## Monday, February 16
+## Monday, March 2
 
 ### Before class
 
 - Read [What is Artificial Intelligence]({{ site.url }}/what-is-ai) (and watch the videos on that page).
 - Read Cal Newport, ["What Kind of Writer is ChatGPT?"](https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt).
+- Read *Walden*, "The Ponds," "Baker Farm," "Higher Laws."
 - Reply to one of the comments in *Walden* posted by user "Flat HDT." Has the AI rewrite of Thoreau improved the original? Why or why not? Have any important ideas been lost in the rewrite? Try to find a comment that hasn't yet received a response, but if you can't find one, be sure that you don't simply repeat what a classmate has already said.
 
 ### In class
 
 - We'll discuss artificial intelligence.
 
-***Class work:*** *In your folder for 2-17, share a journal file for the day (.md extension) containing your notes from the day's discussion.*
+***Class work:*** *In your folder for 3-2, share a journal file for the day (.md extension) containing your notes from the day's discussion.*
 
-## Wednesday, February 18
+## Wednesday, March 4
 
 ### Before class
 
@@ -41,9 +42,9 @@ At the completion of this module, you should
 
 - We'll continue our discussion of artificial intelligence and do some hands-on work with AI.
 
-***Class work:*** *In your folder for 2-19, share a journal file for the day (.md extension) containing your notes from the day's discussion.*
+***Class work:*** *In your folder for 3-4, share a journal file for the day (.md extension) containing your notes from the day's discussion.*
 
-## Friday, February 20
+## Friday, March 6
 
 ### Before class
 
@@ -55,4 +56,4 @@ At the completion of this module, you should
 
 - We'll continue our discussion and do more hands-on work with AI.
 
-***Class work:*** *In your folder for 2-21, share a journal file for the day (.md extension) containing your notes from the day's discussion and hands-on work.*
+***Class work:*** *In your folder for 3-6, share a journal file for the day (.md extension) containing your notes from the day's discussion and hands-on work.*

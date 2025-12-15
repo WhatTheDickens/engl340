@@ -17,7 +17,7 @@ At the completion of this module you should
 
 # Dates and Activities
 
-## Wednesday, March 4
+## Monday, March 9
 
 ### Before class
 
@@ -28,9 +28,11 @@ At the completion of this module you should
 
 - We'll discuss *Broad Band* and 🏄 the web.
 
-***Class work:*** *In your folder for 3-4, share your journal file for the day with notes about how the internet and web evolved. What did you already know about this evolution? What did you learn for the first time? Was there anything you thought you knew that turned out to be wrong? Did you have to modify any knowledge or beliefs in light of what you learned?*
+***Class work:*** *In your folder for 3-9, share your journal file for the day with notes about how the internet and web evolved. What did you already know about this evolution? What did you learn for the first time? Was there anything you thought you knew that turned out to be wrong? Did you have to modify any knowledge or beliefs in light of what you learned?*
 
-## Friday, March 6
+***Class work:*** *In your folder for 3-2, share your journal file for the day with notes about TEI.*
+
+## Wednesday, March 11
 
 ### Before class
 
@@ -42,37 +44,16 @@ At the completion of this module you should
 
 <!-- ***Class work:*** Need something here? -->
 
-## Monday, March 9
-
-### Before class
-
-- Read *Broad Band*, 129-174.
-
 ### In class
 
-- We'll discuss *Broad Band* and continue to play with HTML and CSS.
+- We'll discuss *Walden*.
+<!-- - HTML -->
 
-- ***Class work:*** *In your folder for 3-9, share your journal file for the day with notes on HTML and CSS.*
-
-## Wednesday, March 11
-
-### Before class
-
-- Write a first draft of your first blog post.
-
-### In class
-
-- We'll work on blog posts together and make sure everyone knows what they have to do to complete the assignment successfully.
-- We'll play more with HTML and CSS.
-
-- ***Class work:*** *In your folder for 3-11, share the first draft of your blog post.*
-- ***Due:*** *First blog post.*
-
-### Friday, March 13
+## Friday, March 13
 
 #### Before class
 
-- No additional reading.
+- No additional reading.    
 
 #### In class
 
@@ -88,20 +69,57 @@ At the completion of this module you should
 
 ### Before class
 
-- Read *The Book*, 111-196.
+- Read *Broad Band*, 129-174.
 
 ### In class
 
-- We'll discuss *The Book* and catch up as needed.
+- We'll discuss *Broad Band* and continue to play with HTML and CSS.
 
-***Class work:*** *In your folder for 3-23, share your journal file for the day with reflections on how reading* The Book *has changed how you look at books.*
+- ***Class work:*** *In your folder for 3-9, share your journal file for the day with notes on HTML and CSS.*
 
 ## Wednesday, March 25
 
 ### Before class
 
-- Read *Walden*, "The Ponds," "Baker Farm," "Higher Laws."
-- Leave a comment in the margin of any part of *Walden* assigned for 3/26 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
+- Write a first draft of your first blog post.
+
+### In class
+
+- We'll work on blog posts together and make sure everyone knows what they have to do to complete the assignment successfully.
+- We'll play more with HTML and CSS.
+
+- ***Class work:*** *In your folder for 3-11, share the first draft of your blog post.*
+- ***Due:*** *First blog post.*
+
+## Friday, March 27
+
+### Before class
+
+- Read *Walden*, "Brute Neighbors," "House-Warming," "Former Inhabitants; and Winter Visitors."
+- Leave a comment in the margin of a passage from *Walden* that's in one of the chapters assigned for 3/27.
+
+### In class
+
+- We'll discuss *Walden* and continue playing with HTML and CSS.
+
+## Monday, March 30
+
+### Before class
+
+- Read *Walden*, "Winter Animals," "The Pond in Winter" 
+- Leave a comment in the margin of any part of *Walden* assigned for 3/30 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
+
+### In class
+
+???
+
+***Class work:*** *In your folder for 3-30, share your journal file for the day with reflections on ... *
+
+## Wednesday, April 1
+
+### Before class
+
+- Read *Walden*, "Spring."
 
 ### In class
 
@@ -109,7 +127,7 @@ At the completion of this module you should
 
 ***Class work:*** *In your folder for 3-25, share your journal file for the day with notes on any thoughts you have about the* Walden *manuscript images.*
 
-## Friday, March 27
+## Friday, April 3
 
 ### Before class
 

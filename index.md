@@ -314,18 +314,17 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### Before class
 
-- Register an account with the Library of Congress' [By the People](https://crowd.loc.gov/) project.
-<!-- Spring 2026 They may need an account with Colored Conventions Project instead -->
+- Explore the [Colored Conventions Project](https://coloredconventions.org/).
 
 #### In class
 
 - We'll meet in the Milne Library Multi-Purpose Room to participate in Douglass Day. You don't have to stay beyond the end of our class period, but you're welcome to stay as long as you like!
 
-***Class work:*** *In your folder for 2-13, share the letter from the Library of Congress that details your contributions for the day, along with your journal file for the day containing some notes on your experience working with the Douglass correspondence.* <!--May need changing -->
+***Class work:*** *In your folder for 2-13, share your journal file with information about the documents you transcribed. Include your reflections on anything interesting you learned from transcribing them.*
 
 <!-- Moving up later modules here. Dates will need to be adjusted. -->
 
-### Monday, February 16 <!-- February 23 -->
+### Monday, February 16
 
 #### Before class
 
@@ -333,23 +332,23 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 - Read the pages in the module "Meet the Walden Manuscript."
 - Leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about time *or* place.
 
-#### In class
+<!-- ### In class
 
-- Visit with Beth Witherell, Editor-in-Chief of [*The Writings of Henry D. Thoreau*](https://thoreau.library.ucsb.edu/). <!-- Need to get questions for her from students in advance. -->
+- Visit with Beth Witherell, Editor-in-Chief of [*The Writings of Henry D. Thoreau*](https://thoreau.library.ucsb.edu/).
 
-***Class work:*** *In your folder for 2-16, share your journal file for the day with notes on our visit from Dr. Witherell.*
+***Class work:*** *In your folder for 2-23, share your journal file for the day with notes on our visit from Dr. Witherell.* -->
 
-### Wednesday, February 18 <!-- February 25 -->
+### Wednesday, February 18
 
 #### Before class
 
-- Read *Walden*, "Reading," "Sounds," "Solitude."
-- Read the pages in the module "Text Encoding."
+- Read *Walden: A Fluid-Text Edition*, "Editorial Introduction"
+- Poke around in the fluid-text edtion of *Walden*.
 - Leave a comment on a passage in *Walden* from one of the chapters assigned for 2/26. <!-- Need to provide more direction here -->
 
 #### In class
 
-- We'll discuss *Walden* and explore TEI.
+- We'll explore the fluid-text edition of *Walden* and the *Walden* manuscript together.
 
 ***Class work:*** *In your folder for 2-18, share your journal file for the day with notes about things you learned and questions you have about TEI.*
 
@@ -357,11 +356,11 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### Before class
 
-- No new reading.
+- Read *Walden*, "Where I Lived, and What I Lived For."
 
 #### In class
 
-- We'll continue exploring TEI.
+- We'll discuss *Walden* and look at examples of Thoreau's revisions to "Where I Lived."
 
 ***Class work:*** *In your folder for 2-20, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
 

@@ -13,19 +13,31 @@ At the completion of this module you should
 
 # Dates and Activities
 
+### Monday, February 23
+
+#### Before class
+
+- Read *Walden*, "Visitors," "The Bean-Field," "The Village."
+- Leave a comment in the margin of a passage from *Walden* that's in one of the chapters assigned for 3/3.
+
+#### In class
+
+- We'll discuss *Walden* and continue exploring TEI.
+
+***Class work:*** *In your folder for 2-23, share your journal file for the day with notes about TEI.*
+
 ## Wednesday, February 25
 
 ### Before class
 
-- Read *Walden*, "Reading," "Sounds," "Solitude."
 - Read the pages in the module "Text Encoding."
 - Leave a comment on a passage in *Walden* from one of the chapters assigned for 2/26.
 
 ### In class
 
-- We'll discuss *Walden* and explore TEI.
+- Visit with Beth Witherell, Editor-in-Chief of [*The Writings of Henry D. Thoreau*](https://thoreau.library.ucsb.edu/).
 
-***Class work:*** *In your folder for 2-25, share your journal file for the day with notes about things you learned and questions you have about TEI.*
+***Class work:*** *In your folder for 2-23, share your journal file for the day with notes on our visit from Dr. Witherell.*
 
 ## Friday, February 27
 
@@ -35,19 +47,6 @@ At the completion of this module you should
 
 ### In class
 
-- We'll continue exploring TEI.
+- We'll explore TEI.
 
 ***Class work:*** *In your folder for 2-27, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
-
-## Monday, March 2
-
-### Before class
-
-- Read *Walden*, "Visitors," "The Bean-Field," "The Village."
-- Leave a comment in the margin of a passage from *Walden* that's in one of the chapters assigned for 3/2.
-
-### In class
-
-- We'll discuss *Walden* and continue exploring TEI.
-
-***Class work:*** *In your folder for 3-2, share your journal file for the day with notes about TEI.*

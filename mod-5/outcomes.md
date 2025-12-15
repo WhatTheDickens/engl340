@@ -13,7 +13,7 @@ At the completion of this module you should
 
 # Dates and Activities
 
-## Monday, February 23
+## Monday, February 16
 
 ### Before class
 
@@ -21,8 +21,28 @@ At the completion of this module you should
 - Read the pages in the module "Meet the Walden Manuscript."
 - Leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about time *or* place.
 
-### In class
+### Wednesday, February 18
 
-- Visit with Beth Witherell, Editor-in-Chief of [*The Writings of Henry D. Thoreau*](https://thoreau.library.ucsb.edu/).
+#### Before class
 
-***Class work:*** *In your folder for 2-23, share your journal file for the day with notes on our visit from Dr. Witherell.*
+- Read *Walden: A Fluid-Text Edition*, "Editorial Introduction"
+- Poke around in the fluid-text edtion of *Walden*.
+- Leave a comment on a passage in *Walden* from "Where I Lived, and What I Lived For". <!-- Need to provide more direction here -->
+
+#### In class
+
+- We'll explore the fluid-text edition of *Walden* and the *Walden* manuscript together.
+
+***Class work:*** *In your folder for 2-18, share your journal file for the day with notes about the fluid-text edition and the* Walden *manuscript*.
+
+### Friday, February 20
+
+#### Before class
+
+- Read *Walden*, "Reading," "Sounds," "Solitude."
+
+#### In class
+
+- We'll discuss *Walden* and look at examples of Thoreau's revisions.
+
+***Class work:*** *In your folder for 2-20, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*

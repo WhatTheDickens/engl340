@@ -46,10 +46,10 @@ At the completion of this module you should
 
 ### Before class
 
-- Register an account with the Library of Congress' [By the People](https://crowd.loc.gov/) project.
+- Explore the [Colored Conventions Project](https://coloredconventions.org/).
 
 ### In class
 
 - We'll meet in the Milne Library Multi-Purpose Room to participate in Douglass Day. You don't have to stay beyond the end of our class period, but you're welcome to stay as long as you like!
 
-***Class work:*** *In your folder for 2-13, share the letter from the Library of Congress that details your contributions for the day, along with your journal file for the day containing some notes on your experience working with the Douglass correspondence.*
+***Class work:*** *In your folder for 2-13, share your journal file with information about the documents you transcribed. Include your reflections on anything interesting you learned from transcribing them.*
