@@ -30,8 +30,6 @@ At the completion of this module you should
 
 ***Class work:*** *In your folder for 3-9, share your journal file for the day with notes about how the internet and web evolved. What did you already know about this evolution? What did you learn for the first time? Was there anything you thought you knew that turned out to be wrong? Did you have to modify any knowledge or beliefs in light of what you learned?*
 
-***Class work:*** *In your folder for 3-2, share your journal file for the day with notes about TEI.*
-
 ## Wednesday, March 11
 
 ### Before class
@@ -42,20 +40,15 @@ At the completion of this module you should
 
 - We'll play with HTML and CSS.
 
-<!-- ***Class work:*** Need something here? -->
-
-### In class
-
-- We'll discuss *Walden*.
-<!-- - HTML -->
+<!-- ***Class work:*** Need something here -->
 
 ## Friday, March 13
 
-#### Before class
+### Before class
 
 - No additional reading.    
 
-#### In class
+### In class
 
 - I'll hold an AMA in Teams. Ask me anything!
 
@@ -75,7 +68,7 @@ At the completion of this module you should
 
 - We'll discuss *Broad Band* and continue to play with HTML and CSS.
 
-- ***Class work:*** *In your folder for 3-9, share your journal file for the day with notes on HTML and CSS.*
+- ***Class work:*** *In your folder for 3-23, share your journal file for the day with notes on HTML and CSS.*
 
 ## Wednesday, March 25
 
@@ -88,15 +81,14 @@ At the completion of this module you should
 - We'll work on blog posts together and make sure everyone knows what they have to do to complete the assignment successfully.
 - We'll play more with HTML and CSS.
 
-- ***Class work:*** *In your folder for 3-11, share the first draft of your blog post.*
-- ***Due:*** *First blog post.*
+- ***Class work:*** *In your folder for 3-25, share the first draft of your blog post.*
 
 ## Friday, March 27
 
 ### Before class
 
 - Read *Walden*, "Brute Neighbors," "House-Warming," "Former Inhabitants; and Winter Visitors."
-- Leave a comment in the margin of a passage from *Walden* that's in one of the chapters assigned for 3/27.
+- Leave a comment in the margin of a passage from *Walden* that's in one of the chapters assigned for 3-27.
 
 ### In class
 
@@ -107,34 +99,35 @@ At the completion of this module you should
 ### Before class
 
 - Read *Walden*, "Winter Animals," "The Pond in Winter" 
-- Leave a comment in the margin of any part of *Walden* assigned for 3/30 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
+- Leave a comment in the margin of any part of *Walden* assigned for 3-30 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
 
 ### In class
 
-???
+- We'll discuss *Walden*
 
-***Class work:*** *In your folder for 3-30, share your journal file for the day with reflections on ... *
+***Class work:*** *In your folder for 3-30, share your journal file for the day with reflections on ...*
 
 ## Wednesday, April 1
 
 ### Before class
 
 - Read *Walden*, "Spring."
+- Watch episodes 1 and 2 of the Ken Burns PBS documentary ["Henry David Thoreau"](https://www.pbs.org/video/henry-david-thoreau-coming-spring-2026-0qacfu/). (Link is to the preview and will be updated as show time approaches.)
 
 ### In class
 
 - We'll discuss *Walden* and explore images of the *Walden* manuscript.
 
-***Class work:*** *In your folder for 3-25, share your journal file for the day with notes on any thoughts you have about the* Walden *manuscript images.*
+***Class work:*** *In your folder for 4-1, share your journal file for the day with notes on any thoughts you have about the* Walden *manuscript images.*
 
 ## Friday, April 3
 
 ### Before class
 
-- No additional reading.
+-  Watch episode 3 of the Ken Burns PBS documentary ["Henry David Thoreau"](https://www.pbs.org/video/henry-david-thoreau-coming-spring-2026-0qacfu/). (Link is to the preview and will be updated as show time approaches.)
 
 ### In class
 
-- We'll use this class meeting to catch up as needed.
+- We'll discuss *Walden* and the documentary.
 
 <!-- ***Class work:*** Need something here? -->

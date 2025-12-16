@@ -13,14 +13,14 @@ At the completion of this module you should
 
 # Dates and Activities
 
-### Monday, February 23
+## Monday, February 23
 
-#### Before class
+### Before class
 
 - Read *Walden*, "Visitors," "The Bean-Field," "The Village."
-- Leave a comment in the margin of a passage from *Walden* that's in one of the chapters assigned for 3/3.
+- Leave a comment in the margin of a passage from *Walden* that's in one of the chapters assigned for 2-23.
 
-#### In class
+### In class
 
 - We'll discuss *Walden* and continue exploring TEI.
 
@@ -31,13 +31,13 @@ At the completion of this module you should
 ### Before class
 
 - Read the pages in the module "Text Encoding."
-- Leave a comment on a passage in *Walden* from one of the chapters assigned for 2/26.
+- Leave a comment on a passage in *Walden* in another of the chapters assigned for 2-25.
 
 ### In class
 
 - Visit with Beth Witherell, Editor-in-Chief of [*The Writings of Henry D. Thoreau*](https://thoreau.library.ucsb.edu/).
 
-***Class work:*** *In your folder for 2-23, share your journal file for the day with notes on our visit from Dr. Witherell.*
+***Class work:*** *In your folder for 2-25, share your journal file for the day with notes on our visit from Dr. Witherell.*
 
 ## Friday, February 27
 

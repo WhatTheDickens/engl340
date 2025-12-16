@@ -33,7 +33,6 @@ At the completion of this module you should
 ### Before class
 
 - Read [What is Scholarly Editing?]({{ site.url }}/mod-4/what-is-scholarly-editing), [Types of Scholarly Editing]({{ site.url }}/mod-4/types-of-scholarly-editing), and [Computers and Scholarly Editing]({{ site.url }}/mod-4/computers-and-scholarly-editing).
-- Read *The Book*, 1-110
 
 ### In class
 
