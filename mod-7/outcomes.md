@@ -44,7 +44,7 @@ At the completion of this module you should
 
 - We'll play with HTML and CSS.
 
-<!-- ***Class work:*** Need something here -->
+***Class work:*** *In your folder for 3-11, share your journal file for the day with notes about HTML and CSS.*
 
 ## Friday, March 13
 
@@ -55,6 +55,8 @@ At the completion of this module you should
 ### In class
 
 - I'll hold an AMA in Teams. Ask me anything!
+
+***Class work:*** *In your folder for 3-13, share your journal file for the day with any notes you like.*
 
 ---
 
@@ -72,7 +74,7 @@ At the completion of this module you should
 
 - We'll discuss *Broad Band* and continue to play with HTML and CSS.
 
-- ***Class work:*** *In your folder for 3-23, share your journal file for the day with notes on HTML and CSS.*
+- ***Class work:*** *In your folder for 3-23, share your journal file for the day with notes on our discussion of* Broad Band *and HTML and CSS.*
 
 ## Wednesday, March 25
 

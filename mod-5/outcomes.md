@@ -21,19 +21,16 @@ At the completion of this module you should
 
 ### Before class
 
-- Read *Walden*, "Where I Lived, and What I Lived For."
+- Read *Walden*, "[Where I Lived, and What I Lived For](https://commons.digitalthoreau.org/walden/where-i-lived-and-what-i-lived-for/where-i-lived-and-what-i-lived-for-1-12/)" (all paragraphs)
 - Read the pages in the module "Meet the Walden Manuscript."
-- Leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about time *or* place.
-
-<!--
+- Leave a comment on a paragraph or part of a paragraph in "Where I Lived, and What I Lived For" responding to anything Thoreau has to say about time *or* place.
 
 ### In class
 
-- Activity needed
+- We'll discuss *Walden*
+- We'll explore the *Walden* manuscript
 
-***Class work:*** In your folder for 2-16 ...
-
--->
+***Class work:*** In your folder for 2-16, share your journal file for the day with notes on our discussion of *Walden* and the *Walden* manuscript.
 
 ## Wednesday, February 18
 
@@ -41,7 +38,7 @@ At the completion of this module you should
 
 - Read *Walden: A Fluid-Text Edition*, "Editorial Introduction"
 - Poke around in the fluid-text edtion of *Walden*.
-- Leave a comment on a passage in *Walden* from "Where I Lived, and What I Lived For". <!-- Need to provide more direction here -->
+- Find one or more revisions to ["Where I Lived, and What I Lived For" in the fluid-text edition of *Walden*](https://digitalthoreau.org/walden/fluid/text/02.html) that interest you. Leave a comment on the revision(s) in the corresponding location in ["Where I Lived, and What I Lived For" in The Readers' Thoreau edition of *Walden*](https://commons.digitalthoreau.org/walden/where-i-lived-and-what-i-lived-for/where-i-lived-and-what-i-lived-for-1-12/). Explain how/why you think the revision(s) made a difference to Thoreau's meaning or the rhythm of his language.
 
 ### In class
 

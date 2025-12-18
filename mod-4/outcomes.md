@@ -43,7 +43,7 @@ At the completion of this module you should
 - We'll discuss books and editing.
 - We'll prepare for [Douglass Day](https://cdl-geneseo.github.io/douglass-day/).
 
-***Class work:*** *In your folder for 2-11, share a journal file for the day (.md extension) containing some notes about the reading in* The Book. *These can be personal reflections or notes on discussion in your group.*
+***Class work:*** *In your folder for 2-11, share a journal file for the day (.md extension) containing your notes about today's discussion of books and editing.*
 
 ## Friday, February 13
 
@@ -55,4 +55,4 @@ At the completion of this module you should
 
 - We'll meet in the Milne Library Multi-Purpose Room to participate in Douglass Day. You don't have to stay beyond the end of our class period, but you're welcome to stay as long as you like!
 
-***Class work:*** *In your folder for 2-13, share your journal file with information about the documents you transcribed. Include your reflections on anything interesting you learned from transcribing them.*
+***Class work:*** *In your folder for 2-13, share your journal file with information about the documents you transcribed. Include your reflections on anything interesting you learned from transcribing them. These notes will help you develop your first blog post.*

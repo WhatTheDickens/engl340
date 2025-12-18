@@ -45,7 +45,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ### Before class
 
-- Read *Walden*, "Economy," paragraphs 1-70.
+- Read *Walden*, "[Economy](https://commons.digitalthoreau.org/walden/economy/economy-1-14/)", paragraphs 1-70.
 - Read Rebecca Solnit, "[Mysteries of Thoreau, Unsolved](https://drive.google.com/file/d/17T5Hq3lxrkQBDzBJJOmfer6F6FIpkuec/view?usp=sharing)".
 - Choose a sentence anywhere in paragraphs 1-70 of "Economy" in *Walden* that you find interesting&mdash;either for what it says or how it's written. Select that sentence with your mouse and add a comment about it in the margin.
 

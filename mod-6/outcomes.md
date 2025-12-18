@@ -22,13 +22,13 @@ At the completion of this module you should
 ### Before class
 
 - Read *Walden*, "Reading," "Sounds," "Solitude."
-- Leave a comment in the margin of a passage from *Walden* that's in one of the chapters assigned for 2-23.
+- Leave a comment in the margin of a passage from [*Walden* in The Readers' Thoreau](https://commons.digitalthoreau.org/walden/) that's in one of the chapters assigned for 2-23.
 
 ### In class
 
 - We'll discuss *Walden* and continue exploring TEI.
 
-***Class work:*** *In your folder for 2-23, share your journal file for the day with notes about TEI.*
+***Class work:*** *In your folder for 2-23, share your journal file for the day with notes our *Walden* discussion and TEI.*
 
 ## Wednesday, February 25
 
@@ -42,7 +42,7 @@ At the completion of this module you should
 
 - Visit with Beth Witherell, Editor-in-Chief of [*The Writings of Henry D. Thoreau*](https://thoreau.library.ucsb.edu/).
 
-***Class work:*** *In your folder for 2-25, share your journal file for the day with notes on our visit from Dr. Witherell.*
+***Class work:*** *In your folder for 2-25, share your journal file for the day with notes on our visit from Dr. Witherell. These should be detailed.*
 
 ## Friday, February 27
 
