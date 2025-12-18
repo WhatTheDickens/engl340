@@ -17,7 +17,7 @@ At the completion of this module you should
 
 ### Before class
 
-- Read *Walden*, "Visitors," "The Bean-Field," "The Village."
+- Read *Walden*, "Reading," "Sounds," "Solitude."
 - Leave a comment in the margin of a passage from *Walden* that's in one of the chapters assigned for 2-23.
 
 ### In class
@@ -30,6 +30,7 @@ At the completion of this module you should
 
 ### Before class
 
+- Read *Walden*, "Visitors," "The Bean-Field," "The Village."
 - Read the pages in the module "Text Encoding."
 - Leave a comment on a passage in *Walden* in another of the chapters assigned for 2-25.
 
@@ -50,3 +51,5 @@ At the completion of this module you should
 - We'll explore TEI.
 
 ***Class work:*** *In your folder for 2-27, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
+
+***Reminder:*** [First blog post assignment]({{ site.url }}/mod-92/first-blog-assignment) due by February 27 at 11:59 p.m.

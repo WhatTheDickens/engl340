@@ -34,6 +34,7 @@ There's so much to tell you about it! Use the links below to navigate the conten
 - [Who the course is for](#who-the-course-is-for)
 - [When and where we'll meet](#when-and-where-well-meet)
 - [How and when to find me](#how-and-when-to-find-me)
+<!-- - [Why are we using this website?](#why-are-we-using-this-website) -->
 - [Learning outcomes](#learning-outcomes)
 - [Assessment](#assessment)
 - [What we'll read](#what-well-read)
@@ -75,6 +76,8 @@ Our final meeting will take place during our assigned final exam slot on Thursda
 
 - Wednesday, 2:30 pm &ndash; 4:00 pm in South 347
 - Any free time that works for you at [https://schacht.youcanbook.me](https://schacht.youcanbook.me)
+
+<!-- ## Why are we using this website? -->
 
 ## Learning outcomes
 

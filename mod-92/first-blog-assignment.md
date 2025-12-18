@@ -5,9 +5,9 @@ parent: Blog Assignments
 nav_order: 1
 ---
 
-# First Blog Assignment
+# First Blog Assignment: Reflecting on Transcription
 
-## Due: March <s>10</s> 12 by 11:59 p.m.
+## Due: February 27 by 11:59 p.m.
 
 - [What you'll do for this assignment](#what-youll-do-for-this-assignment)
 - [How you'll do it](#how-youll-do-it)
@@ -16,27 +16,20 @@ nav_order: 1
 
 ## What you'll do for this assignment
 
-Write a few paragraphs (about 500 words, but don't get hung up on numbers) in which you reflect on your learning in the course so far. There isn't one right way to do this, but however you do it, make sure that you
+Write a blog post (about 750&ndash;1000 words) reflecting on what you learned by transcribing documents from the [Colored Conventions Project](https://coloredconventions.org/) on [Douglass Day](https://go.geneseo.edu/douglassday).
 
-1. Look inside yourself. Ask yourself how you've changed or grown.
-2. Be concrete. Give specific examples of new knowledge or skills and why they matter to you.
-3. If you use generative AI to help you complete this assignment, include in your post a description of just how you did so. Was it to outline? Brainstorm? Organize your thoughts? Improve grammar/punctuation/usage/flow? Which GenAI tool(s) did you use? If you used GenAI to "clean up" your prose, give at least one before-and-after example of how GenAI improved one of your sentences.
-4. Show *care* in your writing. Care is different from grammatical correctness or correct punctuation. Careful writing reads like time and thought went into it, not like it was tossed together in a hurry. In addition, careful writing doesn't feel generic. It carries the mark of the writer's individuality Individuals have bumps and warts. They take risks. Bumps, warts, and risk-taking make writing enjoyable and interesting to read, because they convey the humanity of the writer.
-5. Remember that your post will appear on a public-facing blog, where anyone in the world who finds it can read it.
+As a way to get started, ask yourself these questions:
 
-There are a couple of things you should be sure *not* to do:
+- What did I know about the Colored Conventions movement before I participated in the transcribe-a-thon? What's the most important take-away for me about the movement itself as a result of participating?
+- What did I know about working with digitized archival documents before I participated in the transcribe-a-thon? What are some key take-aways for me about digital archives as a result of participating?
+- What did I know about transcribing archival documents before I participated in the transcribe-a-thon? What do I now know about document transcription that I didn't know before?
+- What specific challenges did I face in doing the transcription? How did I overcome these challenges (if indeed I did)?
+- Overall, how did the experience of engaging with archival documents change my sense of relationship to, or understanding of, the history to which these documents belong?
 
-1. Don't mention me by name. This post is about you, not me. Focus on what *you've* learned from the *course* or how the *course* has changed *you* so far, not on anything *I've* done or said or taught. 
-2. Don't write things you think *I* want to read. Write what's real. Write honestly. Your post will *not* be evaluated based on whether you've said the "right" thing.
+{: .important}
+Use these questions to stimulate reflection and help you organize your thoughts. Don't feel that you have to answer every one of these questions in the blog post itself. *Don't include these or similar questions themselves in your blog post.* You may, however, include headings as in the blog post template below. (Feel free to come up with your own headings in place of the template headings.) Headings are optional.
 
-Below are some questions to prompt your thinking. *Don't construct your post by answering these questions one at a time!* They're meant to help you reflect, not to organize your post. You don't have to answer all of them. Maybe one or two will suggest a theme for you to explore about your learning so far. If so, you can focus on that theme and not worry about questions that aren't related to it.
-
-- What are a few *important* things you know now that you didn't know before the course began? (Important to *you*, that is. And why *are* they important to you?) You don't have to limit yourself to things we've done or discussed in class. Maybe the most important things you've learned have been in the books assigned or the course website.
-- What are some connections between computers and the humanities that you see now but hadn't seen, or hadn't given much thought to, before?
-- Has what you've learned so far affected your confidence or your facility in using your computer? How?
-- Has what you've learned made you pay attention to things outside this class that you hadn't paid much attention to before? (These could be facts/ideas in other classes, things you notice in the news, things you notice on social media, or other things.)
-- Has what you've learned so far spilled over into any of your other coursework, reading, or activities? If so, how?
-- What are some things you find yourself wanting to know now or be able to do that you hadn't much thought about knowing or doing before?
+In your blog post, include at least one image of a document you transcribed during the transcribe-a-thon. An included image should be either a downloaded copy of the image, a properly configured pointer to the image that brings the image up in the body of your post (not simply a link to the image), or a good quality screen grab or photo that you took. Be sure to identify any included images properly and accurately. Your blog post should use the image(s) to ground your reflection in concrete detail.
 
 ## How you'll do it
 
@@ -56,15 +49,14 @@ In your blog post, did you &hellip;
 
 |   | Not really | A little bit | Somewhat | Pretty much | Yes! |
 | - | ---------- | ------------ | -------- | ----------- | ---- |
-| give concrete examples of skills or knowledge you've obtained in the course so far? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
-| explain why the skills or knowledge are important to you? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
-| address yourself to one or more of the assignment questions meant to prompt your thinking? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
-| write authentically, in your own voice, using your own words, about your learning? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| reflect thoughtfully on what you learned from participating in the transcribe-a-thon, explaining how the activity changed your relationship to the history that the Colored Conventions documents embody (or why it didn't)? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| compare what you knew going into the transcribe-a-thon about archival work and/or document transcription with what you know now? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| give examples of one or more challenges you faced, and how you overcame them (if you did)? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| properly incorporate in your blog post at least one image of a document you transcribed during the transcribe-a-thon? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | document any use you made of GenAI? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
-| write about how the *course* has changed *you* (if it has), avoiding any direct mention of *me*, the instructor? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | use care in the composition of your post? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | give your post a short title (in the title field, not the post body) that succinctly captures its thrust? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
-| format your post appropriately using Markdown? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| format your post properly using Markdown? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 
 ## A blog post template
 
@@ -74,7 +66,7 @@ Click the Preview icon in VS Code to see how the content would look with the Mar
 
 The template illustrates a few things to keep in mind as you draft your post:
 
-- There is no title in the post text itself. Your tilte will go into the Title field in WordPress. Don't repeat it in your post. A good title for this template post&mdash;one that captures the post's main idea&mdash;would be "Lost and Found."
+- There is no title in the post text itself. Your title will go into the Title field in WordPress. Don't repeat it in your post. A good title for this template post&mdash;one that captures the post's main idea&mdash;would be "Lost and Found."
 - Since the post has a title, the highest-level heading used in the post is a level-two heading, with the heading text preceded by `##`.
 - The post uses headings to organize the content so that a reader can easily follow the thought. A list helps to do the same. These features are completely optional. They're being used here merely to remind you that Markdown is one tool at your disposal for making your post engaging and easy for a reader to follow.
 - Paragraphs in the post are separated by empty lines.
@@ -88,33 +80,24 @@ You can return to your post and continue editing it in the editor. If you do, be
 When you're satisfied with your post, click "Submit for Review."
 
 ```markdown
-In *Walden*, Thoreau writes:
 
-> Not till we are lost, in other words not till we have lost the world, do we begin to find ourselves, and realize where we are and the infinite extent of our relations.
+## What I transcribed
 
-I began this class feeling very lost. There was so much I didn't understand about how we were being asked to use our computers. I'm beginning to find myself and understand at least a few important "relations." Maybe they're not "infinite" in their extent, but they seem important. I mean, for example, how parts of my computer are related to each other, and how computing is related to the humanities.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
 
-## My computer
-
-Here are a few things I've learned about my computer:
-
-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-- Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-- Etiam ultricies nisi vel augue.
-
-### Lorem impsum dolor
+## What I learned from transcribing
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
 
-### Aenean commodo ligula eget dolor
+### What I learned about working with documents
 
 Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
 
-### Etiam ultricies nisi
+### What I learned about the history these documents embody
 
 Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
 
-## Computing and the humanities
+## How I see things now
 
-Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. *Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.* Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. **Cum sociis natoque penatibus et magnis** dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. *Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.* Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. **Cum sociis natoque penatibus et magnis** dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
 ```

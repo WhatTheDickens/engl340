@@ -49,10 +49,11 @@ At the completion of this module you should
 
 ### Before class
 
-- Read *Walden*, "Reading," "Sounds," "Solitude."
+- Write a first draft of your first blog post as a plain text file in VS Code, using Markdown.
+- Prepare any images from the Colored Conventions Project that you'll use in your blog post for upload to the blog.
 
 ### In class
 
-- We'll discuss *Walden* and look at examples of Thoreau's revisions.
+- We'll work on blog posts together and make sure everyone knows what they have to do to complete the assignment successfully.
 
-***Class work:*** *In your folder for 2-20, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
+***Class work:*** *In your folder for 2-20, share your journal file for the day with notes on any challenges you overcame or are still facing with respect to the blog assignment.*
