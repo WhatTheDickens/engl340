@@ -29,3 +29,6 @@ callouts:
   note:
     title: Note
     color: yellow
+  intro:
+    title:
+    color: yellow

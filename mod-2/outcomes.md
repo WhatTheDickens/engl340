@@ -4,6 +4,10 @@ layout: default
 parent: The Command Line
 nav_order: 1
 ---
+# Module Description
+
+In this module, you'll learn how to interact with your computer's operating system using the command line, a powerful interface for, among other things, creating, editing, searching, and organizing files.
+
 # Learning Outcomes
 
 At the completion of this module you should

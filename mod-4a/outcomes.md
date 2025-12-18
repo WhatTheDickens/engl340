@@ -5,6 +5,10 @@ parent: Artificial Intelligence
 nav_order: 1
 ---
 
+# Module Description
+
+"Artificial Intelligence," or "AI," is suddenly everywhere, and so are opinions about it. This module provides a very brief introduction to AI and some of the controversy that surrounds it.
+
 # Learning Outcomes
 
 At the completion of this module, you should

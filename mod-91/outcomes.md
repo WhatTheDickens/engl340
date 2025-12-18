@@ -5,9 +5,9 @@ parent: Final Meeting
 nav_order: 0
 ---
 
-# Learning Outcomes
+# Final Meeting Learning Outcomes
 
-At the completion of this module you should
+At the completion of our final meeting you should
 
 1. Understand the insights your classmates share based on their encoding work and the revision narratives they've built
 2. Feel wonderful about what you've learned in ENGL 340 this semester

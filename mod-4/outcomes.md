@@ -4,6 +4,10 @@ layout: default
 parent: Digital Scholarly Editing
 nav_order: 0
 ---
+# Module Description
+
+Like the word "text," the word "editing" has different meanings depending on whether the context is literature or computing. In addition, even within the literary context, there are different ways to "edit," and different ways to produce an "edition" of a literary text. This module introduces you to *scholarly editing* as a literary activity and explains how that activity has been changed by the advent of digital technology.
+
 # Learning Outcomes
 
 At the completion of this module you should
