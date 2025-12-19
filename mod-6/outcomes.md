@@ -56,4 +56,4 @@ At the completion of this module you should
 
 ***Class work:*** *In your folder for 2-27, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
 
-***Reminder:*** [First blog post assignment]({{ site.url }}/mod-92/first-blog-assignment) due by February 27 at 11:59 p.m.
+***Reminder:*** [First blog post assignment]({{ site.url }}/mod-92/first-blog-assignment) due February 27 at 11:59 p.m.

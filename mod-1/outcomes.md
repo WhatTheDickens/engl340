@@ -4,7 +4,7 @@ layout: default
 parent: Meet Your Computer
 nav_order: 2
 ---
-# Module: Meet Your Computer
+# Module Description
 
 In this module, you'll get acquainted with such basics as the operating and file systems of your computer.
 

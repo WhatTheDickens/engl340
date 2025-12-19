@@ -111,7 +111,7 @@ At the completion of this module you should
 
 - We'll discuss *Walden*
 
-***Class work:*** *In your folder for 3-30, share your journal file for the day with reflections on ...*
+***Class work:*** *In your folder for 3-30, share your journal file for the day with your notes on our discussion of *Walden*.
 
 ## Wednesday, April 1
 
@@ -136,4 +136,4 @@ At the completion of this module you should
 
 - We'll discuss *Walden* and the documentary.
 
-<!-- ***Class work:*** Need something here? -->
+***Class work:*** *In your folder for 4-3, share your journal file for the day with your notes on our discussion of *Walden* and the documentary.

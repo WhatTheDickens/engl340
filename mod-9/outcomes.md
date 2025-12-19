@@ -26,9 +26,9 @@ No additional reading.
 
 ### In class
 
-- We'll discuss *Walden* and talk about the workflow for your group projects.
+- We'll discuss the workflow for your group projects.
 
-***Class work:*** *In your folder for 4-13, share your journal file for the day with reflections on your experience reading* Walden.
+***Class work:*** *In your folder for 4-13, share your journal file for the day with notes on the progress of your group project.*
 
 ## Wednesday, April 15
 
@@ -40,7 +40,9 @@ No additional reading.
 
 - Group project work in class.
 
-***Class work:*** *In your folder for 4-17, share your journal file for the day with notes on anything you've learned today from this class or any other, or from any experience outside of your classes.*
+***Class work:*** *In your folder for 4-17, share your journal file for the day with notes on the progress of your group project.*
+
+***Reminder:*** [Second blog post assignment]({{ site.url }}/mod-92/second-blog-assignment) due April 17 at 11:59 p.m.
 
 ## Monday, April 20
 

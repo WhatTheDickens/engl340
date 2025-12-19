@@ -24,10 +24,6 @@ At the completion of this module you should
 - Review [Attributes, Links, Images]({{ site.url }}/mod-7/attributes-links-images) in the "Internet and Web" module.
 - As you did for our 3/30 meeting, leave a comment in the margin of any part of *Walden* assigned for 4/6 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
 
-<!-- 
-- Choose at least one of the following (you're welcome to do both!):
-    - Reply in the margin of *Walden* to a comment from one of the students in the group "Choate RH 2025." In your reply, take a "[Yes, and](https://en.wikipedia.org/wiki/Yes,_and...)" approach, which doesn't preclude disagreeing but does require accepting the basic premise of the post to which you're replying. As part of your reply, you might also ask the original poster a follow-up question in an effort to better understand their viewpoint or make a connection between their comment and another idea or another passage. One way to find comments from the Choate students is to click the megaphone icon near the upper right of the web page and then click "Recent Comments in this Text." Be sure you're logged in when you do this. -->
-
 ### In class
 
 - We'll discuss *Walden* and play with incorporating images into web pages.
@@ -40,7 +36,7 @@ At the completion of this module you should
 
 - Read *Walden*, "Conclusion."
 - Read [IIIF images]({{ site.url }}/mod-8/iiif-images).
-<!-- - In the one of the chaptets of *Walden* assigned for 4/2, leave a comment in the margin of any description of nature that resonates with your own experience of nature&mdash;for example, any description that makes you think, "I've heard that!" or "I've seen that!" or "I know what he's talking about but I never thought about it that way!" -->
+- Leave a comment in the margin of "Conclusion" connecting the there to language in any of the previous chapters of *Walden*. How does the language you identify in "Conclusion" enable Thoreau to echo, expand on, or put a new twist on the idea(s) expressed in the earlier chapter?
 
 ### In class
 
