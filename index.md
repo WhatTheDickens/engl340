@@ -262,6 +262,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - Read *Walden*, "[Economy](https://commons.digitalthoreau.org/walden/economy/economy-1-14/)", paragraphs 1-70.
 - Read Rebecca Solnit, "[Mysteries of Thoreau, Unsolved](https://drive.google.com/file/d/17T5Hq3lxrkQBDzBJJOmfer6F6FIpkuec/view?usp=sharing)".
+- Read Colleen Kinder, ["What Happened When My Yale Students Gave Up Their Phones for Four Weeks"](https://www.nytimes.com/2025/12/19/opinion/tech-free-college-spaces.html?unlocked_article_code=1.-k8.fJyp.WNrk6ErYaLsM&smid=url-share)(*New York Times* gift article); if you can't access it, find it in our [Readings folder](https://docs.google.com/document/d/1AJQyzaB6fCx8XXS85LJKaI5rbS4oFf0_fX2e5P0_xZM/edit?usp=sharing).
 - Choose a sentence anywhere in paragraphs 1-70 of "Economy" in *Walden* that you find interesting&mdash;either for what it says or how it's written. Select that sentence with your mouse and add a comment about it in the margin.
 
 #### In class
