@@ -7,9 +7,15 @@ nav_order: 2
 
 # What is Artificial Intelligence?
 
-To suppose that we can talk meaningfully about something called "artificial intelligence" is to assume that we can take, as our starting point, something we already understand, called "intelligence," and ask whether it's possible, or what it would look like, to replicate it "artificially."
+In computer science, the term "artificial intelligence" has a very definite origin story.
 
-But far from understanding intelligence, we don't even have an agreed-upon definition of it&mdash;any more than we have agreed-upon definitions of such related words as "thinking," "mind," and "consciousness."
+
+
+<!-- To suppose that we can talk meaningfully about something called "artificial intelligence" is to assume that we can take, as our starting point, something we already understand, called "intelligence," and ask whether it's possible, or what it would look like, to replicate it "artificially."
+
+But far from understanding intelligence, we don't even have an agreed-upon definition of it&mdash;any more than we have agreed-upon definitions of such related words as "thinking," "mind," and "consciousness." -->
+
+<!-- This isn't to say there aren't theories about all of these or that there hasn't been progress in understanding them. -->
 
 What we do have, accompanied by both extravagant claims for their efficacy and vehement calls to resist or severely regulate them&mdash;sometimes issuing from the same source&mdash;are computer systems and interfaces *presented to us* as exhibiting or employing artificial intelligence (AI for short). Sometimes these systems and interfaces are said to exhibit or employ a specific variety of artificial intelligence known as "generative artificial intelligence"&mdash;GenAI, for short.
 
