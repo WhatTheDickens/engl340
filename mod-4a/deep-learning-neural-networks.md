@@ -19,16 +19,14 @@ Indeed, "machine learning" is the generic label applied to computer systems capa
 
 ## Deep Learning and Neural Networks
 
+But to repeat, there's no question computers can "learn" in the limited sense of running software whose performance continuously improves in response to feedback, and in recent years a kind of machine learning called "deep learning" has supercharged this process using a design called "neural networks." Again, keep the quotation marks on this last term mentally, at least. Neural networks are intended to replicate, loosely, the networked structure of neurons in the human brain. The "nodes" of a neural network are indeed networked, but they aren't, of course, actual neurons. They're connected by complex mathematical equations. "Weights" and "parameters" in the network can be adjusted to fine-tune the output it produces.
 
+When massive quanitites of data&mdash;numbers, words, images, whatever&mdash;are run repeatedly through a multi-layered neural network, the network becomes startlingly good at finding patterns in the data and generating new output based on statistical probablilities. It's this capability that enables a chatbot like ChatGPT, Claude, or Copilot to take text as input and immediately generate grammatical, idiomatic output that gives all the appearance, at least superficially, of coming from a human interlocutor.  
 
+## Supervised, Unsupervised, and Reinforcement Learning
 
+Broadly speaking, AI systems can be trained in any of three ways. In "supervised learning," labeled data goes into the network in order to train the network to look for specific patterns and match them when it finds them. In "unsupervised learning," the network takes in unlabled data and identifies patterns itself. In "reinforcement learning," the network attempts, through trial and error, to achieve a general outcome.
 
-<!-- As the video you watched in the previous section ([What is Aritificial Intelligence?]({{ site.url }}/what-is-ai)) makes clear, artificial intelligence is distinguished from other computational methods by its use of "deep learning." Unlike "hard-coded" algorithms that instruct a computer to carry out a specified series commands or allow it to choose an action based on information previously supplied to it (such as actual chess matches), machine learning algorithms use statistical inference to enable a computer to predict outcomes and revise those predictions in response to feedback. Over time, the computer "learns" from repeated feedback to make better and better predictions.
+## Foundation, Large Language, and Diffusion Models
 
-We need to keep those quotation marks around the word *learns* because this mode of learning is different from human learning. Much of the terminology associated with artificial intelligence suggests an analogy with human mental processing, and that's probably fine as long as we keep in mind that it's *only* an analogy. But as we saw from the video in the previous section, the history of artificial intelligence in computing is bound up with efforts to emulate or compete with human intelligence, and one consequence of this effort seems to be a tendency, on the part of some researchers and corporations, to deliberately obscure the difference between them. We'll return to this tendency in the section on AI and ethics.
-
-The second video in William J.B. Mattingly's series explains a core tool of artificial intelligence named for the human anatomical feature it's designed to emulate: the *neural network*. Again, keep in mind that the structure and behavior of the neural networks used in computing is not the same as the structure and behavior of the actual networked neurons in the human brain.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G0hvxnb7hHM?si=fiEeF3BuQVNb0853" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
--->
+Neural networks trained on massive datasets, equipped with powerful computing resources, and capable of being used for a wide range of applications are sometimes called "foundation models." Those trained on language data in order to use pattern-matching and probabilistic methods to generate text are called "large language models." Those trained on image data and capable of generating images and video are called "diffusion models."
