@@ -1,19 +1,17 @@
 ---
-title: AI Hype and AI Harms
+title: AI Hype
 layout: default
 parent: Artificial Intelligence
 nav_order: 4
 ---
 
-# AI Hype and AI Harms
-
-## AI Hype
+# AI Hype 
 
 We've seen that machine learning has produced tremendous advances in the ability of computers to detect and replicate pattens, solve complex problems, and generate new content from existing content using a combination of logic and probability. These advances are real.
 
 We've also seen that these abilities have emerged from a computer science research program that began more than half a century ago with an ambitious overarching goal: to simulate human intelligence in a machine.
 
-Finally, we'e seen that from the beginning, this program was one where talk of *simulating* intelligence easily slid over into talk of *creating* intelligence. "AI hype" might be said to begin with the obfuscation of the difference between these two things.
+Finally, we've seen that from the beginning, this program was one where talk of *simulating* intelligence easily slid over into talk of *creating* intelligence. "AI hype" might be said to begin with the obfuscation of the difference between these two things.
 
 For businesses that sell AI systems, the financial incentives to keep up this obfuscation are obvious. The obfuscation also benefits businesses that invest in AI services with the thought that these might replace some of their actual human workers. 
 
@@ -37,44 +35,26 @@ Bender and Hanna distinguish five types of automation among the systems marketed
 
 Some of these technologies have been around for a long time; only recently, Bender and Hanna point out, have most of them been marketed under the banner of "AI."
 
-All of these technologies can save time and produce other benefits in personal, business, or research contexts. It isn't hype to recognize what they can do. AI hype consists in exaggerating what they can do or in ignoring or minimizing the costs they incur&mdash;costs like those taken up below under "AI Harms."
+All of these technologies can save time and produce other benefits in personal, business, or research contexts. It isn't hype to recognize what they can do. AI hype consists either in exaggerating their capabilities or in ignoring or minimizing the costs they incur&mdash;costs like those taken up on the next page of this module under "AI Harms."
 
-Or, as Bender and Hanna arguing, in making them out to be, collectively, more than the sum of their parts&mdash;particularly in suggesting that together they put us into, or on the cusp of, a new era in which machines will somewhow awake into consciousness.
+As we've seen Bender and Hanna arguing, AI hype can also take the form of representing these technologies, collectively, as more than the sum of their parts&mdash;particularly by suggesting that together they put the world into, or on the cusp of, a new era in which machines will somewhow awake into consciousness. 
 
-<!-- one last return to the original argument; bring Searle in here. -->
+Accordingly, let's conclude this page on AI hype by returning to what's problematic in the idea of "thinking machines." 
 
+I experience my own consciousness as something internal to myself; I experience another's consciousness only by means of that person's behavior. I can't inspect your thinking directly, nor can you inspect mine. Each of us is limited to observing behavior in the other that *looks like* it must be the product of thinking. I'm inclined to believe that your outward behavior is accompanied by the same kind of inner experience that constitutes my own consciousness. But I have no way to know, for certain, that this is so. Alan Turing acknowledged this limitation in interpersonal knowledge in his pioneering paper on computing and intelligence, writing that, without the means of proof, "it is usual to have the polite convention that everyone thinks."
 
+For the same reason that I can't know for sure that you're thinking, there's no way for me to prove that you're not. AI hype benefits from the impossibility of proving this particular negative about machines as well. How would I prove that the computer on whose keyboard I'm typing right now isn't conscious? So perhaps the polite convention that applies to people should apply to my computer as well&mdash;or at least to a chatbot I access on it, which responds to my prompts with linguistic behaviors that certainly look like the behaviors of a thinking being.
 
-<!-- Bender et al, then MIT hype index (or reverse that order?) -->
+Granted, there are those who take the position that, in principle, there's no reason to believe a machine *couldn't* think&mdash;either because they're willing to equate thinking itself with external behavior, making the presence or absence of some internal sensation of thinking irrelevant, or because the fact that consciousness arises from material causes&mdash;brain cells passing electrical signals across synapses&mdash;suggests that non-biologial materials such as silicon should be able to achieve the same trick.
 
-<!-- together with the failure to mention that even when the output of AI systems seems remarkably human, that output is produced by processes quite different from those that produce the output of human thought.-->
+But there are reasons to be skeptical.
 
+One of the most famous arguments against collapsing thinking into behavior, formulated in 1980, and described in detail in the Stanford Encyclopedia article mentioned earlier, was offered by the philosopher John Searle in a thought experiment known as the "Chinese Room." In the experiment, a human translator in a sealed room translates into English notes passed to him in a language he can't speak or write, written in characters he doesn't even recognize; he produces his translations by using a simple look-up table. It would make no sense to conclude from this behavior that the translator understood the language he was successfully translating.
 
+A number of more recent critics have questioned the possibility of thinking machines by pointing to the irreducibly embodied and situational nature of human communication, in which intention, meaning-making, and striving play roles that are absent from the way AI systems&mdash;even those that improve themselves by means of machine learning&mdash;generate language. In a 2023 *New York* magazine article profiling Emily Bender, the computational linguist mentioned above, titled "[You Are Not a Parrot](https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html)," Bender points out that language "is built on 'people speaking to each other, working together to achieve a joint understanding. It's a human-human interaction.'" The title of the *New York* profile comes from a 2021 paper that Bender co-authored with three others (two of them members of Google's "Ethical AI" team who lost their jobs as a result), "[On the Dangers of Stochastic Parrots: Can Large Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)". Thanks to Bender and her co-authors, the expression "stochastic parrot" has become a widely used shorthand for the way language-generating AI systems operate: not by striving to put thought into words but, as we saw earlier, by a process of statistical inference in which they replicate patterns in the huge quantities of text on which they've been trained.
 
+The philosopher Alva Noë, in his essay "[Rage Against the Machine](https://aeon.co/essays/can-computers-think-no-they-cant-actually-do-anything)," has pointed out that human language-generation, unlike that of computers, involves elements of "resistance," "irritation," and "negotation"&mdash;negotiation not only with other speakers but with the meanings of words themselves, resulting, at times, in new or altered meanings, which in turn alter the speakers themselves. 
 
-<!-- taking advantage of fact that consciousness remains a mystery -->
+> We don’t just talk, as it were, following the rules blindly. Talking is an issue for us, and the rules, such as they are, are up for grabs and in dispute. We always, inevitably, and from the beginning, are made to cope with how hard talking is, how liable we are to misunderstand each other, although most of the time this is undertaken matter-of-factly and without undue stress. To talk, almost inevitably, is to question word choice, to demand reformulation, repetition and repair. What do you mean? How can you say that? In this way, talking contains within it, from the start, and as one of its basic modes, the activities of criticism and reflection about talking, which end up changing the way we talk. We don’t just act, as it were, in the flow. Flow eludes us and, in its place, we know striving, argument and negotiation. And so we change language in using language; and that’s what a language is, a place of capture and release, engagement and criticism, a process. We can never factor out mere doing, skilfulness, habit – the sort of things machines are used effectively to simulate – from the ways these doings, engagements and skills are made new, transformed, through our very acts of doing them. These are entangled. This is a crucial lesson about the very shape of human cognition.
 
-
-<!-- # Why AI is Controversial
-
-The practical and social issues raised by artificial intelligence are as thorny as the technology is complicated. Here are just a few of the concerns that have generated widespread and lively discussion:
-
-- AI tools replicate and thereby amplify the biases and misinformation in the data they're trained on.
-- AI tools can't distinguish fact from falsehood and frequently invent their own "facts" (a phenomenon sometimes called "hallucination.").
-- Because AI tools solve problems through statistical inference, they can't be counted on to perform basic calculations or data analysis reliably.
-- Much of the content used to train AI tools is copyrighted, raising questions about the legality of this training.
-- AI tools have made it easier than ever to create and circulate misinformation and disinformation, polluting civic discourse and distorting the political process.
-- AI tools for generating image content have led to new forms of sexual exploitation and harassment.
-- AI tools have complicated the task of educators by making it harder to detect cheating.
-- The data centers that make cloud-based AI tools available at scale consume large quantities of energy and water, resulting in significant potential for adverse effects on the environment and on the communities where these centers are located.
-- To reduce the amount of toxic (e.g., racist, misogynistic, homophobic, transphobic, antisemitic, violent) content produced by the major AI tools available to the public, the companies that create them rely heavily on human labor that is typically poorly compensated.
-
-The impact of AI on labor and the environment tends to receive less attention than the other concerns listed above.
-
-This brief segment of the show *60 minutes* offers an introduction to the issue of poorly paid "humans in the loop":
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qZS50KXjAX0?si=2FwbWzCM1mTmaG5n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-The first of several episodes in the series "Data Vampires" recorded for the podcast *Tech Won't Save Us* provides an introduction to the issues surrounding AI, the environment, and communities:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZPdzq1ZcBtw?si=dmclDATiMVBTMXVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+The question whether machines can think may seem too abstruse, too "philosophical," to consider very long, especially in comparison to the many questions now circulating about how AI will likely affect the job market, the economy, education, and other aspects of daily life. But as we move ahead to consider, on the next page, [AI Harms]({{ site.url }}/mod-4a/ai-harms), keep in mind that some of likely effects of AI are directly connected to claims about its capabilities, including the claim that in can replace humans in doing tasks that have traditionally been assumed to require a thinking human being.
