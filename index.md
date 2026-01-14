@@ -439,9 +439,8 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### Before class
 
-- Read [AI Hype]({{ site.url }}/ai-hype).
+- Read [AI Hype]({{ site.url }}/mod-4a/ai-hype), [AI Harms]({{ site.url }}/mod-4a/ai-harms), and [Responsible AI?]({{ site.url }}/mod-4a/responsible-ai).
 - Read Schneier and Sanders, ["Can You Trust AI? Here's Why You Shouldn't"](https://theconversation.com/can-you-trust-ai-heres-why-you-shouldnt-209283)
-- Read Whittaker, ["The Steep Cost of Capture"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135581) (download the pdf or open it in your browser). 
 
 #### In class
 
