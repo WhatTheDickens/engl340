@@ -36,7 +36,7 @@ At the completion of this module you should
 
 - Read *Walden*, "Conclusion."
 - Read [IIIF images]({{ site.url }}/mod-8/iiif-images).
-- Leave a comment in the margin of "Conclusion" connecting the there to language in any of the previous chapters of *Walden*. How does the language you identify in "Conclusion" enable Thoreau to echo, expand on, or put a new twist on the idea(s) expressed in the earlier chapter?
+- Leave a comment in the margin of "Conclusion" connecting the language there to language in any of the previous chapters of *Walden*. How does the language you identify in "Conclusion" enable Thoreau to echo, expand on, or put a new twist on the idea(s) expressed in the earlier chapter?
 
 ### In class
 

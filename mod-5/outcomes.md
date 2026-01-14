@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Module Description
 
-Henry David Thoreau began drafting his most famous work, *Walden*, in 1846, while still living at Walden Pond. Between then and 1854, when the work was published, he revised his text over and over. In the manuscript of *Walden* at the Huntington Library in San Marino, California, it's possible to discern seven distinct drafts of *Walden*. This module will introduce you to the manuscript and its history. In addition, the module will invite you to think about the challenges a scholarly editor faces in modeling a manuscript containing multiple drafts of a work.
+Henry David Thoreau began drafting his most famous work, *Walden*, in 1846, while still living at Walden Pond. Between then and 1854, when the work was published, he revised his text over and over. In the manuscript of *Walden* at the Huntington Library in San Marino, California, it's possible to discern seven distinct draft stages of *Walden*. This module will introduce you to the manuscript and its history. In addition, the module will invite you to think about the challenges a scholarly editor faces in modeling a manuscript containing multiple drafts of a work.
 
 # Outcomes/Activities
 
@@ -36,8 +36,8 @@ At the completion of this module you should
 
 ### Before class
 
-- Read *Walden: A Fluid-Text Edition*, "Editorial Introduction"
-- Poke around in the fluid-text edtion of *Walden*.
+- Read "Preface" and "Editorial Introduction" in [*Walden: A Fluid-Text Edition*](https://digitalthoreau.org/fluid-text-toc/) 
+- Poke around in the fluid-text edition's chapters of *Walden*.
 - Find one or more revisions to ["Where I Lived, and What I Lived For" in the fluid-text edition of *Walden*](https://digitalthoreau.org/walden/fluid/text/02.html) that interest you. Leave a comment on the revision(s) in the corresponding location in ["Where I Lived, and What I Lived For" in The Readers' Thoreau edition of *Walden*](https://commons.digitalthoreau.org/walden/where-i-lived-and-what-i-lived-for/where-i-lived-and-what-i-lived-for-1-12/). Explain how/why you think the revision(s) made a difference to Thoreau's meaning or the rhythm of his language.
 
 ### In class

@@ -105,7 +105,7 @@ At the completion of this module you should
 ### Before class
 
 - Read *Walden*, "Winter Animals," "The Pond in Winter" 
-- Leave a comment in the margin of any part of *Walden* assigned for 3-30 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
+- Leave a comment in the margin of any part of *Walden* assigned for 3-30 that makes you curious to know more about how that passage might have changed during Thoreau's composition process. Explain the reasons for your curiosity.
 
 ### In class
 

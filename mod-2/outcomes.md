@@ -46,4 +46,4 @@ At the completion of this module you should
 
 - We'll have fun at the command line.
 
-***Class work:*** *In your folder for 1-30, find the file `notes_for_2025-01-30.docx` and add some notes from today's class.*
+***Class work:*** *In your folder for 1-30, find the file `notes_for_2026-01-30.docx` and add some notes from today's class.*

@@ -14,8 +14,9 @@ nav_order: 1
 At the completion of this module, you should
 
 1. Understand how the terms "artificial intelligence," "generative artificial  intelligence," and "machine learning" are used in computing
-2. Understand some uses of artificial intelligence and machine learning in digital humanities
-3. Understand some key ethical and civic concerns raised by the increasing use of artificial intelligence in daily life
+2. Be able to distinguish between the useful things AI can do and "AI Hype"
+3. Understand efforts to identify, categorize, and mitigate AI harms
+4. Understand what "responsible AI" might look like for both developers and users
 
 # Dates and Activities
 
@@ -23,7 +24,7 @@ At the completion of this module, you should
 
 ### Before class
 
-- Read [What is Artificial Intelligence]({{ site.url }}/what-is-ai) (and watch the videos on that page).
+- Read [What is Artificial Intelligence]({{ site.url }}/mod-4a/what-is-ai).
 - Read Cal Newport, ["What Kind of Writer is ChatGPT?"](https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt).
 - Read *Walden*, "The Ponds," "Baker Farm," "Higher Laws."
 - Reply to one of the comments in *Walden* posted by user "Flat HDT." Has the AI rewrite of Thoreau improved the original? Why or why not? Have any important ideas been lost in the rewrite? Try to find a comment that hasn't yet received a response, but if you can't find one, be sure that you don't simply repeat what a classmate has already said.

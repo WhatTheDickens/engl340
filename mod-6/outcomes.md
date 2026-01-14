@@ -26,9 +26,9 @@ At the completion of this module you should
 
 ### In class
 
-- We'll discuss *Walden* and continue exploring TEI.
+- We'll discuss *Walden* and explore TEI.
 
-***Class work:*** *In your folder for 2-23, share your journal file for the day with notes our *Walden* discussion and TEI.*
+***Class work:*** *In your folder for 2-23, share your journal file for the day with notes on our *Walden* discussion and TEI.*
 
 ## Wednesday, February 25
 
@@ -36,7 +36,7 @@ At the completion of this module you should
 
 - Read *Walden*, "Visitors," "The Bean-Field," "The Village."
 - Read the pages in the module "Text Encoding."
-- Leave a comment on a passage in *Walden* in another of the chapters assigned for 2-25.
+- Leave a comment on a passage in *Walden* in one of the chapters assigned for 2-25.
 
 ### In class
 
@@ -52,7 +52,7 @@ At the completion of this module you should
 
 ### In class
 
-- We'll explore TEI.
+- We'll continue exploring TEI.
 
 ***Class work:*** *In your folder for 2-27, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
 
