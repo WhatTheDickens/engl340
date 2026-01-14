@@ -178,8 +178,6 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 
 ## Schedule at a glance
 
-
-
 ### Wednesday, January 21
 
 - 👋
@@ -235,7 +233,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 
 - We'll have fun at the command line.
 
-***Class work:*** *In your folder for 1-30, find the file `notes_for_2025-01-30.docx` and add some notes from today's class.*
+***Class work:*** *In your folder for 1-30, find the file `notes_for_2026-01-30.docx` and add some notes from today's class.*
 
 ### Monday, February 2
 
@@ -342,8 +340,8 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### Before class
 
-- Read *Walden: A Fluid-Text Edition*, "Editorial Introduction"
-- Poke around in the fluid-text edtion of *Walden*.
+- Read "Preface" and "Editorial Introduction" in [*Walden: A Fluid-Text Edition*](https://digitalthoreau.org/fluid-text-toc/) 
+- Poke around in the fluid-text edition's chapters of *Walden*.
 - Find one or more revisions to ["Where I Lived, and What I Lived For" in the fluid-text edition of *Walden*](https://digitalthoreau.org/walden/fluid/text/02.html) that interest you. Leave a comment on the revision(s) in the corresponding location in ["Where I Lived, and What I Lived For" in The Readers' Thoreau edition of *Walden*](https://commons.digitalthoreau.org/walden/where-i-lived-and-what-i-lived-for/where-i-lived-and-what-i-lived-for-1-12/). Explain how/why you think the revision(s) made a difference to Thoreau's meaning or the rhythm of his language.
 
 #### In class
@@ -374,9 +372,9 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### In class
 
-- We'll discuss *Walden* and continue exploring TEI.
+- We'll discuss *Walden* and explore TEI.
 
-***Class work:*** *In your folder for 2-23, share your journal file for the day with notes our *Walden* discussion and TEI.*
+***Class work:*** *In your folder for 2-23, share your journal file for the day with notes on our *Walden* discussion and TEI.*
 
 ### Wednesday, February 25
 
@@ -384,7 +382,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - Read *Walden*, "Visitors," "The Bean-Field," "The Village."
 - Read the pages in the module "Text Encoding."
-- Leave a comment on a passage in *Walden* in another of the chapters assigned for 2-25.
+- Leave a comment on a passage in *Walden* in one of the chapters assigned for 2-25.
 
 #### In class
 
@@ -400,7 +398,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### In class
 
-- We'll explore TEI.
+- We'll continue exploring TEI.
 
 ***Class work:*** *In your folder for 2-27, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
 
@@ -410,7 +408,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 #### Before class
 
-- Read [What is Artificial Intelligence]({{ site.url }}/what-is-ai) (and watch the videos on that page).
+- Read [What is Artificial Intelligence]({{ site.url }}/mod-4a/what-is-ai).
 - Read Cal Newport, ["What Kind of Writer is ChatGPT?"](https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt).
 - Read *Walden*, "The Ponds," "Baker Farm," "Higher Laws."
 - Reply to one of the comments in *Walden* posted by user "Flat HDT." Has the AI rewrite of Thoreau improved the original? Why or why not? Have any important ideas been lost in the rewrite? Try to find a comment that hasn't yet received a response, but if you can't find one, be sure that you don't simply repeat what a classmate has already said.
@@ -532,7 +530,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 #### Before class
 
 - Read *Walden*, "Winter Animals," "The Pond in Winter" 
-- Leave a comment in the margin of any part of *Walden* assigned for 3-30 that makes you curious to know more about how that passage might have changed during Thoreau's composition process.
+- Leave a comment in the margin of any part of *Walden* assigned for 3-30 that makes you curious to know more about how that passage might have changed during Thoreau's composition process. Explain the reasons for your curiosity.
 
 #### In class
 
@@ -584,7 +582,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - Read *Walden*, "Conclusion."
 - Read [IIIF images]({{ site.url }}/mod-8/iiif-images).
-- Leave a comment in the margin of "Conclusion" connecting the there to language in any of the previous chapters of *Walden*. How does the language you identify in "Conclusion" enable Thoreau to echo, expand on, or put a new twist on the idea(s) expressed in the earlier chapter?
+- Leave a comment in the margin of "Conclusion" connecting the language there to language in any of the previous chapters of *Walden*. How does the language you identify in "Conclusion" enable Thoreau to echo, expand on, or put a new twist on the idea(s) expressed in the earlier chapter?
 
 #### In class
 
@@ -678,7 +676,7 @@ No additional reading.
 
 ***Class work:*** *In your folder for 5-6, share your journal file for the day with notes on the progress of your group project.*
 
-### Final meeting: Thursday, May 14, 12 pm &ndash; 3:20 pm
+### Final Meeting: Thursday, May 14, 12 pm &ndash; 3:20 pm
 
 {: .important}
 *Attendance for the full length of our final meeting is mandatory*.
