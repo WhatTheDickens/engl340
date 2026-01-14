@@ -1,11 +1,11 @@
 ---
-title: Responsible AI?
+title: Towards Responsible AI
 layout: default
 parent: Artificial Intelligence
 nav_order: 6
 ---
 
-# Responsible AI?
+# Towards Responsible AI
 
 Is it possible to get past [AI Hype]({{ site.url}}/mod-4a/ai-hype), mitigate [AI Harms]({{ site.url}}/mod-4a/ai-harms), and develop technologies of automation that are built and deployed responsibly?
 
