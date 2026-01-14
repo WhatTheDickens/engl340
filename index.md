@@ -239,7 +239,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 
 #### Before class
 
-- Read through the pages of the "What is Text?" module. *Be sure to install Visual Studio Code* according to the instructions linked in [Text Editors]({{ site.url }}/text-editors). 
+- Read through the pages of the "What is Text?" module. *Be sure to install Visual Studio Code* according to the instructions linked in [Text Editors]({{ site.url }}/mod-3/text-editors). 
 
 {: .important}
 Mac Users: Be sure to drag the Visual Studio Code application *into your Applications folder* before launching it. If you launch the application from your Downloads folder, it will run, but some features will not work properly. Most important, you'll run into trouble with Step 6 in the installation instructions, where you install the `code` command in your shell PATH.
