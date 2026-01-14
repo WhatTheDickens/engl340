@@ -52,7 +52,7 @@ At the completion of this module, you should
 
 ### Before class
 
-- Read [Why AI is Controversial]({{ site.url }}/why-ai-is-controversial).
+- Read [AI Hype]({{ site.url }}/ai-hype).
 - Read Schneier and Sanders, ["Can You Trust AI? Here's Why You Shouldn't"](https://theconversation.com/can-you-trust-ai-heres-why-you-shouldnt-209283)
 - Read Whittaker, ["The Steep Cost of Capture"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135581) (download the pdf or open it in your browser). 
 
