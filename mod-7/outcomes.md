@@ -111,7 +111,7 @@ At the completion of this module you should
 
 - We'll discuss *Walden*
 
-***Class work:*** *In your folder for 3-30, share your journal file for the day with your notes on our discussion of *Walden*.
+***Class work:*** *In your folder for 3-30, share your journal file for the day with your notes on our discussion of* Walden.
 
 ## Wednesday, April 1
 

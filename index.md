@@ -402,8 +402,6 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ***Class work:*** *In your folder for 2-27, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class. Explain the connection.*
 
-***Reminder:*** [First blog post assignment]({{ site.url }}/mod-92/first-blog-assignment) due February 27 at 11:59 p.m.
-
 ### Monday, March 2
 
 #### Before class
@@ -536,7 +534,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - We'll discuss *Walden*
 
-***Class work:*** *In your folder for 3-30, share your journal file for the day with your notes on our discussion of *Walden*.
+***Class work:*** *In your folder for 3-30, share your journal file for the day with your notes on our discussion of* Walden.
 
 ### Wednesday, April 1
 
@@ -604,37 +602,27 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 ### Monday, April 13
 
-#### Before class
-
-No additional reading.
-
-#### In class
-
 - We'll discuss the workflow for your group projects.
 
-***Class work:*** *In your folder for 4-13, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-13, share your journal file for the day with notes on the project workflow. What do you expect to be challenging about the project? What do you hope to get out of it?*
 
 ### Wednesday, April 15
 
-- Group project work in class.
+- Group project work in class. Your group should name itself and decide on a passage or passages in *Walden* to investigate. Before the end of class, share your name and selection of passage(s) in Teams.
 
-***Class work:*** *In your folder for 4-15, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-15, share your journal file for the day with notes on the progress of your group project. What passage(s) did your group decide to investigate? How/why did your group make this choice?*
 
 ### Friday, April 17
 
-- Group project work in class.
+- Group project work in class. In your group's Teams channel, begin filling out the project plan that you find there. Your plan should show your breakdown of tasks, the lead for each task, and milestone dates for each task.
 
-***Class work:*** *In your folder for 4-17, share your journal file for the day with notes on the progress of your group project.*
-
-***Reminder:*** [Second blog post assignment]({{ site.url }}/mod-92/second-blog-assignment) due April 17 at 11:59 p.m.
+***Class work:*** *In your folder for 4-17, share your journal file for the day with notes on the progress of your group project. What task(s) are you the lead on? How was this decision reached?*
 
 ### Monday, April 20
 
-- Group project work in class.
+- Group project work in class. Identify which *Walden* manuscript page you plan to encode in TEI and indicate your choice in your Teams channel. 
 
-***Class work:*** *In your folder for 4-20, share your journal file for the day with notes on the progress of your group project.*
-
-- ***Due:*** *Second blog post.*
+***Class work:*** *In your folder for 4-20, share your journal file for the day with notes on the progress of your group project. Why did your group choose the manuscript page you did? What do you see on this page that's interesting? What challenges do you foresee as your group works to encode it?*
 
 ### Wednesday, April 22
 
@@ -642,41 +630,41 @@ No additional reading.
 
 ### Friday, April 24
 
-- Group project work in class..
+- Group project work in class. Update your project plan to show your progress on your project.
 
-***Class work:*** *In your folder for 4-24, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-24, share your journal file for the day with notes on the progress of your group project. What issues/obstacles is your group running into? Did you resolve any of these today? If so, how? If any weren't resolved, how does the group plan to resolve them?*
 
 ### Monday, April 27
 
-- Group project work in class.
+- Group project work in class. Decide who will report on the group's progress at our next meeting.
 
 ***Class work:*** *In your folder for 4-27, share your journal file for the day with notes on the progress of your group project.*
 
 ### Wednesday, April 29
 
-- Group project work in class.
+- Group project work in class. Groups report on their progress, including interesting discoveries and issues encountered and resolved. 
 
-***Class work:*** *In your folder for 4-29, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 4-29, share your journal file for the day with notes on the progress of your group project. What did you learn from the other groups' reports that was interesting to you and/or valuable for your own group's progress?*
 
 ### Friday, May 1
 
-- Group project work in class.
+- Group project work in class. Make sure that your group's slide presentation is shared in Google Drive.
 
-***Class work:*** *In your folder for 5-1, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 5-1, share your journal file for the day with notes on the progress of your group project. What challenges has your group faced with regard to constructing your final presentation?*
 
 ### Monday, May 4
 
-- Group project work in class.
+- Group project work in class. Share a draft of your group's TEI file in your group's Teams channel. Update your project plan to reflect your group's progress.
 
-***Class work:*** *In your folder for 5-4, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 5-4, share your journal file for the day with notes on the progress of your group project. Write specifically about your group's work encoding your chosen manuscript page in TEI.*
 
 ### Wednesday, May 6
 
-- Group project work in class.
+- Group project work in class. Share a draft of your group's blog post in your group's Teams channel.
 
-***Class work:*** *In your folder for 5-6, share your journal file for the day with notes on the progress of your group project.*
+***Class work:*** *In your folder for 5-6, share your journal file for the day with notes on the progress of your group project. Write specifically about the challenges involved in composing the blog post.*
 
-### Final Meeting: Thursday, May 14, 12 pm &ndash; 3:20 pm
+### Thursday, May 14, 12 pm &ndash; 3:20 pm
 
 {: .important}
 *Attendance for the full length of our final meeting is mandatory*.
