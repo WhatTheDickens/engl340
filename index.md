@@ -374,7 +374,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - We'll discuss *Walden* and explore TEI.
 
-***Class work:*** *In your folder for 2-23, share your journal file for the day with notes on our *Walden* discussion and TEI.*
+***Class work:*** *In your folder for 2-23, share your journal file for the day with notes on our* Walden *discussion and TEI.*
 
 ### Wednesday, February 25
 
@@ -559,7 +559,7 @@ Mac Users: Be sure to drag the Visual Studio Code application *into your Applica
 
 - We'll discuss *Walden* and the documentary.
 
-***Class work:*** *In your folder for 4-3, share your journal file for the day with your notes on our discussion of *Walden* and the documentary.
+***Class work:*** *In your folder for 4-3, share your journal file for the day with your notes on our discussion of* Walden *and the documentary.*
 
 ### Monday, April 6
 

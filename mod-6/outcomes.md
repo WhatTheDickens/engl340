@@ -28,7 +28,7 @@ At the completion of this module you should
 
 - We'll discuss *Walden* and explore TEI.
 
-***Class work:*** *In your folder for 2-23, share your journal file for the day with notes on our *Walden* discussion and TEI.*
+***Class work:*** *In your folder for 2-23, share your journal file for the day with notes on our* Walden *discussion and TEI.*
 
 ## Wednesday, February 25
 

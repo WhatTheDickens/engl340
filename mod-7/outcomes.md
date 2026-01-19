@@ -136,4 +136,4 @@ At the completion of this module you should
 
 - We'll discuss *Walden* and the documentary.
 
-***Class work:*** *In your folder for 4-3, share your journal file for the day with your notes on our discussion of *Walden* and the documentary.
+***Class work:*** *In your folder for 4-3, share your journal file for the day with your notes on our discussion of* Walden *and the documentary*.
