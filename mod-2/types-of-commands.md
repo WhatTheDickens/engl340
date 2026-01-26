@@ -30,7 +30,7 @@ With VS Code installed, you're ready to install Git Bash. To do so, follow [thes
 
 After following the steps in the installation process, launch Git Bash by going to the Start menu and typing "Git Bash."
 
-When you're done using Git Bash, type `exit` at the dollar sign prompt.
+When you're done using Git Bash, type `exit` at the dollar sign prompt, then hit `return` or `enter`.
 
 ### Windows Subsystem for Linux (WSL)
 
