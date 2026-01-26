@@ -22,15 +22,15 @@ Another option is to install [Windows Subsystem for Linux (WSL)](https://ubuntu.
 
 ### Git Bash
 
-To install Git Bash, follow [these instructions](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/git.md#installation-instructions-microsoft-windows-10). After following the steps in the installation process, launch Git Bash by going to the Start menu and typing "Git Bash."
+Begin by [downloading Git Bash](https://gitforwindows.org/). 
 
-Once you've launched the application, you'll want to take one final step. Open the Properties dialog by clicking on the icon in the upper left of the terminal window and selecting "Properties."
+The instructions you'll follow to install Git Bash call for you to select Microsoft's Visual Studio Code as your default text editor, so before you go ahead and install Git Bash, you'll first want to install VS Code. To do so, follow [these instructions](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/visual-studio-code.md). Be sure that during the setup, you check the "Add to PATH" box when prompted to "Select Additional Tasks."
 
-![Settings menu in Git Bash showing Properties option](../assets/git-bash-properties.png)
+With VS Code installed, you're ready to install Git Bash. To do so, follow [these instructions](https://github.com/DHRI-Curriculum/install/blob/v2.0/guides/git.md#installation-instructions-microsoft-windows-10) carefully, starting with Step 2. (Step 1 is downloading the software, which you've already done.) The instructions are for Windows 10, but the installation process is essentially the same for Windows 11.
 
-In the Properties dialog that comes up, check the box for "Use Ctrl+Shift+C/V as Copy/Paste." Activating this property will enable you to copy-paste from other applications into your terminal window. *Note that when copying from or pasting into the terminal window, you need to hold down the `shift` key **and** the `control` key while typing `V`*.
+After following the steps in the installation process, launch Git Bash by going to the Start menu and typing "Git Bash."
 
-![Properties dialog in Git Bash terminal](../assets/copy-paste-properties-git-bash.png)
+When you're done using Git Bash, type `exit` at the dollar sign prompt.
 
 ### Windows Subsystem for Linux (WSL)
 
