@@ -23,27 +23,27 @@ At the completion of this module you should
 ### Before class
 
 - Read *Walden*, "Economy," paragraphs 71 to end.
-- Read [From Metareading to Markup]({{ site.url }}/mod-4/from-metareading-to-markup) and [Markup and Manuscripts]({{ site.url }}/mod-4/markup-and-manuscripts).
-- Leave a comment on a paragraph or some part of a paragraph in "Economy" that makes you want to know more about Thoreau's thinking ("Why does he say that?") or Thoreau's writing ("Why does he put it that way?")
+- Read [What is Scholarly Editing?]({{ site.url }}/mod-4/what-is-scholarly-editing), [Types of Scholarly Editing]({{ site.url }}/mod-4/types-of-scholarly-editing), and [Computers and Scholarly Editing]({{ site.url }}/mod-4/computers-and-scholarly-editing).
+- Leave a comment on a paragraph or some part of a paragraph in "Economy" that makes you want to know more about Thoreau's thinking ("Why does he say that?") or Thoreau's writing ("Why does he put it that way?"). Explain what it is about the passage you've selected that makes you want to know more.
 
 ### In class
 
-- We'll discuss Thoreau, metareading, and markup languages.
+- We'll discuss books and editing.
 
-***Class work:*** *In your folder for 2-9, share your journal file with notes and reflections about metareading and markup languages.*
+***Class work:*** *In your folder for 2-9, share a journal file for the day (.md extension) containing your notes about today's discussion of books and editing.*
 
 ## Wednesday, February 11
 
 ### Before class
 
-- Read [What is Scholarly Editing?]({{ site.url }}/mod-4/what-is-scholarly-editing), [Types of Scholarly Editing]({{ site.url }}/mod-4/types-of-scholarly-editing), and [Computers and Scholarly Editing]({{ site.url }}/mod-4/computers-and-scholarly-editing).
+- Read [From Metareading to Markup]({{ site.url }}/mod-4/from-metareading-to-markup) and [Markup and Manuscripts]({{ site.url }}/mod-4/markup-and-manuscripts).
 
 ### In class
 
-- We'll discuss books and editing.
+- We'll discuss Thoreau, metareading, and markup languages.
 - We'll prepare for [Douglass Day](https://cdl-geneseo.github.io/douglass-day/).
 
-***Class work:*** *In your folder for 2-11, share a journal file for the day (.md extension) containing your notes about today's discussion of books and editing.*
+***Class work:*** *In your folder for 2-11, share your journal file with notes and reflections about metareading and markup languages.*
 
 ## Friday, February 13
 
