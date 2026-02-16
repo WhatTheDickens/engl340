@@ -36,6 +36,7 @@ At the completion of this module you should
 
 - Read *Walden*, "Visitors," "The Bean-Field," "The Village."
 - Read the pages in the module "Text Encoding."
+- Add a question for Beth Witherell, our in-class guest on 2-25, in [this shared Google doc](https://docs.google.com/document/d/1KlRTfQemYRd2HR_OG_C94VvsMoJ0GHSW0fhUXOBfJNg/edit?usp=sharing).
 - Leave a comment on a passage in *Walden* in one of the chapters assigned for 2-25.
 
 ### In class
