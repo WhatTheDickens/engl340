@@ -27,7 +27,7 @@ At the completion of this module, you should
 - Read [What is Artificial Intelligence]({{ site.url }}/mod-4a/what-is-ai).
 - Read Cal Newport, ["What Kind of Writer is ChatGPT?"](https://www.newyorker.com/culture/annals-of-inquiry/what-kind-of-writer-is-chatgpt).
 - Read *Walden*, "The Ponds," "Baker Farm," "Higher Laws."
-- Reply to one of the comments in *Walden* posted by user "Flat HDT." Has the AI rewrite of Thoreau improved the original? Why or why not? Have any important ideas been lost in the rewrite? Try to find a comment that hasn't yet received a response, but if you can't find one, be sure that you don't simply repeat what a classmate has already said.
+- Choose a paragraph in one of the chapters assigned for March 2. Feed the paragraph to the chatbot of your choice. Ask the chatbot some questions about the paragraph. (Decide for yourself what questions to ask.) Write a comment on the paragraph reporting anything interesting that came out of your chat with the bot. Did the chat yield any interesting insights? Did it feel like the bot got anything wrong about the paragraph or was misleading in any way? (If, on principle, you would prefer not to use AI, you can simply select a paragraph for comment and offer your own reflections on it.)
 
 ### In class
 
