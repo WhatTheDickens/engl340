@@ -80,14 +80,13 @@ At the completion of this module you should
 
 ### Before class
 
-- Write a first draft of your first blog post.
+- Read [Attributes, Links, Images]({{ site.url }}/mod-7/attributes-links-images), [Tables]({{ site.url }}/mod-7/tables), and [Design Justice]({{ site.url }}/mod-7/design-justice) in the Internet and Web module.
 
 ### In class
 
-- We'll work on blog posts together and make sure everyone knows what they have to do to complete the assignment successfully.
-- We'll play more with HTML and CSS.
+- We'll play more with HTML and CSS and discuss principles of design justice.
 
-- ***Class work:*** *In your folder for 3-25, share the first draft of your blog post.*
+- ***Class work:*** *In your folder for 3-25, share your notes on HTML, CSS, and design justice.*
 
 ## Friday, March 27
 
