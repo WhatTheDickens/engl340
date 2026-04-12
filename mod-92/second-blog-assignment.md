@@ -89,7 +89,7 @@ In your blog post, did you &hellip;
 | include a detailed account of what you paid attention to in your digital environment for the past week? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | pay particular attention, in providing this account, to both what you "agree\[d\] to attend to" you found yourself forced to attend to? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | use the data you collected about your attention and the forces impinging on it to reflect on whether, and to what extent, you were able to "live your life" according to your own dictates under the pressure of the distractions you encountered? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | 
-| use care in the composition of your post? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| use care in the composition of your post (for example, by choosing words carefully, thinking about sentence and paragraph structure, checking for typos and formatting errors)? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | format your post correctly using Markdown? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | document any use you made of GenAI? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | properly include any media content you chose to include? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
