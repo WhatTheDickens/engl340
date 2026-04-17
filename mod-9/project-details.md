@@ -22,7 +22,7 @@ Together, your group will carry out four tasks with respect to your selected pas
 
 ### Get the TEI template file
 
-- [Download or copy the template file](https://github.com/WhatTheDickens/engl340/blob/main/downloads/tei-template.xml) for your TEI transcription from GitHub and rename it appropriately. (You can use the copy icon next to the word "Raw" to copy the file contents and paste them into VS Code.)
+- Download or copy the template file (coming soon) for your TEI transcription from GitHub and rename it appropriately. (You can use the copy icon next to the word "Raw" to copy the file contents and paste them into VS Code.)
 
 ### Consult these other files
 
