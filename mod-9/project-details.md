@@ -22,19 +22,24 @@ Together, your group will carry out four tasks with respect to your selected pas
 
 ### Get the TEI template file
 
-- Download or copy the template file (coming soon) for your TEI transcription from GitHub and rename it appropriately. (You can use the copy icon next to the word "Raw" to copy the file contents and paste them into VS Code.)
+- Download or copy the [template file](https://github.com/WhatTheDickens/engl340/blob/main/downloads/tei-template.xml) for your TEI transcription from GitHub. (You can use the copy icon next to the word "Raw" to copy the file contents and paste them into VS Code.) The template file shows how one might encode Thoreau's revisions to the first paragraph of "Conclusion" paragraph 5 in versions E and F of *Walden*.
+- Keep this file in a place where you can consult it readily.
+- One member of your group will make a copy of this file and give the copy a name appropriate to your project. This will be the file that your group edits collectively during class.  
 
 ### Consult these other files
 
-- The [handwritten text]({{ site.url }}/downloads/sample_text_for_tei.pdf) that's the source of the placeholder transcription you see in the template file.
-- A [very basic TEI file](https://github.com/WhatTheDickens/engl340-s24/blob/main/downloads/basic_tei_file.xml) to help orient you in navigating the template file for your assignment.
 - A [data glossary]({{ site .url }}/mod-9/data-glossary.html) that explains the meaning of TEI elements and attributes used in the template file.
+- A [web page]({{ site.url }}/mod-9/conclusion-5.html) produced by applying a transformation script to the TEI template file. Compare the TEI file to the web page to get a feel for how the TEI file encodes the information about the manuscript images and the text on the manuscript surfaces. The same script will be applied to your group's TEI file (if valid) after you submit it, and your group will be able to reference the resulting web page in your final blog post.
+
+### Work together on one TEI file in real time
+
+- Every team member should install Microsoft's [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) extension for VS Code. Follow the instructions to work together in class on your file in real time.
+- After each editing session, the member of your group who is the keeper of the file should add the date and time to the file name and upload it to your group's project folder in Drive. This will preserve a backup of each editing session. *Be religious about making backups.*
 
 ### Validate your TEI file
 
+- The [Scholarly XML extension for VS Code](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml) provides real-time validation as you type. 
 - The website [TEI by Example](https://www.teibyexample.org/) provides a handy [validation tool](https://www.teibyexample.org/exist/tools/TBEvalidator.htm) you can use to check the validity of your markup.
-- The [Scholarly XML extension for VS Code](https://marketplace.visualstudio.com/items?itemName=raffazizzi.sxml) provides real-time validation as you type.
-- [oXygen XML Editor](https://www.oxygenxml.com/) is the editor of choice for many researchers and others who write XML professionally. It's widely used in the TEI community. Unlike the tools above, it costs money, but you can use it free for 30 days.
 
 ## How your work on the project will be evaluated
 
