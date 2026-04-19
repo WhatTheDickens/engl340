@@ -21,28 +21,31 @@
             <msDesc>
                <msIdentifier>
                   <repository>Hungtington Library</repository>
-               <idno>HM 924</idno>
+                  <idno>HM 924</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
                      <author>Henry David Thoreau</author>
                      <title>Walden</title>
+                     <bibl type="page" xml:id="hm924v5n890">890</bibl><!-- The number here is an example. Replace it with the first actual image number you discuss. -->
+                     <bibl type="page" xml:id="hm924v6n1248">1248</bibl><!-- The number here is an example. Replace it with the second actual image number you discuss. -->
+                     <!-- Add more instances of bibl here as needed. -->
                   </msItem>
                </msContents>
             </msDesc>
             <bibl>
-               <!-- Replace the content that follows this comment with a paragraph of your own giving brief, one-paragraph overview of what you found on the manuscript surfaces and why what you found is significant. --> The sentence beginning what would become paragraph 5 of the "Conclusion" to Walden first appears in Draft E. Thoreau makes additional changes to the sentence in F. In the excerpts below from the manuscript pages where the sentence appears, we see Thoreau inserting and deleting various adjectives, adverbs, and phrases that qualify his assertions about what he learned from his experience at the pond. Some of his changes also seem intended to tighten up the wording and increase the impact of what he has to say. In E, many of Thoreau's revisions are in pencil. In F they are almost all in ink.
-         </bibl>
+               <!-- Replace the content that follows this comment with a paragraph of your own giving brief, one-paragraph overview of what you found on the manuscript surfaces and why what you found is significant. Note the syntax in this example for indicating that text should be italicized. --> The first sentence of what would become paragraph 5 of the "Conclusion" to <hi rend="style(italics)">Walden</hi> makes its initial appearance in Draft E. Thoreau makes additional changes to the sentence in F. In the excerpts below from the manuscript pages where the sentence appears, we see Thoreau inserting and deleting various adjectives, adverbs, and phrases that qualify his assertions about what he learned from his experience at the pond. Some of his changes also seem intended to tighten up the wording and increase the impact of what he has to say. In E, many of Thoreau's revisions are in pencil. In F they are almost all in ink.
+            </bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <!-- First manuscript page. You need to include the <sourceDoc> element and its enclosed elements for each individual manuscript page you reference in your analysis. -->
-   <sourceDoc xml:id="hm924v5n890"><!-- This is just an example xml:id. Replace with the actual xml:id of your first image. -->
+   <sourceDoc xml:id="hm924v5n890" n="890"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your first image. -->
       <surface>
          <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/890/full/full/0/default.jpg"/><!-- This is just an example. Replace the url here with the url of the manuscript image. -->
-            <zone>
-               <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/890/327,280,2402,1481/full/0/default.jpg"/><!-- This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
-               <seg>
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/890/327,280,2402,1481/pct:30/0/default.jpg"/><!-- This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
+            <seg>
                <lb/>I learned this <add rend="pencil">at least</add> by my
                <lb/>experiment <del rend="pencil">in the woods,</del>
                <lb/><del rend="pencil">of more value perhaps</del>
@@ -56,38 +59,38 @@
                <lb/>expected in common hours, and
                <lb/>the result will <add rend="pencil">in a measure</add> miraculously answer to his faith.
                <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. -->At the top of this page from E, Thoreau has made many changes in pencil. What did he learn? "I learned this by my experiment" becomes "I learned this at least by my experiment." Implication: he learned many things but wants to single out this one thing in conclusion. The qualifying words "endeavors to," "quite," "wholly," and "in a measure" seem to make his claim about finding success by advancing "confidently" a little more–to pick up on his own word—measured.</note>
-               </seg>
-            </zone> 
+            </seg>
+         </zone> 
          <zone>
             <!-- To include additional zones on the same manuscript image, repeat the exact structure of the one above using the information relevant to each additional zone. -->
          </zone> 
-         </surface>
- </sourceDoc>
+      </surface>
+   </sourceDoc>
    <!-- Second manuscript page. -->
-   <sourceDoc xml:id="hm924v6n1248"><!-- This is just an example xml:id. Replace it with the actual xml:id of your second image. -->
+   <sourceDoc xml:id="hm924v6n1248" n="1248"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your second image. -->
       <surface>
          <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/1248/full/full/0/default.jpg"/><!-- This is just an example. Replace the url here with the url of the manuscript image. -->
          <zone>
-            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/1248/675,2229,7091,3665/full/0/default.jpg"/><!-- This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/1248/675,2229,7091,3665/pct:30/0/default.jpg"/><!-- This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
             <seg>
-            <lb/>I learned this, at least, by
-            <lb/>my experiment; that if one ad-
-            <lb/>vances <note>Illegible text rubbed out above line</note> confidently, <del>but with-</del>
-            <lb/><del>out wilfulness</del>, <del>though only</del><note>Illegibile text beneath "only"</note>
-            <lb/>in the direction of his dreams,
-            <lb/><del>and</del> <note>"and" deleted in pencil and ink</note> endeavors to live the life
-            <lb/>which he has imagined, he
-            <lb/>will meet with a success
-            <lb/><del>quite</del> unexpected in common
-            <lb/>hours, <del>and, the result will</del>
-            <lb/><del>in a measure, miraculously</del>
-            <lb/><del>answer to his faith.</del>
-            <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. -->After re-copying the sentence in F, Thoreau continues to revise, this time almost entirely in ink. (The word "and" is deleted in pencil as well as ink, and what appears to have been a pencilled insertion between "advances" and "confidently" has been rubbed out.) Noe that the final words of the sentence have been deleted, with their reference to a "result" answering to "faith," the sentence puts more emphasis on "success." (The emphasis is enhanced, too, by Thoreau's decision to strike "quite unexpected.") However, Thoreau retains "endeavors to," which he first inserted in E. While the sentence gets a little bolder in F, then, it retains the idea that endeavoring to life your imagined life is the important thing. Striving itself might be regarded as a kind of success.</note></seg>
+               <lb/>I learned this, at least, by
+               <lb/>my experiment; that if one ad-
+               <lb/>vances <note>Illegible text rubbed out above line</note> confidently, <del>but with-</del>
+               <lb/><del>out wilfulness</del>, <del>though only</del><note>Illegibile text beneath "only"</note>
+               <lb/>in the direction of his dreams,
+               <lb/><del>and</del> <note>"and" deleted in pencil and ink</note> endeavors to live the life
+               <lb/>which he has imagined, he
+               <lb/>will meet with a success
+               <lb/><del>quite</del> unexpected in common
+               <lb/>hours, <del>and, the result will</del>
+               <lb/><del>in a measure, miraculously</del>
+               <lb/><del>answer to his faith.</del>
+               <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. -->After re-copying the sentence in F, Thoreau continues to revise, this time almost entirely in ink. (The word "and" is deleted in pencil as well as ink, and what appears to have been a pencilled insertion between "advances" and "confidently" has been rubbed out.) Noe that the final words of the sentence have been deleted, with their reference to a "result" answering to "faith," the sentence puts more emphasis on "success." (The emphasis is enhanced, too, by Thoreau's decision to strike "quite unexpected.") However, Thoreau retains "endeavors to," which he first inserted in E. While the sentence gets a little bolder in F, then, it retains the idea that endeavoring to life your imagined life is the important thing. Striving itself might be regarded as a kind of success.</note></seg>
          </zone>
          <zone>
-            <!-- To include additional zones on the same manuscript image, repeat the exact structure of the one above using the information relevant to each additional zone.   -->
+            <!-- To include additional zones on the same manuscript image, repeat the exact structure of the one above using the information relevant to each additional zone. -->
          </zone> 
       </surface>
    </sourceDoc>
-<!-- For each additional manuscript page you wish to include. use <sourceDoc> and its enclosed elements (<surface>, <zone>, etc.) following exactly the same structure you see in the above examples. -->
+   <!-- For each additional manuscript page you wish to include. use <sourceDoc> and its enclosed elements (<surface>, <zone>, etc.) following exactly the same structure you see in the above examples. -->
 </TEI>
