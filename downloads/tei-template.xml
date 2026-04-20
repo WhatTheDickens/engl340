@@ -40,7 +40,7 @@
       </fileDesc>
    </teiHeader>
    <!-- First manuscript page. You need to include the <sourceDoc> element and its enclosed elements for each individual manuscript page you reference in your analysis. -->
-   <sourceDoc xml:id="hm924v5n890" n="890"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your first image. -->
+   <sourceDoc facs="#hm924v5n890" n="890"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your first image. -->
       <surface>
          <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/890/full/full/0/default.jpg"/><!-- This is just an example. Replace the url here with the url of the manuscript image. -->
          <zone>
@@ -67,7 +67,7 @@
       </surface>
    </sourceDoc>
    <!-- Second manuscript page. -->
-   <sourceDoc xml:id="hm924v6n1248" n="1248"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your second image. -->
+   <sourceDoc facs="#hm924v6n1248" n="1248"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your second image. -->
       <surface>
          <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/1248/full/full/0/default.jpg"/><!-- This is just an example. Replace the url here with the url of the manuscript image. -->
          <zone>
