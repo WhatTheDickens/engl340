@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>revisionstowaldenbyhenrydavidthoreau:socialcommentary</title>
+            <editor xml:id="tori">Tori Webster</editor>
+            <editor xml:id="olivia">Olivia Kelly</editor>
+            <editor xml:id="brenna">Brenna Cumming</editor>
+            <editor xml:id="meredith">Meredith Geurtin</editor>
+            <!-- use @resp="#name_1" on elements as needed to indicate responsibility -->
+         </titleStmt>
+         <publicationStmt>
+            <p>Transcriptions from HM 924, the manuscript of Walden: <!-- Winter Animals 5 Version A, Visitors 3 Version A --></p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Hungtington Library</repository>
+                  <idno>HM 924</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <author>Henry David Thoreau</author>
+                     <title>Walden</title>
+                     <bibl type="page" xml:id="hm924v1n211">211</bibl><!-- The number here is an example. Replace it with the first actual image number you discuss. -->
+                     <bibl type="page" xml:id="hm924v6n1248">1248</bibl><!-- The number here is an example. Replace it with the second actual image number you discuss. -->
+                     <!-- Add more instances of bibl here as needed. -->
+                  </msItem>
+               </msContents>
+            </msDesc>
+            <bibl>
+               <!-- Replace the content that follows this comment with a paragraph of your own giving brief, one-paragraph overview of what you found on the manuscript surfaces and why what you found is significant. Note the syntax in this example for indicating that text should be italicized. --> The first sentence of what would become paragraph 5 of the "Conclusion" to <hi rend="style(italics)">Walden</hi> makes its initial appearance in Draft E. Thoreau makes additional changes to the sentence in F. In the excerpts below from the manuscript pages where the sentence appears, we see Thoreau inserting and deleting various adjectives, adverbs, and phrases that qualify his assertions about what he learned from his experience at the pond. Some of his changes also seem intended to tighten up the wording and increase the impact of what he has to say. In E, many of Thoreau's revisions are in pencil. In F they are almost all in ink.
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <!-- First manuscript page. You need to include the <sourceDoc> element and its enclosed elements for each individual manuscript page you reference in your analysis. -->
+   <sourceDoc facs="#hm924v1n211" n="211"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your first image. -->
+      <surface>
+      <zone>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/211/full/full/0/default.jpg"/>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/211/full/full/0/default.jpg">
+         <seg> 
+              <note>In pencil, Thoreau has written "v end of sand foliage At length the sun's rays"</note>
+              <lb><del rend="pencil">But we must not let</del></lb>
+              <lb><del rend="pencil">the winter go so early</del>. When</lb>
+              <lb> the ground is <add rend="pencil"><del rend="pencil">completely</del> partically</add> bare of </lb>
+              <lb> snow and a few warm days have</lb>
+              <lb> dried it's surface <add rend="pencil"> here and there </add> it is pleasant </lb>
+              <lb> to compare the <add rend="pencil"><del rend="pencil">faint</del> first</add> tender signs </lb>
+              <lb> of the infant year just peeping </lb>
+              <lb> forth, with the stately beauty of </lb>
+              <lb> the withered vegetation which has </lb>  
+              <lb> withstood the winter- <add> life ever lasting asters, goldenrods, and graceful wild grasses whose winter is more stately than their summer even, as if not till then their beauty was ripe </add> The various </lb>
+              <lb/><add rend="pencil"><del rend="pencil">thistles</del> sedges</add> <add rend="pencil"> <note> illegible text that was then crossed out </add> and  other strong stemmed 
+              <lb/> pants, which have not <del> even </del> yet
+              <lb/> sown thier seeds-
+              <note type="interperatation"> Many of the revisions that Thoreau makes to this section have to deal with the specific language used to convey the natural cycle of seasons changing and how that relates to human change. Nature is often known for it's cyclic occurances and by comparing the human experience of rejuvination to the first thawing of spring, Thoreau provides insight into his perspective on society being an ecosystem of its own. 
+             
+            </seg>
+         </zone> 
+         <zone>
+            <!-- To include additional zones on the same manuscript image, repeat the exact structure of the one above using the information relevant to each additional zone. -->
+         </zone> 
+      </surface>
+   </sourceDoc>
+   <!-- Second manuscript page. -->
+   <sourceDoc facs="#hm924v6n1248" n="1248"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your second image. -->
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/1248/full/full/0/default.jpg"/><!-- This is just an example. Replace the url here with the url of the manuscript image. -->
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/1248/675,2229,7091,3665/pct:30/0/default.jpg"/><!-- This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
+            <seg>
+               <lb/>I learned this, at least, by
+               <lb/>my experiment; that if one ad-
+               <lb/>vances <note>Illegible text rubbed out above line</note> confidently, <del>but with-</del>
+               <lb/><del>out wilfulness</del>, <del>though only</del><note>Illegibile text beneath "only"</note>
+               <lb/>in the direction of his dreams,
+               <lb/><del>and</del> <note>"and" deleted in pencil and ink</note> endeavors to live the life
+               <lb/>which he has imagined, he
+               <lb/>will meet with a success
+               <lb/><del>quite</del> unexpected in common
+               <lb/>hours, <del>and, the result will</del>
+               <lb/><del>in a measure, miraculously</del>
+               <lb/><del>answer to his faith.</del>
+               <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. -->After re-copying the sentence in F, Thoreau continues to revise, this time almost entirely in ink. (The word "and" is deleted in pencil as well as ink, and what appears to have been a pencilled insertion between "advances" and "confidently" has been rubbed out.) Noe that the final words of the sentence have been deleted, with their reference to a "result" answering to "faith," the sentence puts more emphasis on "success." (The emphasis is enhanced, too, by Thoreau's decision to strike "quite unexpected.") However, Thoreau retains "endeavors to," which he first inserted in E. While the sentence gets a little bolder in F, then, it retains the idea that endeavoring to life your imagined life is the important thing. Striving itself might be regarded as a kind of success.</note></seg>
+         </zone>
+         <zone>
+            <!-- To include additional zones on the same manuscript image, repeat the exact structure of the one above using the information relevant to each additional zone. -->
+         </zone> 
+      </surface>
+   </sourceDoc>
+     <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/1248/675,2229,7091,3665/pct:30/0/default.jpg"/><!-- This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
+            <seg>
+               <lb> the ground - When <add rend="pencil"><del> it </del> he</add> would 
+               <lb/>  <add rend="pencil"> with ludicrous </add> uncertainty - as <add rend="pencil"> 177 </add> 
+               <lb/> if suspecting
+         </zone>
+         <zone>
+</TEI>
