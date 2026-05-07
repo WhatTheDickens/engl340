@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
+            <editor xml:id="fiona">Fiona Green</editor>
+            <editor xml:id="avery">Avery Wolfe</editor>
+            <editor xml:id="anna">Anna Enright</editor>
+            <!-- use @resp="#name_1" on elements as needed to indicate responsibility -->
+         </titleStmt>
+         <publicationStmt>
+            <p>Transcriptions from HM 924, the manuscript of Walden: Brute Neighbors 11b Version A, Brute Neighbors 11a Version E and G</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Hungtington Library</repository>
+                  <idno>HM 924</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <author>Henry David Thoreau</author>
+                     <title>Walden</title>
+                     <bibl type="page" xml:id="hm924v1n208">208</bibl>
+                     <bibl type="page" xml:id="hm924v7n944">944</bibl>
+                     <bibl type="page" xml:id="hm924v5n789">789</bibl>
+                  </msItem>
+               </msContents>
+            </msDesc>
+            <bibl>
+               <!-- Replace the content that follows this comment with a paragraph of your own giving brief, one-paragraph overview of what you found on the manuscript surfaces and why what you found is significant. Note the syntax in this example for indicating that text should be italicized. --> Across versions, Thoreau’s revisions show a clear movement from general observations about animals toward a full-fledged philosophical claim. What begins as observation notes about a raccoon, gradually expands into a broader reflection on the hidden lives of many woodland creatures, and ultimately becomes a fully developed argument about the natural world existing alongside human society yet largely unseen. 
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <sourceDoc facs="#hm924v1n208" n="208">
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/208/full/full/0/default.jpg"/> 
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/208/519,7112,7499,1565/full/0/default.jpg"/><!-- This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
+            <seg>
+               <lb/><note>VS about ants</note>I <del>have</del> <add rend="pencil">had</add> formerly seen the 
+               <lb/>raccoon in the woods behind <add> where <del> my </del> </add> my
+               <lb/>house <add>stands</add> and probably still hear their 
+               <lb/>winnering at night. <add rend="pencil"> in the hollow trees </add>
+               <lb/><note> "from time to time" is written in pencil above castel'd in a hollow tree </note>
+               <lb/><add rend="pencil"> "found in my neighborhood castel'd in an aged hollow tree;"" </add> "castel'd in a hollow tree."
+            
+               <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. -->In version “A”, Thoreau makes a general observation about the racoons behind this house, living in hollow trees, heard but rarely seen. By noting how these animals go about their lives “castel’d” in the woods, out of sight and indifferent to human presence, he sets up his argument that the natural world operates on its own terms. This early observation becomes evidence for his broader claim that animals inhabit a parallel world beside ours, fully alive and meaningful even when we are not watching.The phrase "castlled in the hollow of an aged tree;" comes from a republication of William Wood's New England Prospect, a guidebook offering one of the most detailed accounts of the Massachusetts area. Because the quote was written and rewritten , its possible he quoted the line and later on went back into the text to correct himself. </note>
+            </seg>
+         </zone> 
+      </surface>
+   </sourceDoc>
+   <sourceDoc facs="#hm924v5n789" n="789">
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/789/full/full/0/default.jpg"/> 
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/789/275,2444,2444,926/full/0/default.jpg"/>
+            <seg>
+               <lb/>It is remarkable how <del rend="pencil"> much life</del> <add rend="pencil"> many creatures</add>
+               <lb/>live<del rend="pencil">s</del> wild and free, though
+               <lb/>secret in the woods, <del rend="pencil"> known only</del>
+               <lb/><del rend="pencil">to the hunter</del> <add rend="pencil">only</add>
+               <lb/>and still sustains <add rend="pencil">themselves</add> in the neighborhood of towns
+
+               <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. --> Later, in version “E” Thoreau strengthens his claim that animals live in a parallel world by shifting from a single raccoon sighting to a broader reflection on “how many creatures live wild and free though secret in the woods.” This added generalization makes the raccoon just one example of a much larger pattern, that animals sustain themselves right beside human towns while remaining mostly unseen. By emphasizing that these creatures are “known only to the hunter” and “secret,” the revision highlights the idea that the natural world continues its own hidden life alongside ours, operating on terms we rarely witness.</note>
+            </seg>
+         </zone> 
+      </surface>
+   </sourceDoc>
+   <sourceDoc facs="#hm924v7n944" n="944">
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/944/full/full/0/default.jpg"/>
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/944/206,1988,2503,1078/full/0/default.jpg"/>
+            <seg>
+               <lb/>It is remarkable how many
+               <lb/>many creatures live wild and
+               <lb/>free, though secret in the
+               <lb/>woods, and still sustain them-
+               <lb/>selves in the neighborhood of towns
+               <lb/>suspected <del>only</del> by hunters only
+               <lb/><add> How retired the otter manages to live here. He grows to be four feet, as big as a </add>
+               <lb/> <add> small boy, perhaps without any human being getting a glimpse of him.</add>
+               <lb/> <note> "human being getting a glimpse of him" has been written in pencil under where he writes the revision in ink </note>
+               <lb/>I <del>had</del> formerly <del>seen</del> <add>saw</add> the raccoon <note> "saw" added in pencil where it appears in ink</note>
+               <lb/>in the woods behind where my house
+               <lb/>is built, and probably still heard
+               <lb/>their winnering at night.
+         <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. --> Thoreau’s smaller revisions gradually build toward the fully developed passage, where his idea becomes philosophical. In “A”, the earliest version notes a raccoon living near his house, a small observation that hints at animals existing just beyond human sight. The next revision in version “E” Thoreau broadens this into a general claim about “many creatures” living “wild and free though secret,” suggesting a hidden community of animals alongside towns. In the final version, Thoreau strengthens this idea by adding the otter, an animal that can grow “as big as a small boy” without anyone ever seeing it. Together, these revisions move from a single example to a broader pattern and finally to a clear argument that animals inhabit a parallel world, one that is active, self‑sustaining, and largely invisible to the humans living beside them.</note>
+         </seg>
+         </zone>
+         <zone>
+         </zone> 
+      </surface>
+   </sourceDoc>
+</TEI>
