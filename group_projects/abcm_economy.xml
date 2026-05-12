@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
+            <editor xml:id="name_1"><!--Alexandra Campitiello--></editor>
+            <editor xml:id="name_2"><!--Courtney Goodwin--></editor>
+            <editor xml:id="name_3"><!--Marlea Petroziello--></editor>
+            <editor xml:id="name_4"><!--Brianna Tooke--></editor>
+            <!-- use @resp="#name_1" on elements as needed to indicate responsibility -->
+         </titleStmt>
+         <publicationStmt>
+            <p>Transcriptions from HM 924, the manuscript of Walden: <!--Economy 19a Version A, Economy 19a Version B, Economy 19b Version B--></p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Hungtington Library</repository>
+                  <idno>HM 924</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <author>Henry David Thoreau</author>
+                     <title>Walden</title>
+                     <bibl type="page" xml:id="hm924v5n890">559638</bibl><!-- The number here is an example. Replace it with the first actual image number you discuss. -->
+                     <bibl type="page" xml:id="hm924v6n1248"></bibl><!-- The number here is an example. Replace it with the second actual image number you discuss. -->
+                     <!-- Add more instances of bibl here as needed. -->
+                  </msItem>
+               </msContents>
+            </msDesc>
+            <bibl>
+               <!-- Replace the content that follows this comment with a paragraph of your own giving brief, one-paragraph overview of what you found on the manuscript surfaces and why what you found is significant. Note the syntax in this example for indicating that text should be italicized. --> The first sentence of what would become paragraph 5 of the "Conclusion" to <hi rend="style(italics)">Walden</hi> makes its initial appearance in Draft E. Thoreau makes additional changes to the sentence in F. In the excerpts below from the manuscript pages where the sentence appears, we see Thoreau inserting and deleting various adjectives, adverbs, and phrases that qualify his assertions about what he learned from his experience at the pond. Some of his changes also seem intended to tighten up the wording and increase the impact of what he has to say. In E, many of Thoreau's revisions are in pencil. In F they are almost all in ink.
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <!-- First manuscript page. You need to include the <sourceDoc> element and its enclosed elements for each individual manuscript page you reference in your analysis. -->
+   <sourceDoc facs="#hm924v5n890" n="559638"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your first image. -->
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/23/full/full/0/default.jpg"/><!-- This is just an example. Replace the url here with the url of the manuscript image. -->
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/890/327,280,2402,1481/pct:30/0/default.jpg"/><!-- This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
+            <seg>
+               <lb/>To the elevation and ennoblement of mankind
+               <lb/>what are called the luxuries and many of the comforts
+               <lb/>of life are not only not indispensable, but positive
+               <lb/>hindrances. With respect to luxuries and comforts,
+               <lb/>the wisest have ever lived a more simple and
+               <lb/>meager life than the poor. The ancient
+               <lb/>philosophers, were a class of men than whom none
+               <lb/><del>were</del><note>"have been" interlined in ink</note> poorer in respect to outward
+               <lb/>riches, none so rich in inward. We know not much
+               <lb/>about them. It is astonishing that <note>"we" underlined</note> can know so
+               <lb/>much as we do The same is true of the more
+               <lb/>modern reformers and benefactors of their race.
+               <lb/>None can be an impartial or wise observer of
+               <lb/>human life but from the vantage ground of what <note>"we" italicized</note>
+               <lb/>should call voluntary poverty. Of a life of luxury the
+               <lb/>fruit is luxury, whether in agriculture, or commerce,
+               <lb/>or literature, or art.
+               <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. -->At the top of this page from E, Thoreau has made many changes in pencil. What did he learn? "I learned this by my experiment" becomes "I learned this at least by my experiment." Implication: he learned many things but wants to single out this one thing in conclusion. The qualifying words "endeavors to," "quite," "wholly," and "in a measure" seem to make his claim about finding success by advancing "confidently" a little more–to pick up on his own word—measured.</note>
+            </seg>
+         </zone> 
+         <zone>
+            <!-- To include additional zones on the same manuscript image, repeat the exact structure of the one above using the information relevant to each additional zone. -->
+         </zone> 
+      </surface>
+   </sourceDoc>
+   <!-- Second manuscript page. -->
+   <sourceDoc facs="#hm924v6n1248" n="1248"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your second image. -->
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/1248/full/full/0/default.jpg"/><!-- This is just an example. Replace the url here with the url of the manuscript image. -->
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/1248/675,2229,7091,3665/pct:30/0/default.jpg"/><!-- This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
+            <seg>
+               <lb/><del>To the elevation and ennoblement of mankind</del>
+               <lb/><del>what are called</del>, <note>interlined in pencil "most of"</note> the luxuries and many of
+               <lb/>the <note>interlined in pencil "so-called"</note> comforts of life are not only not
+               <lb/>indispensable, but positive hinderances to the <note>"e" in hinderances and "to the" interlined in pencil</note>
+               <lb/><note> "elevation of mankind." interlined in pencil</note> With respect to luxuries and
+               <lb/>comforts, the wisest have ever lived a more simple
+               <lb/>and meager life than the poor. The ancient
+               <lb/>philosophers, <note>"Chinese, Hindoo, Persian, and Greek," interlined in pencil</note> <del>and I may add Christ as a more poplar</del>
+               <lb/><del>example perhaps generally</del> were a class of men
+               <lb/>than which none have been poorer in <del>respect to</del>
+               <lb/>outward riches, none so rich in inward. We know
+               <lb/>not much about them. It is <del>astonishing</del> <note>"remarkable" interlined in pencil</note>
+               <lb/>that <note>"we" underlined</note> <del>can</del> know so much <note>"of them" interlined in pencil</note> as we do.
+               <lb/><note>"The same is true of the most important reformers" interlined in pencil</note> <del>that</del>
+               <lb/><del>have lived</del>The same is true of the more modern
+               <lb/>reformers and benefactors of their race. None can
+               <lb/>be an impartial or wise observer of human life but
+               <lb/>from the vantage ground of what <note>"we" italicized</note> should call
+               <lb/>voluntary poverty. Of a life of luxury the fruit is
+               <lb/>luxury, whether in agriculture, or commerce, or
+               <lb/>literature, or art.
+
+            <seg>
+               <lb/><del>Critics have been very lavish</del>
+               <lb/><del>of the word philosopher of late. According to them</del>
+               <lb/><del>every century has had several. But we have</del>
+               <lb/><del>forgotten what the name implies. These men were</del>
+               <lb/><del>perhaps</del><note>"We hear nowadays of" interlined in pencil</note> professors of
+               <lb/>philisophy, <note>"of" interlined in pencil</note> readers of it, sometimes even <note>"of" interlined in pencil</note>
+               <lb/>utterers of it to a slight extent, but never <note>"of" interlined in pencil</note> livers of
+               <lb/>it. But it is admirable to profess, <del>to</del><note>"or" interlined in pencil</note> read, <del>to</del><note>"or" interlined in pencil</note>
+               <lb/>utter, simply because it was once admirable to live.
+               <lb/>To be a philosopher is not <del>even</del> to have subtle
+               <lb/>thoughts, and found a school, merely, but, <del>what is</del>
+               <lb/><note>"infinitely" interlined in pencil</note><del>infinitely rarer still,</del> to live a life of simplicity, <note>"of" interlined in ink</note>
+               <lb/>independence, <note>"of" interlined in ink</note> magnanimity and trust, such as
+               <lb/><del>the weak, the unwise and the dependent can not</del>
+               <lb/><del>live. With the actual life of man for the problem,</del>
+               <lb/><del>to see how you can solve it!</del><note>"few have ever lived. It is" interlined in pencil</note>
+               <lb/><note>"to solve some of the problems of life both" interlined in pencil</note>
+               <lb/><note>"theoretically and practically" interlined in pencil</note> Some modern men <note>"who" interlined in pencil</note>
+               <lb/><note>"have copied the title of philosopher" interlined in pencil</note> have <note>"had" interlined in ink</note><del>skill</del>
+               <lb/><del>and</del> ambition <note>"and skill" interlined in pencil</note> enough to lead partially
+               <lb/>successful and pleasing lives <del>under the</del>
+               <lb/><del>circumstances, but there is no bending of</del>
+               <lb/><del>circumstances under their hands. It is</del><note>"considering" interlined in pencil</note>
+               <lb/><note>"their circumstances, but theirs was" interlines in pencil</note> at best a
+               <lb/>courtier like success, not kingly, not manly. <del>We are</del>
+               <lb/><del>pigmies and dwarfs.</del><note>"They have made shift to live" interlined in pencil</note>
+               <lb/><note>"merely by conformity and a kind of flattery of fate" interlined in pencil<note>
+               <lb/>Where are the progenitors of a nobler race of men?
+               <lb/>-the founders of nations? <del>Why do</del><note>"It would be well" interlined in pencil</note>
+               <lb/><note>"to ask ourselves why" interlined in pencil</note> men degenerate ever? What
+               <lb/>makes families run out? What is the nature of that
+               <lb/>luxury <del>that</del><note>"which" interlined in pencil</note> enervates and destroys nations?
+               <lb/>And <del>is there</del><note>"are we sure that there is" interlined in pencil</note> none of it in
+               <lb/>our <note>"own" interlined in pencil</note> lives? As I have said the philosopher is in
+               <lb/>advance of his age not merely in his discourse, but
+               <lb/>in his life, even in the <note>"outward" interlined in ink</note> form and <del>outward</del>
+               <lb/>mode if it. He is not fed, sheltered, clothed,
+               <lb/>warmed, like his fellows. How can a man be a 
+               <lb/>philosopher and not maintain his vital heat by
+               <lb/>better methods than other men?
+      
+               <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. -->After re-copying the sentence in F, Thoreau continues to revise, this time almost entirely in ink. (The word "and" is deleted in pencil as well as ink, and what appears to have been a pencilled insertion between "advances" and "confidently" has been rubbed out.) Noe that the final words of the sentence have been deleted, with their reference to a "result" answering to "faith," the sentence puts more emphasis on "success." (The emphasis is enhanced, too, by Thoreau's decision to strike "quite unexpected.") However, Thoreau retains "endeavors to," which he first inserted in E. While the sentence gets a little bolder in F, then, it retains the idea that endeavoring to life your imagined life is the important thing. Striving itself might be regarded as a kind of success.</note>
+       </zone>
+         <zone>
+            <!-- To include additional zones on the same manuscript image, repeat the exact structure of the one above using the information relevant to each additional zone. -->
+         </zone> 
+      </surface>
+   </sourceDoc>
+   <!-- For each additional manuscript page you wish to include. use <sourceDoc> and its enclosed elements (<surface>, <zone>, etc.) following exactly the same structure you see in the above examples. -->
+</TEI>
