@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
+            <editor xml:id="daphne">Daphne Paul-LaRonca</editor>
+            <editor xml:id="kendra">Kendra Brace</editor>
+            <editor xml:id="ellie">Ellie Clodfelter</editor>
+            <editor xml:id="makenzie">Makenzie Gardiner</editor>
+            <!-- use @resp="#name_1" on elements as needed to indicate responsibility -->
+         </titleStmt>
+         <publicationStmt>
+            <p>Transcriptions from HM 924, the manuscript of Walden: <!-- Spring 15 Version A --></p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Hungtington Library</repository>
+                  <idno>HM 924</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <author>Henry David Thoreau</author>
+                     <title>Walden</title>
+                     <bibl type="234" xml:id="hm924v5n239">239</bibl><!-- The number here is an example. Replace it with the first actual image number you discuss. -->
+                     <bibl type="235" xml:id="hm924v6n240">240</bibl><!-- The number here is an example. Replace it with the second actual image number you discuss. -->
+                     <!-- Add more instances of bibl here as needed. -->
+                  </msItem>
+               </msContents>
+            </msDesc>
+            <bibl>
+               <!-- Replace the content that follows this comment with a paragraph of your own giving brief, one-paragraph overview of what you found on the manuscript surfaces and why what you found is significant. Note the syntax in this example for indicating that text should be italicized. --> As shown in the manuscript of version A, paragraph 15 of "Spring", Thoreau was conflicted about the verb tense and the message he wanted to get across in one of the closing moments of  <hi rend="style(italics)">Walden</hi>. We found that there were fascinating tweaks Thoreau made throughout his process of revision at the end of paragraph 15 that only make sense if we compare it to his first draft, which is what we encoded here. On this particular manuscript surface Thoreau added a whole new sentence, that truly encapsulates all of the lessons he learned at Walden Pond. He returns to his theme of living deliberately and taking in the beauty of your surroundings. He emphasizes that the change of seasons and nature is a key indicator of what stage of life we are in. We found the revisions in the chapter "Spring" to be especially meaningful because as Thoreau is wrapping up his memoir, he is discussing other themes of change and rebirth which are symbolic of the season of Spring.   
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <!-- First manuscript page. You need to include the <sourceDoc> element and its enclosed elements for each individual manuscript page you reference in your analysis. -->
+   <sourceDoc facs="#hm924v5n239" n="239"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your first image. -->
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/238/full/full/0/default.jpg"/><!-- This is just an example. Replace the url here with the url of the manuscript image. -->
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/238/1456,7454,6516,2327/full/0/default.jpg"/><!-- This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
+            <seg resp="daphne"> 
+               <lb/>I knew that it 
+               <lb/>would not rain any more.<add rend="pencil">You may tell</add>
+               <lb/><add rend="pencil">by looking at any twig of the forest aye, by looking at </add>
+               <lb/><add rend="pencil">your wood pile whether its winter is past or not. </add> As it
+               <lb/>grew darker, I was startled by the clank of geese fly<add rend="pencil">ing</add> low over the woods-like weary travellers late
+               <lb/>getting in from southern lakes, and indulging at last
+               <lb/>in unrestrained complaint and mututal consolations.
+               <lb/>As I stood at the door I could hear the rush of their
+               <lb/>wings as driving toward my house, they suddenly 
+               <lb/>spied my light, and with the hushed clamor wheeled 
+               <lb/>and settled in the pond. 
+               <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. -->At the end of paragraph 15 of "Spring" in <hi rend="style(italics)">Walden</hi> , of this page from version A, Thoreau made minor but very meaningful revisions in pencil. The chapter of "Spring" is a metaphor for a season of transition and rebirth which can be seen even if you take a moment to look at the fire wood or the forest. The content of the manuscript we transcribed in Spring mirrors a transition like the one Thoreau is describing as winter shifts to spring. Throughout multiple manuscript versions, Thoreau tirelessly grappled with the correct verb tense and descriptions to tell the profound story he intended to. In his first version, he tells his memoir in the past tense almost as if there is distance between him and his recollections. This description that begins with "As I stood at the door"  is more removed and less immersive for the reader.  </note>
+            </seg>
+         </zone> 
+         <zone>
+            <!-- To include additional zones on the same manuscript image, repeat the exact structure of the one above using the information relevant to each additional zone. -->
+         </zone> 
+      </surface>
+   </sourceDoc>
+   <!-- Second manuscript page. -->
+   <sourceDoc facs="#hm924v6n240" n="240"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your second image. -->
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/239/full/full/0/default.jpg"/><!-- This is just an example. Replace the url here with the url of the manuscript image. -->
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/239/728,841,7064,2036/full/0/default.jpg"/><!-- This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
+            <seg>
+               <lb/>unrestrained complaint and mututal consolations.
+               <lb/>As I stood at the door I could hear the rush of their
+               <lb/>wings as driving toward my house, they suddenly 
+               <lb/>spied my light, and with the hushed clamor wheeled 
+               <lb/>and settled in the pond. 
+               <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. -->While in Version A, Thoreau does not make any revisions to these final two sentences of paragraph 15 in Spring, he makes significant revisions to this ending in future versions and version E. He is so concerned with finding the precise descriptions and words to describe the most sharp details that he changes "clank" to "honk" even to better describe how the geese sounded to him. Thoreau ends this paragraph by describing such a vivid scene to readers, solely focused on the geese and their patterns of living and movement. This makes nature the focal point of the conclusion of this paragraph rather than him which ends up changing in future versions. </note>
+            </seg>
+         </zone> 
+         <zone>
+            <!-- To include additional zones on the same manuscript image, repeat the exact structure of the one above using the information relevant to each additional zone. -->
+         </zone> 
+      </surface>
+   </sourceDoc>
+    <!-- Third manuscript page. -->
+     <sourceDoc facs="#hm924v6n240" n="240"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your second image. -->
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/239/full/full/0/default.jpg"/><!-- This is just an example. Replace the url here with the url of the manuscript image. -->
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/238/1747,3104,6291,710/full/0/default.jpg"/><!-- This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
+            <seg>
+               <lb/>I heard<del rend="pencil">d</del> a robin
+               <lb/>in the distance the first I had <del rend="pencil">d</del> <add rend="pencil">ve</add> heard
+               <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. -->This portion of paragraph 15 from Spring depicts one of the many instances in which Thoreau was conflicted with which verb tense to use. On the manuscript, Thoreau strikingly writes directly over his pen ink with pencil, changing words by adding just the ending. Even though this was only his second revision, his detailed markings show that during his entire composition of <hi rend="style(italics)">Walden</hi> he was tirelessly dedicated to creating the most immersive and impactful story he could. Henry David Thoreau and his creation of <hi rend="style(italics)">Walden</hi> was ever-changing and with each tweak he made, he refined it closer to the level of simplicity and purity he also appreciated in life. </note>
+        </seg>
+                 </zone>
+          </surface>
+</sourceDoc>
+<sourceDoc facs="#hm924v5n887" n="887"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your first image. -->
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/887/full/full/0/default.jpg"/><!-- This is just an example. Replace the url here with the url of the manuscript image. -->
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/887/268,245,2554,1476/full/0/default.jpg"/><!-- This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
+            <seg>
+               <lb/>grew darker, I was startled
+               <lb/>by the honking of geese flying
+               <lb/>low over the woods like weary
+               <lb/>travellers, late <del rend="pencil">late</del> getting in <add rend="pencil">late</add> from
+               <lb/>southern lakes, and indulging
+               <lb/>at last in unrestrained com-
+               <lb/>plaint and mutual consola-
+               <lb/>tion. <del rend="pencil">As I stood</del> <add rend="pencil">Standing</add> at my door,
+               <lb/>I could hear the rush of their
+               <lb/>wings, when, driving toward my
+               <lb/>house, they suddenly spied my
+               <lb/>light and with hushed clamor wheeled
+               <lb/>and settled in the pond. <add>So I came in, shut the door, and passed my first spring night in the woods.</add> <note>This is a metaphorical and literal transition to the next paragraph. By closing the door, he is transitioning to experiencing his first spring night in the woods, as the next paragraph begins a new day. As a season, spring suggests new beginnings and change and Thoreau's new ending models that. This change from version A, which ended talking about the geese, puts Thoreau at the heart of his story instead of nature. Thoreau's experience at Walden Pond was very much about what he learned from his environment that influenced his outlook on life, and the interaction of man and nature. Finally, another significant point of revision we found on this manuscript surface was Thoreau's perseverence in finding the perfect word choice to keep his recollection of past events lively and engaging. He changes "As I stood" to "Standing at my door, I could hear," which allows the readers to picture a more vivid image of him. The descriptions "driving," "honking," and "rush" add such liveliness and a feeling of movement to what was otherwise a pretty stationary scene. Overall, Thoreau worked tirelessly to paint the most vivid image of his first spring night at Walden Pond with the use of brillliant and eccentric diction. </note>
+            </seg>
+         </zone> 
+       </surface>
+       </sourceDoc>
+</TEI>
+
+            <!-- To include additional zones on the same manuscript image, repeat the exact structure of the one above using the information relevant to each additional zone. -->
