@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
+            <editor xml:id="jaidyn">Jaidyn Vorpahl </editor>
+            <editor xml:id="sky">Sky Riedell</editor>
+            <editor xml:id="beck">Beck Fox</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Transcriptions from HM 924, the manuscript of Walden: Brute Neighbors 9 Version A, Brute Neighbors 8 Version E, Brute Neighbors 9 Version E</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Hungtington Library</repository>
+                  <idno>HM 924</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <author>Henry David Thoreau</author>
+                     <title>Walden</title>
+                     <bibl type="page" xml:id="hm924v1n206">206</bibl><!-- vers a para 9, start interlined in pencil at top of page, the rest in ink below (a long-eared onward) -->
+                     <bibl type="page" xml:id="hm924v1n207">207</bibl><!-- vers a para 9 until "like a fly, and walked away."-->
+                     <bibl type="page" xml:id="hm924v5n784">784</bibl><!-- vers e para 8 interlined in pencil w para 9 struck content -->
+                     <bibl type="page" xml:id="hm924v5n785">785</bibl><!-- start of para 9 pencil interlined with struck para 9 ink, para 9 cont in ink-->
+                     <bibl type="page" xml:id="hm924v5n786">786</bibl><!-- end of para 9 in ink at top of page-->
+                  </msItem>
+               </msContents>
+            </msDesc>
+            <bibl resp="beck">
+               "Brute Neighbors" appears as early as Draft A of <hi rend="style(italics)">Walden</hi>, where it begins following "Spring" 26b. By Draft E this section has become paragraph 9, and Thoreau has added an additional 8 paragraphs before it. In the exerpts below we see Thoreau both cross out and add via pencil large sections of text. These changes demonstrate Thoreau adding additional reflections on the "neighbors" of Walden pond, as well as removing reflections for overall text coherence.
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <sourceDoc facs="#hm924v1n206" n="206" resp="#beck">
+      <surface>
+      <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/206/full/full/0/default.jpg"/>
+      <zone>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/206/598,602,7580,3646/full/0/default.jpg"/>
+         <seg>
+            <lb/><add rend="pencil">When ploughing my field in the spring I found a ground bird's nest</add>
+            <lb/><add rend="pencil">directly in the path of my plow which would have been turned in</add>
+            <lb/><add rend="pencil">by the next furrow slice but though I took it up</add><del rend="pencil"> the sod which</del>
+            <lb/><add rend="pencil">carefully with the sod in which it rested &amp; set it in the grass a few</add>
+            <lb/><add rend="pencil">rods off beyond the plowed land, where I had taken out another</add>
+            <lb/><add rend="pencil">sod of same size, yet the parents were more cruel</add>
+            <lb/><add rend="pencil">than I and when I looked again the young had been deserted and were</add>
+            <lb/><add rend="pencil">dead.</add>
+            <note type="interpretation" resp="#beck">At the top this page from A, Thoreau has penciled part of paragraph 9 between the lines of "Spring" 26b. Implication: after penning the rest of paragraph 9, Thoreau returned to add this encounter with the bird's nest. This may have been done to ease the transition between "Spring", which discussed birds, and the closer animal encounters of "Brute Neighbors" 9.</note>
+         </seg>
+      </zone>
+      <zone>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/206/631,4602,7580,5458/full/0/default.jpg"/>
+         <seg>
+            <lb/>A long-earedred bellied
+            <lb/>field mouse had her nest underneath
+            <lb/>my house, and before i had laid
+            <lb/>the second floor, and swept out
+            <lb/>the shavings, would come out to pick
+            <lb/>up the crumbs at my feet when
+            <lb/>I took my lunch. It had probably
+            <lb/>never seen a man before, and soon
+            <lb/>bexame quite familiar. It would
+            <lb/>come out regularly at lunch time,
+            <lb/>and run over my shoes and up my
+            <lb/>clothing, and my legs inside cling-
+            <lb/>ing to the flesh. It would run readily
+            <lb/>up the sides of the room by short
+            <lb/>impulses like a squirrel, which
+            <lb/>it resembled considerably in its
+            <lb/>motions. At length as I leaned
+         </seg>
+      </zone>
+      </surface>
+   </sourceDoc>
+   <sourceDoc facs="#hm924v1n207" n="207" resp="#beck">
+      <surface>
+      <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/207/full/full/0/default.jpg"/>
+      <zone>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/207/435,635,7547,4152/full/0/default.jpg"/>
+         <seg>
+            <lb/>my elbow on the bench one day, it
+            <lb/>ran up my clothes, and along my
+            <lb/>sleeve, and round and round the
+            <lb/>paper which held my dinner while I kept <del>it</del><add rend="pencil">the latter</add> close dodging and play-
+            <lb/>inng at bo-peep with it, and when
+            <lb/>at last I held still a piece of cheese
+            <lb/>between my thumb and finger, it
+            <lb/>came and nibbled it, sitting in
+            <lb/>my hand, and hten cleaned its face
+            <lb/>and paws like a fly, and walked
+            <lb/>away.
+            <note type="interpretation" resp="#sky">Thoreau describes two experiences that reveal different aspects of nature. The story of the bird nest suggests a struggle between human desire to help nature and our own lack of understanding of it. The story of the mouse demonstrates the intimate and trusting relationship humans can have with nature, as well as the way many things in nature are similar and connected (comparing the mouse to both a fly and a squirrel).</note>
+         </seg>
+      </zone>
+      </surface>
+   </sourceDoc>
+   <sourceDoc facs="#hm924v5n784" n="784" resp="#beck">
+      <surface>
+      <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/784/full/full/0/default.jpg"/> <!-- full page here -->
+      <zone>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/784/217,2336,2553,1111/full/0/default.jpg"/> <!-- iiif crop goes here -->
+         <seg>
+            <lb/><del>Though the hunter instinct was</del>
+            <lb/><del>thus strong in me, I was generally</del>
+            <lb/><del>the friend and defender</del>
+            <lb/><del>of the brute creatures as were my</del>
+            <lb/><del>neighbors, and I had unusual</del>
+            <lb/><del>opportunities for observing their</del>
+            <lb/><del>habits. Though I took up a</del>
+            <lb/><del>ground bird's nest with young</del>
+            <lb/><del>which was directly in the path of</del>
+            <note type="interpretation" resp="#beck"> This section contains both new writing and what was once pencil text on version A of the manuscript. It seems as though Thoreau added a transition between the newly added paragraphs 1-7 and his musings on the bird's nest (hunter instincts to observing habits), before crossing it out and replacing it with paragraph 8 (seen below). The bird nest story was boxed in, separating it from this crossed out transition, and seems to have been crossed out at a later date when Thoreau scrapped it as well. </note>
+         </seg>
+         <seg>
+            <lb/><add rend="pencil">Why do precisely these objects which we behold make a world?</add>
+            <lb/><add rend="pencil">Why has man just these species of animals for instance</add>
+            <lb/><add rend="pencil">for his neighbors &amp; no others?</add> <add>as if nothing but a mouse could have filled this crevice?</add> <add rend="pencil">They must be very sig-</add>
+            <lb/><add rend="pencil">nificant though we fail to percieve their significance.</add>
+            <lb/><del rend="pencil">Have not</del><add>I suspect that</add><add rend="pencil">Pilpay &amp; co.</add><add>have</add><add rend="pencil">put them to their best</add>
+            <lb/><add rend="pencil">use</add> <del>after all.</del> <add rend="pencil">Are they not all beasts of</add>
+            <lb/><add rend="pencil">burden in a sense</add><add>,</add> <add rend="pencil">made to carry some portion</add>
+            <lb/><add rend="pencil">of our thoughts?</add>
+            <note type="interpretation" resp="beck">This section was written in pencil between the lines of the (now deleted) start of paragraph 9. As noted above, it seems as though this section replaced the start of paragraph 9 as a transition to the bird nest story before that section was scrapped. Perhaps the bird nest was scrapped as this section transitions more seamlessly into the rest of paragraph 9 without it, as both mention a mouse.</note>
+         </seg>
+      </zone>
+      </surface>
+   </sourceDoc>
+   <sourceDoc facs="#hm924v5n785" n="785" resp="#beck">
+      <surface>
+      <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/785/full/full/0/default.jpg"/>
+         <zone>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/785/239,273,2514,1261/full/0/default.jpg"/>
+            <seg>
+               <lb/><del>my plow, and would have</del>
+               <lb/><del>been turned in by the next</del>
+               <lb/><del>furrow slice, carefully moving</del>
+               <lb/><del>the sod and setting it in the</del>
+               <lb/><del>grass a few rods beyond the</del>
+               <lb/><del>plowed land, where I had taken</del>
+               <lb/><del>out another sod of the same</del>
+               <lb/><del>size, the parents were less</del>
+               <lb/><del>faithful than I, for when I</del>
+               <lb/><del>looked again the young had</del>
+               <lb/><del>been abandoned and were dead.</del>
+               <note type="interpretation" resp="#beck">Written in ink, then crossed out and interlined with pencil (see below).</note>
+            </seg>
+            <seg>
+               <lb/><add rend="pencil">The mice which haunted my house were not the</add>
+               <lb/><add rend="pencil">common ones which are said to have been introduced</add>
+               <lb/><add rend="pencil">into the country - but a peculiar wild native kind</add>
+               <lb/><add rend="pencil">not found in the village - one which I sent to</add>
+               <lb/><add rend="pencil">a distinguished naturalist interested him much - </add>
+            </seg>
+         </zone>
+         <zone>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/785/261,1516,2514,1866/full/0/default.jpg"/>
+            <seg>
+            <lb/>When I was building my house
+            <lb/><del>a long-eared red-bellied field-</del>
+            <lb/><del>mouse</del> <add rend="pencil">one of these</add> had its nest underneath
+            <lb/>it, and before I had laid
+            <lb/>the second floor and swept
+            <lb/>out the shavings, it would
+            <lb/>come out regularly at <del>dinner</del><add rend="pencil">lunch</add>
+            <lb/>time, and pick up the crumbs
+            <lb/>at my feet. It probably had
+            <lb/>never seen a man before and
+            <lb/>soon became quite familiar,
+            <lb/>and would run over my shoes
+            <lb/>and up my clothes. It could
+            <lb/>readily ascend the sides of the
+            <lb/>room by short impulses like
+            <lb/>a squirrel which it resembled in
+            <lb/>its motion. At length, I leaned
+            <note type="interpretation" resp="#beck">This segment is again carried over from version A. It appears that after penning this section, Thoreau decided to add more information about the kind of mice he was discussing. To avoid redundancy he replaced "a long-eared red-bellied field mouse" with "one of these", likely after adding the pencil text. Perhaps the addition of referencing the peculiarity of the mouse, as well as the interest of a naturalist friend, was intended to highlight how special the nature of Walden pond was, and how it differed from Thoreau's previous natural experiences.</note>
+            </seg>
+         </zone>
+      </surface>
+   </sourceDoc>
+   <sourceDoc facs="hm924v5n786" n="786" resp="jaidyn">
+      <surface>
+      <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/786/full/full/0/default.jpg"/>
+         <zone> 
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/786/310,320,2370,1540/full/0/default.jpg"/>
+            <seg>
+            <lb/>my elbow on the bench one
+            <lb/>one day, it ran up my clothes
+            <lb/>and along my sleeve, and
+            <lb/>round and round, my paper
+            <lb/>which held my dinner, while
+            <lb/>I kept the latter close, and dodged
+            <lb/>and played at bo-peep with it;
+            <lb/>and when at last I held still
+            <lb/>a piece of cheese between my thumb and
+            <lb/>finger, it came and nib- 
+            <lb/>bled it, sitting in my hand,
+            <lb/>and afterward cleaned its face
+            <lb/>and paws like a fly, and walked
+            <lb/>away.
+            </seg>
+         </zone>
+      </surface>
+   </sourceDoc>
+</TEI>
