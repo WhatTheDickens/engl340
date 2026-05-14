@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Revisions to Henry David Thoreau's manuscript of Walden</title>
+            <editor xml:id="alex">Alex Campitiello</editor>
+            <editor xml:id="courtney">Courtney Goodwin</editor>
+            <editor xml:id="marlea">Marlea Petroziello</editor>
+            <editor xml:id="brianna">Brianna Tooke</editor>
+            <!-- use @resp="#name_1" on elements as needed to indicate responsibility -->
+         </titleStmt>
+         <publicationStmt>
+            <p>Transcriptions from HM 924, the manuscript of Walden: Economy 19a Version A, Economy 19a Version B
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Hungtington Library</repository>
+                  <idno>HM 924</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <author>Henry David Thoreau</author>
+                     <title>Walden</title>
+                     <bibl type="page" xml:id="hm924v1n23">23</bibl>
+                     <bibl type="page" xml:id="hm924v2n279">279</bibl>
+                     <bibl type="page" xml:id="hm924v2n281">281</bibl>
+                     <!-- The number here is an example. Replace it with the first actual image number you discuss. -->
+                     <!-- done - Add more instances of bibl here as needed. -->
+                  </msItem>
+               </msContents>
+            </msDesc>
+            <bibl>
+               <note>Paragraphs 19a within the chapter "Economy" in <hi rend="style(italics)">Walden</hi> highlight revisions that Thoreau made across Versions A, B, and the final published version. Throughout these revisions Henry David Thoreau speaks with passion about the subject of luxury and material comfort, making his philosophical views against these forms of luxury known. He argues that simplicity allows for wisdom, independence, and moral growth. Thoreau used deliberate efforts to transform his emotional personal critique of luxury into a more polished philosophical argument, which presents a simplistic ideology, rather than a universally known moral idea. To ensure an improvement in the composition process, when making these changes among versions, Thoreau consistently clarifies awkward syntax, removes excessive emotional rhetoric, stregthens philosophical precision, broadens the universality of his ideas, and emphasized lived experiences over intellectual performance. Within <hi rend="style(italics)">Walden</hi>, philosophy becomes far more than an abstract thought for Thoreau. He believes and wants to spread the message to others, that true philosophy is a way of living, and requires being grounded in simplicity, having self-reliance, and taking deliberate actions that honor ways of simplicity. </note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <!-- done - First manuscript page. You need to include the <sourceDoc> element and its enclosed elements for each individual manuscript page you reference in your analysis. -->
+   <sourceDoc facs="#hm924v1n23" n="23"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your first image. -->
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/23/full/full/0/default.jpg"/><!-- done - This is just an example. Replace the url here with the url of the manuscript image. -->
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/23/728,6628,7117,1583/full/0/default.jpg"/><!-- done - This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
+            <seg>
+               <lb/>To the elevation and ennoblement
+               <lb/>of man kind what are called the luxuries &amp;
+               <lb/>many of the comforts of life are not only
+               <lb/>indispensable, but positive hindrances.
+
+               <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. -->In paragraph 19a of the first version of <hi rend="style(italics)">Walden</hi>, version A, Thoreau sets the stage for his ideology and philosophy behind the negative effects that luxuries and comforts have on people. He believes that luxury and comfort are "hindrances", and that we must take pleasure in the simple things in life, and not get caught up in materialistic goods and the want to always have more. Throughout all of <hi rend="style(italics)">Walden</hi>, Thoreau sends readers the message that less is more in life.</note>
+            </seg>
+         </zone> 
+         <zone>
+            <!-- To include additional zones on the same manuscript image, repeat the exact structure of the one above using the information relevant to each additional zone. -->
+         </zone> 
+      </surface>
+   </sourceDoc>
+   <!-- NA -  Second manuscript page. -->
+   <sourceDoc facs="#hm924v2n279" n="279"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your second image. -->
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/279/full/full/0/default.jpg"/><!-- NA - This is just an example. Replace the url here with the url of the manuscript image. -->
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/279/0,8423,8088,1893/full/0/default.jpg"/><!-- NA - This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
+            <seg>
+               <lb/>To the elevation<del>and</del>
+               <lb/><del>enoblement</del>, of mankind, <del>what are</del><add rend="pencil">so called</add> 
+               <lb/><del>called</del><add rend="pencil">most of</add> the luxuries<add rend="pencil">,</add> and many of the com-
+               <lb/>fort of life<add rend="pencil">,</add> are not only not in-
+               <lb/>dispensable, but positive hindrances.
+               </seg>
+
+            <seg>
+               <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. -->In version B of <hi rend="style(italics)">Walden</hi>, Thoreau makes changes, deletes, and edits many sentences from version A of paragraph 19a. In the start of paragraph 19a, Thoreau focuses mostly on the harmful effects of luxury and comfort, using lots of broad statements. Later in the paragraph, however, and in further paragraphs of "Economy" he goes on to define what a true philosopher is. </note></seg>
+       </zone>
+         <zone>
+            <!-- To include additional zones on the same manuscript image, repeat the exact structure of the one above using the information relevant to each additional zone. -->
+         </zone> 
+      </surface>
+   </sourceDoc>
+   <!--image 281 -->
+   <sourceDoc facs="#hm924v2n281" n="281"><!-- This is just an example xml:id and image number. Replace with the actual xml:id and image number of your first image. -->
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/281/full/full/0/default.jpg"/><!-- done - This is just an example. Replace the url here with the url of the manuscript image. -->
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/281/570,1019,7527,5429/full/0/default.jpg"/><!-- done - This is just an example. Replace the url with the url for the relevant region of your manuscript image. -->
+            <seg>
+               <lb/>Respect to luxuries and comforts<add rend="pencil">,</add> the
+               <lb/>wisest have ever lived a more simple
+               <lb/>and meager life than the poor. The
+               <lb/>ancient philosophers, <add rend="pencil">Chinese, Hindoo, Persian and Greek</add> were a class of
+               <lb/>men than which none have been poorer
+               <lb/>in <del>respect to</del> outward riches, none so
+               <lb/>rich in <del>respect to</del> inward. We know
+               <lb/>not much about them. It is <del>astonishing</del>
+               <lb/>that <add rend="underlined">we</add><del>can</del> know so
+               <lb/>much <add rend="pencil">of them</add>as we do. <add rend="pencil">The same is true of the most important reformers</add><del>that have lived</del> None can be
+               <lb/>an impartial or wise observor of human
+               <lb/>life but from the vantage
+               <lb/>ground of what <add rend="underlined">we</add> should call
+               <lb/>voluntary poverty. Of a life of
+               <lb/>luxury the fruit is luxury, whether
+               <lb/>in agriculture <add rend="pencil">,</add> or commerce, or
+               <lb/>literature or art.
+
+               <note type="interpretation"><!-- Replace the text content following this comment with a short interpretive note describing the material you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. -->In paragraph 19a of the first version of <hi rend="style(italics)">Walden</hi>, version A, Thoreau makes broad statements that are composed in awkward and complicated ways. In the first version of paragraph 19a, Thoreau writes "To the elevation and ennoblement of mankind what are called the luxuries &amp; many of the comforts of life are not only indispensable, but positive hindrances." In the second version, or version B, he goes on to revise this sentence to be "Most of the luxuries, and many of the so-called comforts of life, are not only not indispensable, but positive hindrances to the elevation of mankind." In making this change, along with others, Thoreau changes the focus of the sentence, and makes his argument clearer. By introducing luxuries and comforts early on in the sentence within version B, Thoreau's argument becomes more direct. When Thoreau originally wrote about ancient philosophers, he spoke very broadly, but in version B he adds in that the philsophers were "Chinese, Hindoo, Persian, and Greek", making a more detailed claim and section to the paragraph.</note>
+            </seg>
+         </zone> 
+         <zone>
+            <!-- To include additional zones on the same manuscript image, repeat the exact structure of the one above using the information relevant to each additional zone. -->
+         </zone> 
+      </surface>
+   </sourceDoc>
+   <!--end of image 281-->
+   <!-- For each additional manuscript page you wish to include. use <sourceDoc> and its enclosed elements (<surface>, <zone>, etc.) following exactly the same structure you see in the above examples. -->
+</TEI>
