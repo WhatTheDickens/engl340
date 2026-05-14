@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>RevisionstoWaldenbyHenryDavidThoreau:SpringParagraph11</title>
+            <editor xml:id="tori">Tori Webster</editor>
+            <editor xml:id="olivia">Olivia Kelly</editor>
+            <editor xml:id="brenna">Brenna Cumming</editor>
+            <editor xml:id="meredith">Meredith Geurtin</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Transcriptions from HM 924, the Manuscript of Walden Spring paragraph 11: </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Hungtington Library</repository>
+                  <idno>HM 924</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <author>Henry David Thoreau</author>
+                     <title>Walden</title>
+                     <bibl type="page" xml:id="hm924v1n233">233</bibl>
+                     <bibl type="page" xml:id="hm924v1n234">234</bibl>
+                  </msItem>
+               </msContents>
+            </msDesc>
+            <bibl>
+               The revisions made between version A of Spring 11 and its published counterpart establishes the idea that spring's emergence is focused, cyclical, and interconnected. Consequently, it highlights Thoreau's perspective and how he uses the season of spring to model how society functions like an ecosystem whose progress depends on recognizing natural patterns and choosing renewal, action, and cooperation.
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <sourceDoc facs="#hm924v1n233" n="233">
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/233/full/full/0/default.jpg"/>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/233/565,5391,7458,2795/full/0/default.jpg"/>    
+         <zone>
+         <seg> 
+              <note>In pencil, Thoreau has written "v end of sand foliage At length the sun's rays"</note>
+              <lb/> <del rend="pencil"> But we must not let</del>
+              <lb/><del rend="pencil">the winter go so early</del>. When
+              <lb/> the ground is <add rend="pencil"><del rend="pencil">completely</del> partically</add> bare of 
+              <lb/> snow and a few warm days have
+              <lb/> dried it's surface <add rend="pencil"> here and there </add> it is pleasant 
+              <lb/> to compare the <add rend="pencil"><del rend="pencil">faint</del> first</add> tender signs 
+              <lb/> of the infant year just peeping
+              <lb/> forth, with the stately beauty of 
+              <lb/> the withered vegetation which has 
+              <lb/> withstood the winter-
+              <note type="interpretation"> Thoreau's revisions make Spring feel more decisive and direct. Instead of a hesitant, cluttered transition, spring becomes a clear moment of renewal. This supports the reoccuring theme that spring models the kind of purposeful renewal humans must choose in society. Nature has a tendancy to reach a level of equilibrium and balance through its own processes. By removing the chaotic, tangled ecosystem catalog and replacing it with a more balanced alternative, the revisions Thoreau makes serve to further demonstrate his perspective on the human experience as a eventual harmonious ecosystem. </note>
+         </seg>
+         </zone>
+         <zone>
+         </zone> 
+         </surface>
+         </sourceDoc>
+
+   <sourceDoc facs="#hm924v1n233" n="233">
+      <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/233/full/full/0/default.jpg"/>
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/233/607,7422,7448,2459/full/0/default.jpg"/>
+            <seg>
+               <add> life ever lasting asters, goldenrods, and graceful wild grasses whose winter is more stately than their summer even, as if not till then their beauty was ripe </add> The various 
+              <lb/><add rend="pencil"><del rend="pencil">thistles</del> sedges</add> and  other strong stemmed 
+              <lb/> plants, which have not <del> even </del> yet
+              <lb/> sown their seeds- <del> and graceful </del>
+              <lb/> <del> reeds and rushes whose <add rend="pencil"> cotton grass cattail mulleins hardhack meadow-sweet. </add>winter is </del>
+              <lb/> more gay and stately than their 
+              <note> passage continues onto manuscript page 234 </note>
+
+         </seg>
+         </zone>
+         <zone>
+         </zone> 
+         </surface>
+         </sourceDoc>
+         <sourceDoc facs="#hm924v1n234" n="234">
+         <surface>
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/234/full/full/0/default.jpg"/>
+         <zone>
+            <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/234/512,504,7734,2053/full/0/default.jpg"/>
+            <seg>
+              <lb/> summer - as if not till then was 
+              <lb/> their beauty ripe. - Wild oats per
+              <lb/> chance and life - everlasting whose
+              <lb/> autumn has jsut arrived - Those un
+              <lb/> exhausted granaries of winter, whose
+              <lb/> seeds entertain the earliest birds. 
+              <note type= "interpretation"> In this section of Walden, Thoreau's revision shifts the tone from chaotic abundance to a coherent interdependence. This demonstrates the unique perspective of how society functions like an ecosystem, but also one whose patterns can be recognized and understood, not random or overwhelming. The version A manuscript places a lot of emphasis on the plants being "more stately" by repeating it throughout the passage. This is eventually cut down to being used only once in the published edition. Thoreau does not want the reader to see winter as a sign of death, but as a necessary stage in a cycle. This further supports the idea of stagnation, both in nature and a societal context, are a necessary step that leads to renewal and progress. </note>
+
+         </seg>
+         </zone>
+         </surface> 
+         </sourceDoc>
+</TEI>
