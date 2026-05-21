@@ -1,3 +1,3 @@
 # Literature and Literary Study in the Digital Age
 
-Spring 2026 version.
+Spring 2026 version of ENGL 340.
